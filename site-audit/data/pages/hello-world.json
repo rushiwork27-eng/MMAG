@@ -1,0 +1,1795 @@
+{
+ "url": "https://mmag.in/hello-world/",
+ "title": "Hello world! - MMAG",
+ "lang": "en-US",
+ "meta": [
+  {
+   "name": "origin-trial",
+   "content": "A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="
+  },
+  {
+   "name": "charset",
+   "content": "UTF-8"
+  },
+  {
+   "name": "viewport",
+   "content": "width=device-width, initial-scale=1.0, viewport-fit=cover"
+  },
+  {
+   "name": "description",
+   "content": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"
+  },
+  {
+   "name": "robots",
+   "content": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+  },
+  {
+   "name": "og:locale",
+   "content": "en_US"
+  },
+  {
+   "name": "og:type",
+   "content": "article"
+  },
+  {
+   "name": "og:title",
+   "content": "Hello world! - MMAG"
+  },
+  {
+   "name": "og:description",
+   "content": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"
+  },
+  {
+   "name": "og:url",
+   "content": "https://mmag.in/hello-world/"
+  },
+  {
+   "name": "og:site_name",
+   "content": "MMAG"
+  },
+  {
+   "name": "article:section",
+   "content": "Uncategorized"
+  },
+  {
+   "name": "article:published_time",
+   "content": "2026-01-05T12:01:18+00:00"
+  },
+  {
+   "name": "twitter:card",
+   "content": "summary_large_image"
+  },
+  {
+   "name": "twitter:title",
+   "content": "Hello world! - MMAG"
+  },
+  {
+   "name": "twitter:description",
+   "content": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"
+  },
+  {
+   "name": "twitter:label1",
+   "content": "Written by"
+  },
+  {
+   "name": "twitter:data1",
+   "content": "admin"
+  },
+  {
+   "name": "twitter:label2",
+   "content": "Time to read"
+  },
+  {
+   "name": "twitter:data2",
+   "content": "Less than a minute"
+  },
+  {
+   "name": "generator",
+   "content": "WordPress 7.1.5"
+  },
+  {
+   "name": "generator",
+   "content": "Elementor 4.2.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  },
+  {
+   "name": "msapplication-TileImage",
+   "content": "https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584-270x270.png"
+  }
+ ],
+ "headLinks": [
+  {
+   "rel": "canonical",
+   "href": "https://mmag.in/hello-world/",
+   "type": "",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/hello-world/feed/",
+   "type": "application/rss+xml",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmmag.in%2Fhello-world%2F",
+   "type": "application/json+oembed",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmmag.in%2Fhello-world%2F&format=xml",
+   "type": "text/xml+oembed",
+   "sizes": ""
+  },
+  {
+   "rel": "https://api.w.org/",
+   "href": "https://mmag.in/wp-json/",
+   "type": "",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/wp-json/wp/v2/posts/1",
+   "type": "application/json",
+   "sizes": ""
+  },
+  {
+   "rel": "EditURI",
+   "href": "https://mmag.in/xmlrpc.php?rsd",
+   "type": "application/rsd+xml",
+   "sizes": ""
+  },
+  {
+   "rel": "shortlink",
+   "href": "https://mmag.in/?p=1",
+   "type": "",
+   "sizes": ""
+  },
+  {
+   "rel": "icon",
+   "href": "https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584-32x32.png",
+   "type": "",
+   "sizes": "32x32"
+  },
+  {
+   "rel": "icon",
+   "href": "https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584-192x192.png",
+   "type": "",
+   "sizes": "192x192"
+  },
+  {
+   "rel": "apple-touch-icon",
+   "href": "https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584-180x180.png",
+   "type": "",
+   "sizes": ""
+  }
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Organization",
+     "@id": "https://mmag.in/#organization",
+     "name": "MMAG",
+     "url": "https://mmag.in",
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://mmag.in/#logo",
+      "url": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+      "contentUrl": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+      "caption": "MMAG",
+      "inLanguage": "en-US",
+      "width": "104",
+      "height": "128"
+     }
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://mmag.in/#website",
+     "url": "https://mmag.in",
+     "name": "MMAG",
+     "publisher": {
+      "@id": "https://mmag.in/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://mmag.in/hello-world/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://mmag.in",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://mmag.in/category/uncategorized/",
+        "name": "Uncategorized"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://mmag.in/hello-world/",
+        "name": "Hello world!"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://mmag.in/hello-world/#webpage",
+     "url": "https://mmag.in/hello-world/",
+     "name": "Hello world! - MMAG",
+     "datePublished": "2026-01-05T12:01:18+00:00",
+     "dateModified": "2026-01-05T12:01:18+00:00",
+     "isPartOf": {
+      "@id": "https://mmag.in/#website"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://mmag.in/hello-world/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://mmag.in/author/admin/",
+     "name": "admin",
+     "url": "https://mmag.in/author/admin/",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/984fe45a60a9c84f3fd2ee75d4a9d8502db8824dd53d80f204c895db8a99829a?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/984fe45a60a9c84f3fd2ee75d4a9d8502db8824dd53d80f204c895db8a99829a?s=96&amp;d=mm&amp;r=g",
+      "caption": "admin",
+      "inLanguage": "en-US"
+     },
+     "sameAs": [
+      "https://mmag.in"
+     ],
+     "worksFor": {
+      "@id": "https://mmag.in/#organization"
+     }
+    },
+    {
+     "@type": "BlogPosting",
+     "headline": "Hello world! - MMAG",
+     "datePublished": "2026-01-05T12:01:18+00:00",
+     "dateModified": "2026-01-05T12:01:18+00:00",
+     "articleSection": "Uncategorized",
+     "author": {
+      "@id": "https://mmag.in/author/admin/",
+      "name": "admin"
+     },
+     "publisher": {
+      "@id": "https://mmag.in/#organization"
+     },
+     "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+     "name": "Hello world! - MMAG",
+     "@id": "https://mmag.in/hello-world/#richSnippet",
+     "isPartOf": {
+      "@id": "https://mmag.in/hello-world/#webpage"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://mmag.in/hello-world/#webpage"
+     }
+    }
+   ]
+  }
+ ],
+ "headings": [
+  {
+   "level": "H1",
+   "text": "Hello world!",
+   "region": "other",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "One Response",
+   "region": "other",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "Leave a Reply",
+   "region": "other",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "Follow us on",
+   "region": "footer",
+   "hiddenOn": []
+  }
+ ],
+ "documents": [
+  {
+   "type": "header",
+   "id": "47",
+   "nested": false
+  },
+  {
+   "type": "footer",
+   "id": "619",
+   "nested": false
+  }
+ ],
+ "widgets": [
+  {
+   "type": "theme-site-logo.default",
+   "id": "5d0c7c2",
+   "cssId": null,
+   "classes": null,
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "alt": "",
+    "title": null,
+    "w": 104,
+    "h": 128,
+    "srcset": null
+   },
+   "href": "https://mmag.in/"
+  },
+  {
+   "type": "nav-menu.default",
+   "id": "78daf76",
+   "cssId": null,
+   "classes": "elementor-nav-menu__align-end elementor-nav-menu--dropdown-mobile_extra elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger",
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "text": "About Us",
+     "href": "https://mmag.in/about-us/",
+     "depth": 0
+    },
+    {
+     "text": "Case Studies",
+     "href": "https://mmag.in/case-studies/",
+     "depth": 0
+    },
+    {
+     "text": "Contact Us",
+     "href": "https://mmag.in/contact-us/",
+     "depth": 0
+    }
+   ]
+  },
+  {
+   "type": "button.default",
+   "id": "5b4d20c",
+   "cssId": null,
+   "classes": null,
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Download Portfoilo",
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "target": null,
+   "icon": null
+  },
+  {
+   "type": "theme-site-logo.default",
+   "id": "5d0c7c2",
+   "cssId": null,
+   "classes": null,
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "alt": "",
+    "title": null,
+    "w": 104,
+    "h": 128,
+    "srcset": null
+   },
+   "href": "https://mmag.in/"
+  },
+  {
+   "type": "nav-menu.default",
+   "id": "78daf76",
+   "cssId": null,
+   "classes": "elementor-nav-menu__align-end elementor-nav-menu--dropdown-mobile_extra elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger",
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "text": "About Us",
+     "href": "https://mmag.in/about-us/",
+     "depth": 0
+    },
+    {
+     "text": "Case Studies",
+     "href": "https://mmag.in/case-studies/",
+     "depth": 0
+    },
+    {
+     "text": "Contact Us",
+     "href": "https://mmag.in/contact-us/",
+     "depth": 0
+    }
+   ]
+  },
+  {
+   "type": "button.default",
+   "id": "5b4d20c",
+   "cssId": null,
+   "classes": null,
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Download Portfoilo",
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "target": null,
+   "icon": null
+  },
+  {
+   "type": "theme-site-logo.default",
+   "id": "9e1bb2c",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "alt": "",
+    "title": null,
+    "w": 104,
+    "h": 128,
+    "srcset": null
+   },
+   "href": "https://mmag.in/"
+  },
+  {
+   "type": "social-icons.default",
+   "id": "f3de2be",
+   "cssId": null,
+   "classes": "elementor-shape-rounded elementor-grid-0",
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "href": "https://mmag.in/hello-world/",
+     "label": "",
+     "icon": ""
+    },
+    {
+     "href": "tel:+91-8308852044",
+     "label": "",
+     "icon": ""
+    },
+    {
+     "href": "https://maps.app.goo.gl/wxVkVbBEvJV89RsL7",
+     "label": "",
+     "icon": ""
+    }
+   ]
+  },
+  {
+   "type": "icon-list.default",
+   "id": "7093c14",
+   "cssId": null,
+   "classes": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width",
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "text": "About Us",
+     "href": "https://mmag.in/about-us/",
+     "icon": null
+    },
+    {
+     "text": "Case Studies",
+     "href": "https://mmag.in/case-studies/",
+     "icon": null
+    },
+    {
+     "text": "Contact Us",
+     "href": "https://mmag.in/contact-us/",
+     "icon": null
+    }
+   ]
+  },
+  {
+   "type": "html.default",
+   "id": "f71046d",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "//You can replace offset value from here\nvar offset = 300\n$(window).on('load scroll', function(){\n if( $(window).scrollTop() > offset ){\n $('body').addClass('show')\n }else{\n $('body').removeClass('show')\n }\n})",
+   "html": "<div class=\"elementor-widget-container\"> <script src=\"https://code.jquery.com/jquery-3.6.0.min.js\"></script> <script> //You can replace offset value from here var offset = 300 $(window).on('load scroll', function(){ if( $(window).scrollTop() > offset ){ $('body').addClass('show') }else{ $('body').removeClass('show') } }) </script> </div>"
+  },
+  {
+   "type": "heading.default",
+   "id": "f78a47c",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H2",
+   "text": "Follow us on"
+  },
+  {
+   "type": "social-icons.default",
+   "id": "e7a7402",
+   "cssId": null,
+   "classes": "elementor-shape-rounded elementor-grid-0",
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "href": "https://www.instagram.com/mmag_india/",
+     "label": "Instagram",
+     "icon": "e-font-icon-svg e-fab-instagram"
+    },
+    {
+     "href": "https://www.linkedin.com/company/mmagindia",
+     "label": "Linkedin-in",
+     "icon": "e-font-icon-svg e-fab-linkedin-in"
+    },
+    {
+     "href": "https://www.youtube.com/@mmag2717",
+     "label": "Youtube",
+     "icon": "e-font-icon-svg e-fab-youtube"
+    },
+    {
+     "href": "https://www.facebook.com/mmag.india/",
+     "label": "Facebook-f",
+     "icon": "e-font-icon-svg e-fab-facebook-f"
+    }
+   ]
+  },
+  {
+   "type": "button.default",
+   "id": "3e99e15",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Download Portfolio",
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "target": null,
+   "icon": null
+  },
+  {
+   "type": "text-editor.default",
+   "id": "3ca112f",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Copyright © 2026 MMAG, All right reserved",
+   "html": "Copyright © 2026 MMAG, All right reserved"
+  },
+  {
+   "type": "button.default",
+   "id": "be918f4",
+   "cssId": null,
+   "classes": "elementor-fixed",
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "",
+   "href": "#",
+   "target": null,
+   "icon": ""
+  }
+ ],
+ "widgetCounts": {
+  "theme-site-logo.default": 3,
+  "nav-menu.default": 2,
+  "button.default": 4,
+  "social-icons.default": 2,
+  "icon-list.default": 1,
+  "html.default": 1,
+  "heading.default": 1,
+  "text-editor.default": 1
+ },
+ "sections": [
+  {
+   "doc": "header:47",
+   "index": 0,
+   "dataId": "885477a",
+   "cssId": "header",
+   "classes": "e-con-boxed elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects",
+   "hiddenOn": [],
+   "height": 82,
+   "background": [
+    {
+     "color": "rgb(255, 255, 255)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": "About Us\nCase Studies\nContact Us\nDownload Portfoilo"
+  },
+  {
+   "doc": "header:47",
+   "index": 1,
+   "dataId": "885477a",
+   "cssId": "header",
+   "classes": "e-con-boxed elementor-sticky elementor-sticky__spacer",
+   "hiddenOn": [],
+   "height": 82,
+   "background": [
+    {
+     "color": "rgb(255, 255, 255)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": "About Us\nCase Studies\nContact Us\n About Us\nCase Studies\nContact Us\n Download Portfoilo"
+  },
+  {
+   "doc": "footer:619",
+   "index": 0,
+   "dataId": "95773d6",
+   "cssId": null,
+   "classes": "e-grid e-con-boxed",
+   "hiddenOn": [],
+   "height": 261,
+   "background": [
+    {
+     "color": "rgb(255, 255, 255)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [
+    "H2: Follow us on"
+   ],
+   "text": "About Us\nCase Studies\nContact Us\nFollow us on\nInstagram\nLinkedin-in\nYoutube\nFacebook-f\nDownload Portfolio"
+  },
+  {
+   "doc": "footer:619",
+   "index": 1,
+   "dataId": "3cf3dae",
+   "cssId": null,
+   "classes": "e-con-boxed",
+   "hiddenOn": [],
+   "height": 52,
+   "background": [
+    {
+     "color": "rgb(84, 7, 139)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": "Copyright © 2026 MMAG, All right reserved"
+  }
+ ],
+ "links": [
+  {
+   "href": "https://mmag.in",
+   "abs": "https://mmag.in/",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "abs": "https://mmag.in/hello-world/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "text": "Download Portfoilo",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": true
+  },
+  {
+   "href": "https://mmag.in",
+   "abs": "https://mmag.in/",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "abs": "https://mmag.in/hello-world/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "text": "Download Portfoilo",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": true
+  },
+  {
+   "href": "https://wordpress.org/",
+   "abs": "https://wordpress.org/",
+   "text": "A WordPress Commenter",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": "ugc external nofollow",
+   "region": "other",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/hello-world/#comment-1",
+   "abs": "https://mmag.in/hello-world/#comment-1",
+   "text": "January 5, 2026 at 12:01 pm",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "other",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://gravatar.com/",
+   "abs": "https://gravatar.com/",
+   "text": "Gravatar",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": "ugc",
+   "region": "other",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "#comment-1",
+   "abs": "https://mmag.in/hello-world/#comment-1",
+   "text": "Reply",
+   "aria": "Reply to A WordPress Commenter",
+   "title": null,
+   "target": null,
+   "rel": "nofollow",
+   "region": "other",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "/hello-world/#respond",
+   "abs": "https://mmag.in/hello-world/#respond",
+   "text": "Cancel reply",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": "nofollow",
+   "region": "other",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in",
+   "abs": "https://mmag.in/",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "",
+   "abs": "https://mmag.in/hello-world/",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "tel:+91-8308852044",
+   "abs": "tel:+91-8308852044",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://maps.app.goo.gl/wxVkVbBEvJV89RsL7",
+   "abs": "https://maps.app.goo.gl/wxVkVbBEvJV89RsL7",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://www.instagram.com/mmag_india/",
+   "abs": "https://www.instagram.com/mmag_india/",
+   "text": "Instagram",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://www.linkedin.com/company/mmagindia",
+   "abs": "https://www.linkedin.com/company/mmagindia",
+   "text": "Linkedin-in",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://www.youtube.com/@mmag2717",
+   "abs": "https://www.youtube.com/@mmag2717",
+   "text": "Youtube",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://www.facebook.com/mmag.india/",
+   "abs": "https://www.facebook.com/mmag.india/",
+   "text": "Facebook-f",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "abs": "https://mmag.in/hello-world/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "text": "Download Portfolio",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": true
+  },
+  {
+   "href": "#",
+   "abs": "https://mmag.in/hello-world/#",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": true
+  }
+ ],
+ "images": [
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "alt": "",
+   "title": null,
+   "w": 104,
+   "h": 128,
+   "srcset": null,
+   "region": "header",
+   "widget": "theme-site-logo.default",
+   "displayed": [
+    50,
+    62
+   ],
+   "loading": null
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "alt": "",
+   "title": null,
+   "w": 104,
+   "h": 128,
+   "srcset": null,
+   "region": "header",
+   "widget": "theme-site-logo.default",
+   "displayed": [
+    50,
+    62
+   ],
+   "loading": null
+  },
+  {
+   "src": "https://secure.gravatar.com/avatar/8e1606e6fba450a9362af43874c1b2dfad34c782e33d0a51e1b46c18a2a567dd?s=42&d=mm&r=g",
+   "currentSrc": "https://secure.gravatar.com/avatar/8e1606e6fba450a9362af43874c1b2dfad34c782e33d0a51e1b46c18a2a567dd?s=42&d=mm&r=g",
+   "alt": "",
+   "title": null,
+   "w": 42,
+   "h": 42,
+   "srcset": "https://secure.gravatar.com/avatar/8e1606e6fba450a9362af43874c1b2dfad34c782e33d0a51e1b46c18a2a567dd?s=84&d=mm&r=g 2x",
+   "region": "other",
+   "widget": null,
+   "displayed": [
+    42,
+    42
+   ],
+   "loading": null
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "alt": "",
+   "title": null,
+   "w": 104,
+   "h": 128,
+   "srcset": null,
+   "region": "footer",
+   "widget": "theme-site-logo.default",
+   "displayed": [
+    104,
+    128
+   ],
+   "loading": null
+  }
+ ],
+ "backgroundImages": [],
+ "inlineSvgCount": 13,
+ "videos": [],
+ "iframes": [],
+ "lottie": [],
+ "forms": [
+  {
+   "name": null,
+   "id": "commentform",
+   "action": "https://mmag.in/wp-comments-post.php",
+   "method": "post",
+   "region": "other",
+   "fields": [
+    {
+     "tag": "textarea",
+     "type": "textarea",
+     "name": "comment",
+     "id": "comment",
+     "label": "Comment *",
+     "placeholder": null,
+     "required": true,
+     "pattern": null,
+     "width": null
+    },
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "author",
+     "id": "author",
+     "label": "Name *",
+     "placeholder": null,
+     "required": true,
+     "pattern": null,
+     "width": null
+    },
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "email",
+     "id": "email",
+     "label": "Email *",
+     "placeholder": null,
+     "required": true,
+     "pattern": null,
+     "width": null
+    },
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "url",
+     "id": "url",
+     "label": "Website",
+     "placeholder": null,
+     "required": false,
+     "pattern": null,
+     "width": null
+    },
+    {
+     "tag": "input",
+     "type": "checkbox",
+     "name": "wp-comment-cookies-consent",
+     "id": "wp-comment-cookies-consent",
+     "label": "Save my name, email, and website in this browser for the next time I comment.",
+     "placeholder": null,
+     "required": false,
+     "pattern": null,
+     "width": null
+    },
+    {
+     "tag": "input",
+     "type": "submit",
+     "name": "submit",
+     "id": "submit",
+     "label": null,
+     "placeholder": null,
+     "required": false,
+     "pattern": null,
+     "width": null
+    }
+   ],
+   "submit": [
+    "Post Comment"
+   ],
+   "hasRecaptcha": false
+  }
+ ],
+ "buttons": [
+  {
+   "text": "",
+   "aria": "Menu Toggle",
+   "cls": "elementor-menu-toggle",
+   "region": "header",
+   "visible": false
+  },
+  {
+   "text": "",
+   "aria": "Menu Toggle",
+   "cls": "elementor-menu-toggle",
+   "region": "header",
+   "visible": false
+  }
+ ],
+ "components": {
+  "swipers": [],
+  "jetTabs": [],
+  "nTabs": [],
+  "accordions": [],
+  "popupsInDom": [],
+  "popupTriggers": [
+   {
+    "text": "Download Portfoilo",
+    "href": "#elementor-action:action=popup:open&settings=eyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ=="
+   },
+   {
+    "text": "Download Portfoilo",
+    "href": "#elementor-action:action=popup:open&settings=eyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ=="
+   },
+   {
+    "text": "Download Portfolio",
+    "href": "#elementor-action:action=popup:open&settings=eyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ=="
+   }
+  ],
+  "floatingButtons": [],
+  "customIds": [
+   "global-styles-inline-css",
+   "widget-heading-css",
+   "widget-form-css",
+   "e-popup-css",
+   "widget-image-css",
+   "widget-nav-menu-css",
+   "e-sticky-css",
+   "widget-social-icons-css",
+   "e-apple-webkit-css",
+   "widget-icon-list-css",
+   "font-awesome-5-all-css",
+   "font-awesome-4-shim-css",
+   "jquery-core-js",
+   "jquery-migrate-js",
+   "font-awesome-4-shim-js",
+   "header",
+   "menu-1-78daf76",
+   "menu-2-78daf76",
+   "header",
+   "menu-1-78daf76",
+   "menu-2-78daf76",
+   "content",
+   "comments",
+   "comment-1",
+   "div-comment-1",
+   "respond",
+   "reply-title",
+   "cancel-comment-reply-link",
+   "commentform",
+   "email-notes",
+   "comment",
+   "author",
+   "email",
+   "url",
+   "submit",
+   "comment_post_ID",
+   "comment_parent",
+   "clip0_3396_287",
+   "jquery-ui-core-js-before",
+   "jquery-ui-core-js",
+   "smartmenus-js",
+   "e-sticky-js",
+   "pa-elements-handler-js",
+   "comment-reply-js",
+   "pro-elements-handlers-js"
+  ],
+  "stickyElements": [
+   {
+    "dataId": "885477a",
+    "sticky": "top",
+    "on": [
+     "widescreen",
+     "desktop",
+     "laptop",
+     "tablet_extra",
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "offset": 0,
+    "effectsOffset": 0
+   },
+   {
+    "dataId": "885477a",
+    "sticky": "top",
+    "on": [
+     "widescreen",
+     "desktop",
+     "laptop",
+     "tablet_extra",
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "offset": 0,
+    "effectsOffset": 0
+   }
+  ],
+  "animatedCount": 0
+ },
+ "scripts": [
+  "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+  "https://mmag.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+  "https://mmag.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.2.4",
+  "https://www.googletagmanager.com/gtag/js?id=G-9WNY7XF2FT",
+  "https://mmag.in/wp-includes/js/wp-emoji-release.min.js?ver=7.1.5",
+  "https://code.jquery.com/jquery-3.6.0.min.js",
+  "https://mmag.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+  "https://mmag.in/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+  "https://mmag.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js?ver=4.11.103",
+  "https://mmag.in/wp-includes/js/comment-reply.min.js?ver=7.1.5",
+  "https://www.google.com/recaptcha/api.js?render=explicit&ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.2",
+  "https://mmag.in/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+  "https://mmag.in/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.2.3",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/intl-tel-input/js/intlTelInput.js?ver=1.7.4",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/js/country-code-script.min.js?ver=1.7.4",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/js/country-code-script-hello.min.js?ver=1.7.4",
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/MotionPathPlugin.min.js",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3"
+ ],
+ "inlineScripts": [
+  "\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9WNY7XF2FT');\n",
+  "\n//You can replace offset value from here\nvar offset = 300\n$(window).on('load scroll', function(){\n\t\n\tif( $(window).scrollTop() > offset ){\n        $('body').addClass('show')\n\t}else{\n        $('body').removeClass('show')\n\t}\n})\n",
+  "\n\t\t\t\t( () => {\n\t\t\t\t\tconst lazyloadRunObserver = () => {\n\t\t\t\t\t\tconst lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );\n\t\t\t\t\t\tconst lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {\n\t\t\t\t\t\t\tentries.forEach( ( entry ) => {\n\t\t\t\t\t\t\t\tif ( entry.isIntersecting ) {\n\t\t\t\t\t\t\t\t\tlet lazyloadBackground = entry.target;\n\t\t\t\t\t\t\t\t\tif( lazyloadBackground ) {\n\t\t\t\t\t\t\t\t\t\tlazyloadBackground.classList.add( 'e-lazyloaded' );\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tlazyloadBackgroundObserver.unobserve( entry.target );\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t});\n\t\t\t\t\t\t}, { rootMargin: '200px 0px 200px 0px' } );\n\t\t\t\t\t\tlazyloadBackgrounds.forEach( ( lazyloadBackground ) => {\n\t\t\t\t\t\t\tlazyloadBackgroundObserver.observe( lazyloadBackground );\n\t\t\t\t\t\t} );\n\t\t\t\t\t};\n\t\t\t\t\tconst events = [\n\t\t\t\t\t\t'DOMContentLoaded',\n\t\t\t\t\t\t'elementor/lazyload/observe',\n\t\t\t\t\t];\n\t\t\t\t\tevents.forEach( ( event ) => {\n\t\t\t\t\t\tdocument.addEventListener( event, lazyloadRunObserver );\n\t\t\t\t\t} );\n\t\t\t\t} )();\n\t\t\t",
+  "\njQuery.uiBackCompat = true;\n//# sourceURL=jquery-ui-core-js-before\n",
+  "\nvar PremiumSettings = {\"ajaxurl\":\"https://mmag.in/wp-admin/admin-ajax.php\",\"nonce\":\"e01d38a7cf\"};\n//# sourceURL=elementor-frontend-js-extra\n",
+  "\nvar elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Share on Facebook\",\"shareOnX\":\"Share on X\",\"pinIt\":\"Pin it\",\"download\":\"Download\",\"downloadImage\":\"Download image\",\"fullscreen\":\"Fullscreen\",\"zoom\":\"Zoom\",\"share\":\"Share\",\"playVideo\":\"Play Video\",\"previous\":\"Previous\",\"next\":\"Next\",\"close\":\"Close\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"Mobile Portrait\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"Mobile Landscape\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":true},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":true},\"laptop\":{\"label\":\"Laptop\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":true},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":true}},\"hasCustomBreakpoints\":true},\"version\":\"4.2.4\",\"is_static\":false,\"experimentalFeatures\":{\"e_font_icon_svg\":true,\"additional_custom_breakpoints\":true,\"container\":true,\"e_panel_promotions\":true,\"theme_builder_v2\":true,\"e_pro_free_trial_popup\":true,\"nested-elements\":true,\"global_classes_should_enforce_capabilities\":true,\"e_opt_in_v4_page\":true,\"e_interactions\":true,\"e_widget_creation\":true,\"import-export-customization\":true,\"e_pro_atomic_form\":true,\"e_pro_collection_loop\":true,\"mega-menu\":true,\"e_pro_variables\":true,\"e_pro_interactions\":true},\"urls\":{\"assets\":\"https:\\/\\/mmag.in\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/mmag.in\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/mmag.in\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"d03f545291\",\"atomicFormsSendForm\":\"af8f8f5ed8\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"active_breakpoints\":[\"viewport_mobile\",\"viewport_mobile_extra\",\"viewport_tablet\",\"viewport_tablet_extra\",\"viewport_laptop\",\"viewport_widescreen\"],\"body_background_background\":\"classic\",\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\"},\"post\":{\"id\":1,\"title\":\"Hello%20world%21%20-%20MMAG\",\"excerpt\":\"\",\"featuredImage\":false}};\n//# sourceURL=elementor-frontend-js-before\n",
+  "\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n//# sourceURL=wp-i18n-js-after\n",
+  "\nvar ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/mmag.in\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"f30b74e649\",\"urls\":{\"assets\":\"https:\\/\\/mmag.in\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/mmag.in\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":true},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"en_US\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/mmag.in\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}};\n//# sourceURL=elementor-pro-frontend-js-before\n",
+  "\nvar JetTabsSettings = {\"ajaxurl\":\"https://mmag.in/wp-admin/admin-ajax.php\",\"isMobile\":\"false\",\"templateApiUrl\":\"https://mmag.in/wp-json/jet-tabs-api/v1/elementor-template\",\"devMode\":\"false\"};\n//# sourceURL=jet-tabs-frontend-js-extra\n",
+  "\nvar CCFEFCustomData = {\"pluginDir\":\"https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/\",\"errorMap\":[\"The phone number you entered is not valid. Please check the format and try again.\",\"The country code you entered is not recognized. Please ensure it is correct and try again.\",\"The phone number you entered is too short. Please enter a complete phone number, including the country code.\",\"The phone number you entered is too long. Please ensure it is in the correct format and try again.\",\"The phone number you entered is not valid. Please check the format and try again.\"]};\n//# sourceURL=ccfef-country-code-script-js-extra\n",
+  "\nvar CCFEFCustomData = {\"pluginDir\":\"https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/\",\"errorMap\":[\"The phone number you entered is not valid. Please check the format and try again.\",\"The country code you entered is not recognized. Please ensure it is correct and try again.\",\"The phone number you entered is too short. Please enter a complete phone number, including the country code.\",\"The phone number you entered is too long. Please ensure it is in the correct format and try again.\",\"The phone number you entered is not valid. Please check the format and try again.\"]};\n//# sourceURL=ccfef-country-code-script-hello-js-extra\n",
+  "\n{\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://mmag.in/wp-includes/js/wp-emoji-release.min.js?ver=7.1.5\"}}\n",
+  "\n/*! This file is auto-generated */\nvar e=\"script#wp-emoji-settings\",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error(\"Element missing: \"+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,\"wpEmojiSettingsSupports\"),o=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!r(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,r){let a;const s=(a=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),o=(s.textBaseline=\"top\",s.font=\"600 32px Arial\",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",r=new Blob([e],{type:\"text/javascript\"});const a=new Worker(URL.createObjectURL(r),{name:\"wpTestEmojiSupports\"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],\"flag\"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});\n//# sourceURL=https://mmag.in/wp-includes/js/wp-emoji-loader.min.js\n",
+  "\nfunction initProcessOnlyAnimation() {\n\n  // ? HARD STOP ON MOBILE\n  if (window.matchMedia(\"(max-width: 767px)\").matches) {\n    return;\n  }\n\n  // Wait until GSAP plugins are available\n  if (typeof MotionPathPlugin === \"undefined\" || typeof ScrollTrigger === \"undefined\") {\n    setTimeout(initProcessOnlyAnimation, 300);\n    return;\n  }\n\n  gsap.registerPlugin(ScrollTrigger, MotionPathPlugin);\n\n  ScrollTrigger.matchMedia({\n\n    /* =======================\n       ✅ DESKTOP ONLY\n       ======================= */\n    \"(min-width: 768px)\": function () {\n\n      const section = document.querySelector(\"#process-section\");\n      const circles = document.querySelectorAll(\".moving-circle\");\n      const targets = document.querySelectorAll(\"#process-section .target-position\");\n\n      if (!section || circles.length === 0) return;\n\n      const tl = gsap.timeline({\n        scrollTrigger: {\n          trigger: section,\n          start: \"top top\",\n          end: \"+=200%\",\n          scrub: 1.5,\n          pin: true,\n          pinSpacing: true,\n          invalidateOnRefresh: true,\n// \t\t\t\t\tonLeave: () => {\n//       // ? swap balls\n//       gsap.set(\"#process-ball\", {\n//         opacity: 0,\n//         visibility: \"hidden\"\n//       });\n\n//       gsap.set(\"#build-ball\", {\n//     clearProps: \"transform\"\n//   });\n\n//   // Then apply scale\n//   gsap.set(\"#build-ball\", {\n//     opacity: 1,\n//     visibility: \"visible\",\n//     scale: 0.7\n//   });\n//   }\n\t\t\t\t\t// ? scrolling UP back into the pin\n//     onEnterBack: () => {\n// //       gsap.set(\"#build-ball\", {\n// //         opacity: 0,\n// //         visibility: \"hidden\",\n// //         scale: 1\n// //       });\n\n// //       gsap.set(\"#process-ball\", {\n// //         opacity: 1,\n// //         visibility: \"visible\"\n// //       });\n//     }\n        }\n      });\n\n      // INITIAL STATE\n      gsap.set(circles, { y: 0, opacity: 0 });\n\n      // PHASE 0: DROP\n      tl.to(circles, {\n        y: 120,\n        opacity: 1,\n        duration: 0.5,\n        ease: \"power1.out\"\n      });\n\t\t\ttl.to(\"#process-ball\", {\n  opacity: 0,\n  duration: 1,\n  ease: \"power1.out\"\n}, 0.5);\n\n      // PHASE 1: SPREAD TO TARGETS\n      circles.forEach((circle, i) => {\n        const target = targets[i];\n        if (!target) return;\n\n        const p = MotionPathPlugin.getRelativePosition(\n          circle,\n          target,\n          [0.5, 0.5],\n          [0.5, 0.5]\n        );\n\n        tl.to(circle, {\n          x: p.x,\n          y: p.y,\n          duration: 1.2,\n          ease: \"power2.inOut\"\n        }, 0.6);\n      });\n\n//       // PHASE 3.5: 4th BALL EXIT\n//       const fourthCircle = circles[3];\n//       if (fourthCircle) {\n//         tl.to(fourthCircle, {\n//           y: \"+=300\",\n//           scale: 0.6,\n//           opacity: 0,\n//           duration: 2,\n//           ease: \"power3.in\"\n//         }, \">\");\n//       }\n\n//       // FINAL HOLD\n      tl.to({}, { duration: 1 });\n// \t\t\t//       // ? NEW PHASE 2: MOVE DOWN TO CENTER\n// tl.to(circles, {\n//   y: \"+=400\",\n//   duration: 1,\n//   ease: \"power2.inOut\"\n// }, \">+=0.2\");\n    },\n\t\t\n\t\t\n\n    /* =======================\n       ❌ MOBILE ONLY\n       ======================= */\n    \"(max-width: 767px)\": function () {\n\n      // Kill everything GSAP-related\n      ScrollTrigger.getAll().forEach(st => st.kill());\n      gsap.killTweensOf(\"*\");\n      gsap.globalTimeline.clear();\n\n      // Reset animated elements (VERY IMPORTANT)\n      gsap.set(\n        \"#process-section, .moving-circle, .target-position\",\n        { clearProps: \"all\" }\n      );\n    }\n\n  });\n}\n\n// Run on page load\nwindow.addEventListener(\"load\", initProcessOnlyAnimation);\n"
+ ],
+ "inlineStyles": [
+  {
+   "id": "wp-img-auto-sizes-contain-inline-css",
+   "css": "\nimg:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css */\n"
+  },
+  {
+   "id": "wp-emoji-styles-inline-css",
+   "css": "\n\n\timg.wp-smiley, img.emoji {\n\t\tdisplay: inline !important;\n\t\tborder: none !important;\n\t\tbox-shadow: none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin: 0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none !important;\n\t\tpadding: 0 !important;\n\t}\n/*# sourceURL=wp-emoji-styles-inline-css */\n"
+  },
+  {
+   "id": "global-styles-inline-css",
+   "css": "\n:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}\n:root :where(.wp-block-icon svg){width: 24px;}\n:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}\n/*# sourceURL=global-styles-inline-css */\n"
+  },
+  {
+   "id": "elementor-pro-custom-fonts-inline-css",
+   "css": "\n@font-face {\n\tfont-family: 'Satoshi';\n\tfont-display: auto;\n\tsrc: url('https://mmag.in/wp-content/uploads/2026/01/Satoshi-Variable.ttf') format('truetype');\n}\n\n/*# sourceURL=elementor-pro-custom-fonts-inline-css */\n"
+  },
+  {
+   "id": "",
+   "css": "\n\t\t\t\t.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t}\n\t\t\t\t@media screen and (max-height: 1024px) {\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t@media screen and (max-height: 640px) {\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t"
+  },
+  {
+   "id": "wp-custom-css",
+   "css": "\n#hero-ball {\n    position: absolute;\n    will-change: transform, z-index;\n}\n.hero-pin {\n/*     will-change: padding; */\n    overflow: hidden !important;\n    height: 100vh !important;\n\n}\n.frame{\n    position: relative;\n    z-index: 10;\n}\n\n\n.floating-container {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    pointer-events: none;\n    z-index: 10;\n}\n\n.moving-circle {\n    position: absolute;\n    width: 25px;  \n    height: 25px;\n    background-color: #F3C01F; \n    border-radius: 50%;\n    top: 0;\n    left: 50%;\n    transform: translate(-50%, 0);\n    opacity: 1;\n\tz-index: 100000;\n}\n\n#process-section {\n    position: relative;\n    overflow: visible !important;\n\tz-index: 10;\n}\n\n.process-card {\n    position: relative;\n}\n\n.card-video {\n    transform: translate(-50%, -50%);\n    width: 100%; /* Or the specific size of your SVG icon */\n    height: auto;\n    opacity: 0;\n    transition: opacity 0.3s ease;\n    z-index: 5;\n}\n\n/* 1. Prevent parent containers from collapsing during pinning */\n/* .elementor-section-wrap, \n.elementor-inner {\n    overflow: visible !important;\n} */\n\n/* 2. Ensure the pinned section has a stable height */\n#process-section {\n    min-height: 100vh;\n    display: block !important; /* Flex can sometimes cause jumping with pin */\n}\n\n/* 3. Smooth out the scroll behavior */\n/* html {\n    scroll-behavior: auto !important; /* Smooth scroll conflicts with scrub/pin */\n} */\n\n\n/* .ball-build {\n  position: absolute;\n  width: 25px;  \n    height: 25px;\n    background-color: #F3C01F; \n    border-radius: 50%;\n  top: 20px;\n  left: 50%;\n  z-index: 999;\n}\n.build {\n    position: relative;\n}\n\n/* .build .target-position {\n  opacity: 0;\n  transform: scale(1);\n  will-change: opacity;\n} */\n\n\n\n/* .build-content-block {\n  opacity: 0;\n  transform: translateY(20px);\n} */ */\n\n\n\n.e-n-menu-title-container {\n  position: relative;\n  padding-top: 32px !important;\n}\n.e-n-menu-title-container::before {\n  content: \"\";\n  position: absolute;\n  top: 0;\n  left: 50%;\n  width: 32px;\n  height: 32px;\n  background-size: contain;\n  background-repeat: no-repeat;\n  background-position: center;\n  transform: translate(-50%, -32px);\n  opacity: 0;\n  transition: all 0.3s ease;\n  pointer-events: none;\n}\n.e-n-menu-title-container:hover::before,\n.e-n-menu-item.current-menu-item .e-n-menu-title-container::before {\n  opacity: 1;\n}\n/* #about_page .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/about-icon.svg\");\n} */\n#service_page .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/Service.svg\");\n}\n#client_page .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/Objects-2.svg\");\n}\n#work_page .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/Group-1171275584-1.svg\");\n}\n#case_study .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/Objects-3.svg\");\n}\n\nspan.purp-color{\n\tcolor:#54078b;\n}\n\n"
+  }
+ ],
+ "stylesheets": [
+  "https://mmag.in/wp-includes/css/dist/block-library/style.min.css?ver=7.1.5",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1795219554",
+  "https://mmag.in/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.2.2",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-3691.css?ver=1795219554",
+  "https://mmag.in/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1795219554",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1795219554",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1795219554",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-6.css?ver=1795219554",
+  "https://mmag.in/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.3",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.11.103",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-3962.css?ver=1795219554",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-47.css?ver=1795219557",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-619.css?ver=1795219557",
+  "https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/intl-tel-input/css/intlTelInput.min.css?ver=1.7.4",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/css/country-code-style.min.css?ver=1.7.4"
+ ],
+ "styleTally": {
+  "colors": {
+   "bg rgb(255, 255, 255)": 10,
+   "text rgb(23, 23, 23)": 6,
+   "bg rgb(84, 7, 139)": 4,
+   "text rgb(255, 255, 255)": 3,
+   "text rgb(92, 92, 92)": 14,
+   "text rgb(84, 7, 139)": 12,
+   "border rgb(118, 118, 118)": 4,
+   "border rgb(0, 0, 0)": 1,
+   "border rgb(84, 7, 139)": 1,
+   "bg rgba(2, 1, 1, 0)": 4
+  },
+  "fonts": {
+   "Satoshi 600": 7,
+   "Plus Jakarta Sans 500": 3,
+   "Satoshi 400": 24,
+   "Plus Jakarta Sans 600": 1
+  },
+  "sizes": {
+   "18px/26px 600 A": 3,
+   "16px/26px 600 SPAN": 1,
+   "54px/64px 500 H1": 1,
+   "18px/26px 400 P": 2,
+   "40px/48px 500 H2": 2,
+   "18px/26px 400 A": 4,
+   "18px/26px 400 SPAN": 7,
+   "18px/26px 400 LABEL": 5,
+   "20px/30px 600 SPAN": 3,
+   "20px/28px 600 H2": 1,
+   "25px/25px 400 SPAN": 4,
+   "16px/26px 400 SPAN": 1,
+   "16px/22px 400 DIV": 1
+  }
+ },
+ "cssVars": {
+  "--e-global-color-primary": "#171717",
+  "--e-global-color-secondary": "#1E1E1E",
+  "--e-global-color-text": "#1E1E1E",
+  "--e-global-color-accent": "#F3C01F",
+  "--e-global-color-4bf31b2": "#FFFFFF",
+  "--e-global-color-d7f37db": "#54078B",
+  "--e-global-color-fc7d875": "#5C5C5C",
+  "--e-global-color-54c8b59": "#F3C01F",
+  "--e-global-color-2f440a9": "#F0F0EF",
+  "--e-global-color-7b61cf3": "#7B7B7B",
+  "--e-global-typography-primary-font-family": "\"Plus Jakarta Sans\"",
+  "--e-global-typography-primary-font-size": "54px",
+  "--e-global-typography-primary-font-weight": "500",
+  "--e-global-typography-primary-line-height": "64px",
+  "--e-global-typography-secondary-font-family": "\"Plus Jakarta Sans\"",
+  "--e-global-typography-secondary-font-size": "40px",
+  "--e-global-typography-secondary-font-weight": "500",
+  "--e-global-typography-secondary-line-height": "48px",
+  "--e-global-typography-text-font-family": "\"Satoshi\"",
+  "--e-global-typography-text-font-size": "18px",
+  "--e-global-typography-text-line-height": "26px",
+  "--e-global-typography-accent-font-family": "\"Satoshi\"",
+  "--e-global-typography-accent-font-size": "16px",
+  "--e-global-typography-4a940e7-font-size": "32px",
+  "--e-global-typography-4a940e7-font-weight": "500",
+  "--e-global-typography-4a940e7-line-height": "40px",
+  "--e-global-typography-f88c025-font-size": "20px",
+  "--e-global-typography-f88c025-font-weight": "600",
+  "--e-global-typography-f88c025-line-height": "28px",
+  "--e-global-typography-7fb5109-font-size": "16px",
+  "--e-global-typography-7fb5109-line-height": "22px",
+  "--e-global-typography-daefeaa-font-size": "16px",
+  "--e-global-typography-daefeaa-font-weight": "500",
+  "--e-global-typography-daefeaa-line-height": "22px",
+  "--e-global-typography-3c2369c-font-size": "18px",
+  "--e-global-typography-3c2369c-font-weight": "500",
+  "--e-global-typography-3c2369c-line-height": "24px",
+  "--e-global-typography-c8fcd12-font-size": "24px",
+  "--e-global-typography-c8fcd12-line-height": "32px",
+  "--e-global-typography-512b38a-font-size": "24px",
+  "--e-global-typography-512b38a-font-weight": "500",
+  "--e-global-typography-512b38a-line-height": "32px",
+  "--e-global-typography-ecb9a45-font-size": "32px",
+  "--e-global-typography-ecb9a45-font-weight": "600",
+  "--e-global-typography-ecb9a45-line-height": "40px"
+ },
+ "pageHeight": 1432,
+ "bodyText": "About Us\nCase Studies\nContact Us\nDownload Portfoilo\nHello world!\nWelcome to WordPress. This is your first post. Edit or delete it, then start writing!\nOne Response\n A WordPress Commenter says:\nJanuary 5, 2026 at 12:01 pm\nHi, this is a comment.\nTo get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.\nCommenter avatars come from Gravatar.\nReply\nLeave a Reply\nYour email address will not be published. Required fields are marked *\nComment * \nName * \nEmail * \nWebsite \n Save my name, email, and website in this browser for the next time I comment.\nAbout Us\nCase Studies\nContact Us\nFollow us on\nInstagram\nLinkedin-in\nYoutube\nFacebook-f\nDownload Portfolio\nCopyright © 2026 MMAG, All right reserved",
+ "slug": "hello-world",
+ "httpStatus": 200,
+ "finalUrl": "https://mmag.in/hello-world/",
+ "redirectsFrom": [],
+ "timing": {
+  "ttfb": 2465,
+  "domContentLoaded": 2913,
+  "load": 3039,
+  "transferKB": 27
+ },
+ "interactions": [
+  {
+   "action": "hover-nav",
+   "text": "About Us",
+   "sub": [],
+   "color": "rgb(83, 7, 138)"
+  },
+  {
+   "action": "hover-nav",
+   "text": "Case Studies",
+   "sub": [],
+   "color": "rgb(83, 7, 138)"
+  },
+  {
+   "action": "hover-nav",
+   "text": "Contact Us",
+   "sub": [],
+   "color": "rgb(83, 7, 138)"
+  },
+  {
+   "action": "hover-button",
+   "before": {
+    "text": "Download Portfoilo",
+    "bg": "rgb(84, 7, 139)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(255, 255, 255) 0px",
+    "radius": "8px",
+    "padding": "10px 20px",
+    "font": "Satoshi 16px 600",
+    "transition": "0.3s"
+   },
+   "after": {
+    "bg": "rgb(84, 7, 139)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(255, 255, 255)",
+    "transform": "none"
+   }
+  },
+  {
+   "action": "hover-button",
+   "before": {
+    "text": "Download Portfolio",
+    "bg": "rgb(84, 7, 139)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(255, 255, 255) 0px",
+    "radius": "8px",
+    "padding": "8px 32px",
+    "font": "Satoshi 16px 400",
+    "transition": "0.3s"
+   },
+   "after": {
+    "bg": "rgb(84, 7, 139)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(255, 255, 255)",
+    "transform": "none"
+   }
+  },
+  {
+   "action": "hover-button",
+   "before": {
+    "text": "",
+    "bg": "rgba(2, 1, 1, 0)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(255, 255, 255) 0px",
+    "radius": "8px",
+    "padding": "0px",
+    "font": "Satoshi 50px 400",
+    "transition": "0.3s"
+   },
+   "after": {
+    "bg": "rgba(2, 1, 1, 0)",
+    "color": "rgb(255, 255, 255)",
+    "border": "rgb(255, 255, 255)",
+    "transform": "none"
+   }
+  },
+  {
+   "action": "click-trigger",
+   "label": "Download Portfoilo",
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "decodedSettings": {
+    "id": "3691",
+    "toggle": false
+   },
+   "opened": {
+    "kind": "popup",
+    "id": "elementor-popup-modal-3691",
+    "text": "Download Portfolio\n\nEnter your details for quick access to our work\n\nName\nEmail\nPhone Number\nIndia +91\n+91\nOrganization\nInquiry\nInquiry\nWebsite Development\nE-Commerce Marketing\nBranding\nSocial Media Marketing\nSearch Engine Optimization\nLead Generation\nEmail Marketing\nApp Development\nOthers\nMessage\nDownload Portfolio",
+    "media": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdH-SUtAAAAALmMs_wQyxsEH2QpdZxq8l3iIc6q&co=aHR0cHM6Ly9tbWFnLmluOjQ0Mw..&hl=en&type=v3&v=4i3aN5wAweL7i3ADI7BSX4B-&size=invisible&badge=inline&sa=Form&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=8ysz7ejwyr0h"
+   },
+   "scrollY": 532
+  },
+  {
+   "action": "click-trigger",
+   "label": "Download Portfolio",
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "decodedSettings": {
+    "id": "3691",
+    "toggle": false
+   },
+   "opened": {
+    "kind": "popup",
+    "id": "elementor-popup-modal-3691",
+    "text": "Download Portfolio\n\nEnter your details for quick access to our work\n\nName\nEmail\nPhone Number\nIndia +91\n+91\nOrganization\nInquiry\nInquiry\nWebsite Development\nE-Commerce Marketing\nBranding\nSocial Media Marketing\nSearch Engine Optimization\nLead Generation\nEmail Marketing\nApp Development\nOthers\nMessage\nDownload Portfolio",
+    "media": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdH-SUtAAAAALmMs_wQyxsEH2QpdZxq8l3iIc6q&co=aHR0cHM6Ly9tbWFnLmluOjQ0Mw..&hl=en&type=v3&v=4i3aN5wAweL7i3ADI7BSX4B-&size=invisible&badge=inline&sa=Form&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=spkkrnm4sozi"
+   },
+   "scrollY": 532
+  },
+  {
+   "action": "click-trigger",
+   "label": null,
+   "href": "#",
+   "decodedSettings": null,
+   "opened": null,
+   "scrollY": 0
+  },
+  {
+   "action": "form-validation-check (not submitted)",
+   "name": null,
+   "valid": false,
+   "invalid": [
+    {
+     "name": "comment",
+     "msg": "Please fill out this field."
+    },
+    {
+     "name": "author",
+     "msg": "Please fill out this field."
+    },
+    {
+     "name": "email",
+     "msg": "Please fill out this field."
+    }
+   ]
+  },
+  {
+   "action": "scroll-behaviour",
+   "headerAtTop": {
+    "position": "fixed",
+    "bg": "rgb(255, 255, 255)",
+    "height": 81.53125,
+    "top": 0
+   },
+   "headerAfterScroll1600": {
+    "position": "fixed",
+    "bg": "rgb(255, 255, 255)",
+    "height": 81.53125,
+    "top": 0,
+    "stickyActive": true,
+    "shadow": "rgba(0, 0, 0, 0.14) 0px 6px 15px 0px"
+   },
+   "cursorImage": null,
+   "progressLine": null,
+   "backToTop": null
+  }
+ ],
+ "network": {
+  "requests": 83,
+  "totalKB": 86,
+  "failed": [],
+  "thirdPartyHosts": [
+   "fonts.googleapis.com",
+   "code.jquery.com",
+   "www.google.com",
+   "www.googletagmanager.com",
+   "cdnjs.cloudflare.com",
+   "secure.gravatar.com",
+   "fonts.gstatic.com",
+   "www.gstatic.com",
+   "",
+   "www.google-analytics.com"
+  ]
+ },
+ "consoleErrors": [
+  "requestStorageAccess: Permission denied.",
+  "requestStorageAccess: Permission denied."
+ ],
+ "mobileInteractions": [
+  {
+   "action": "mobile-menu-open",
+   "items": [
+    {
+     "text": "About Us",
+     "href": "https://mmag.in/about-us/"
+    },
+    {
+     "text": "Case Studies",
+     "href": "https://mmag.in/case-studies/"
+    },
+    {
+     "text": "Contact Us",
+     "href": "https://mmag.in/contact-us/"
+    }
+   ]
+  }
+ ],
+ "mobileHeadings": [
+  "H1: Hello world!",
+  "H2: One Response",
+  "H2: Leave a Reply",
+  "H2: Follow us on"
+ ],
+ "mobileHorizontalOverflow": false,
+ "widgetSection": {
+  "5d0c7c2": "header:47#1",
+  "78daf76": "header:47#1",
+  "5b4d20c": "header:47#1",
+  "9e1bb2c": "footer:619#0",
+  "f3de2be": "footer:619#0",
+  "7093c14": "footer:619#0",
+  "f71046d": "footer:619#0",
+  "f78a47c": "footer:619#0",
+  "e7a7402": "footer:619#0",
+  "3e99e15": "footer:619#0",
+  "3ca112f": "footer:619#1",
+  "be918f4": "footer:619#1"
+ }
+}

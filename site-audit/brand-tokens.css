@@ -1,0 +1,37 @@
+/* MMAG brand tokens, extracted from mmag.in (Elementor Global Kit + measured styles).
+   Kit values are exact. The scale steps marked "derived" come from hard-coded page colours (see brand-theme.md). */
+:root {
+  /* Brand */
+  --mmag-purple-900: #3A0561;   /* derived: case-study cards/overlays */
+  --mmag-purple-600: #54078B;   /* kit d7f37db: buttons, links, headline, footer bar */
+  --mmag-purple-100: #E7DAF2;   /* derived: light text/tint on purple */
+  --mmag-yellow-500: #F3C01F;   /* kit accent: logo, CTA, dots, back-to-top */
+  --mmag-amber-500:  #F4B400;   /* derived: case-study labels. Merge into yellow-500 in redesign */
+
+  /* Neutrals */
+  --mmag-ink-900: #171717;      /* kit primary: headings */
+  --mmag-ink-800: #1E1E1E;      /* kit secondary/text */
+  --mmag-ink-600: #5C5C5C;      /* kit fc7d875: body text */
+  --mmag-ink-500: #7B7B7B;      /* kit 7b61cf3: muted */
+  --mmag-surface-0: #FFFFFF;    /* kit 4bf31b2 */
+  --mmag-surface-50: #FAF9F5;   /* kit body background (warm off-white) */
+  --mmag-surface-100: #F0F0EF;  /* kit 2f440a9: grey sections */
+  --mmag-border: #E5E2EC;       /* derived: card borders */
+
+  /* Typography */
+  --mmag-font-heading: "Plus Jakarta Sans", system-ui, sans-serif;
+  --mmag-font-body: "Satoshi", system-ui, sans-serif;
+  --mmag-h1: 54px;  --mmag-h1-lh: 64px;   /* mobile 36/44 */
+  --mmag-h2: 40px;  --mmag-h2-lh: 48px;   /* mobile 32/48 */
+  --mmag-hero: 82px; --mmag-hero-lh: 95px; /* home hero, weight 800, uppercase */
+  --mmag-body: 18px; --mmag-body-lh: 26px; /* mobile 16/24 */
+  --mmag-button: 16px;
+
+  /* Shape and layout */
+  --mmag-radius-sm: 8px;        /* buttons */
+  --mmag-radius-md: 15px;       /* popups, cards */
+  --mmag-radius-pill: 100px;    /* pill buttons, chips */
+  --mmag-container: 1280px;
+  --mmag-gap: 20px;
+  --mmag-shadow-header: 0 6px 15px rgba(0, 0, 0, .14);
+}

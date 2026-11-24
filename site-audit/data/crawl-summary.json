@@ -1,0 +1,298 @@
+{
+ "crawledAt": "2026-11-24T12:23:13.696Z",
+ "pages": [
+  {
+   "url": "https://mmag.in/",
+   "slug": "home",
+   "status": 200,
+   "title": "Home - Creative Agency In Pune",
+   "h1": [
+    "Home New",
+    "WHERE BRANDS\nGAIN MOMENTUM"
+   ],
+   "words": 1171,
+   "widgets": 192,
+   "images": 38,
+   "videos": 8,
+   "links": 84,
+   "forms": 0,
+   "height": 7277,
+   "consoleErrors": 4,
+   "ms": 45570
+  },
+  {
+   "url": "https://mmag.in/case-studies/",
+   "slug": "case-studies",
+   "status": 200,
+   "title": "Case Studies - MMAG",
+   "h1": [
+    "Case Studies"
+   ],
+   "words": 342,
+   "widgets": 116,
+   "images": 3,
+   "videos": 0,
+   "links": 127,
+   "forms": 0,
+   "height": 2239,
+   "consoleErrors": 2,
+   "ms": 31314
+  },
+  {
+   "url": "https://mmag.in/case-studies/education-childrens-enrichment/",
+   "slug": "case-studies__education-childrens-enrichment",
+   "status": 200,
+   "title": "Education - Children’s Enrichment - MMAG",
+   "h1": [
+    "Education – Children’s Enrichment"
+   ],
+   "words": 326,
+   "widgets": 48,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 2820,
+   "consoleErrors": 2,
+   "ms": 27284
+  },
+  {
+   "url": "https://mmag.in/case-studies/e-commerce-fair-trade-goods-b2b/",
+   "slug": "case-studies__e-commerce-fair-trade-goods-b2b",
+   "status": 200,
+   "title": "E-commerce - Fair-Trade Goods (B2B) - MMAG",
+   "h1": [
+    "E-commerce – Fair-Trade Goods (B2B)"
+   ],
+   "words": 287,
+   "widgets": 46,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 2742,
+   "consoleErrors": 2,
+   "ms": 27861
+  },
+  {
+   "url": "https://mmag.in/case-studies/b2b-engineering-manufacturing/",
+   "slug": "case-studies__b2b-engineering-manufacturing",
+   "status": 200,
+   "title": "B2B Engineering / Manufacturing - MMAG",
+   "h1": [
+    "B2B Engineering / Manufacturing"
+   ],
+   "words": 224,
+   "widgets": 44,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 2476,
+   "consoleErrors": 2,
+   "ms": 28128
+  },
+  {
+   "url": "https://mmag.in/case-studies/real-estate-luxury/",
+   "slug": "case-studies__real-estate-luxury",
+   "status": 200,
+   "title": "Real Estate - Luxury - MMAG",
+   "h1": [
+    "Real Estate – Luxury"
+   ],
+   "words": 267,
+   "widgets": 46,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 2748,
+   "consoleErrors": 2,
+   "ms": 28134
+  },
+  {
+   "url": "https://mmag.in/case-studies/education/",
+   "slug": "case-studies__education",
+   "status": 200,
+   "title": "Education - MMAG",
+   "h1": [
+    "Education"
+   ],
+   "words": 240,
+   "widgets": 48,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 2574,
+   "consoleErrors": 2,
+   "ms": 27231
+  },
+  {
+   "url": "https://mmag.in/case-studies/fmcg-d2c-food/",
+   "slug": "case-studies__fmcg-d2c-food",
+   "status": 200,
+   "title": "FMCG - D2C Food - MMAG",
+   "h1": [
+    "FMCG – D2C Food"
+   ],
+   "words": 276,
+   "widgets": 47,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 2588,
+   "consoleErrors": 2,
+   "ms": 27767
+  },
+  {
+   "url": "https://mmag.in/case-studies/retail-florist/",
+   "slug": "case-studies__retail-florist",
+   "status": 200,
+   "title": "Retail Florist - MMAG",
+   "h1": [
+    "Retail Florist"
+   ],
+   "words": 280,
+   "widgets": 45,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 2668,
+   "consoleErrors": 2,
+   "ms": 27614
+  },
+  {
+   "url": "https://mmag.in/under-development/",
+   "slug": "under-development",
+   "status": 200,
+   "title": "Under Development - MMAG",
+   "h1": [
+    "Under Development",
+    "WEBSITE\nUNDER DEVELOPMENT"
+   ],
+   "words": 3,
+   "widgets": 16,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 900,
+   "consoleErrors": 0,
+   "ms": 13836
+  },
+  {
+   "url": "https://mmag.in/website-portfolio/",
+   "slug": "website-portfolio",
+   "status": 200,
+   "title": "Website Portfolio - MMAG",
+   "h1": [
+    "Website Portfolio"
+   ],
+   "words": 1,
+   "widgets": 100,
+   "images": 87,
+   "videos": 0,
+   "links": 49,
+   "forms": 0,
+   "height": 27913,
+   "consoleErrors": 0,
+   "ms": 31553
+  },
+  {
+   "url": "https://mmag.in/mmag-portfolio/",
+   "slug": "mmag-portfolio",
+   "status": 200,
+   "title": "Mmag Portfolio - MMAG",
+   "h1": [
+    "Mmag Portfolio"
+   ],
+   "words": 1,
+   "widgets": 131,
+   "images": 118,
+   "videos": 0,
+   "links": 58,
+   "forms": 0,
+   "height": 55501,
+   "consoleErrors": 0,
+   "ms": 51378
+  },
+  {
+   "url": "https://mmag.in/about-us/",
+   "slug": "about-us",
+   "status": 200,
+   "title": "About Us - MMAG",
+   "h1": [
+    "About Us",
+    "We're not a vendor.\nWe're your growth partner."
+   ],
+   "words": 273,
+   "widgets": 58,
+   "images": 11,
+   "videos": 0,
+   "links": 31,
+   "forms": 0,
+   "height": 4737,
+   "consoleErrors": 2,
+   "ms": 38463
+  },
+  {
+   "url": "https://mmag.in/contact-us/",
+   "slug": "contact-us",
+   "status": 200,
+   "title": "Contact Us - MMAG",
+   "h1": [
+    "Contact Us",
+    "CONTACT US"
+   ],
+   "words": 66,
+   "widgets": 20,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 1,
+   "height": 1460,
+   "consoleErrors": 3,
+   "ms": 31548
+  },
+  {
+   "url": "https://mmag.in/hello-world/",
+   "slug": "hello-world",
+   "status": 200,
+   "title": "Hello world! - MMAG",
+   "h1": [
+    "Hello world!"
+   ],
+   "words": 124,
+   "widgets": 15,
+   "images": 4,
+   "videos": 0,
+   "links": 34,
+   "forms": 1,
+   "height": 1432,
+   "consoleErrors": 2,
+   "ms": 26132
+  },
+  {
+   "url": "https://mmag.in/this-page-does-not-exist-404-check/",
+   "slug": "this-page-does-not-exist-404-check",
+   "status": 404,
+   "title": "Page Not Found - MMAG",
+   "h1": [
+    "The page can’t be found."
+   ],
+   "words": 44,
+   "widgets": 15,
+   "images": 3,
+   "videos": 0,
+   "links": 29,
+   "forms": 0,
+   "height": 900,
+   "consoleErrors": 3,
+   "ms": 23496
+  }
+ ],
+ "notCrawled": []
+}

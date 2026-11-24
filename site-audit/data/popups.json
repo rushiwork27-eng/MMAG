@@ -1,0 +1,208 @@
+{
+ "3691": {
+  "trigger": "Download Portfoilo",
+  "foundOn": "https://mmag.in/about-us/",
+  "modalId": "elementor-popup-modal-3691",
+  "text": "Download Portfolio\n\nEnter your details for quick access to our work\n\nName\nEmail\nPhone Number\nIndia +91\n+91\nOrganization\nInquiry\nInquiry\nWebsite Development\nE-Commerce Marketing\nBranding\nSocial Media Marketing\nSearch Engine Optimization\nLead Generation\nEmail Marketing\nApp Development\nOthers\nMessage\nDownload Portfolio",
+  "headings": [
+   "H2: Download Portfolio"
+  ],
+  "forms": [
+   {
+    "name": "Download Portfolio Popup",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "form_fields[name]",
+      "label": "Name",
+      "placeholder": "Name",
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "email",
+      "name": "form_fields[email]",
+      "label": "Email",
+      "placeholder": "Email",
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "",
+      "label": "Phone Number",
+      "placeholder": "Search",
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "tel",
+      "name": "form_fields[field_ad8b800]",
+      "label": "Phone Number",
+      "placeholder": "Phone Number",
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "form_fields[field_5db25e9]",
+      "label": "Organization",
+      "placeholder": "Organization",
+      "required": true
+     },
+     {
+      "tag": "select",
+      "type": "select-one",
+      "name": "form_fields[field_5d34cd5]",
+      "label": "Inquiry",
+      "placeholder": null,
+      "required": true,
+      "options": [
+       "Inquiry",
+       "Website Development",
+       "E-Commerce Marketing",
+       "Branding",
+       "Social Media Marketing",
+       "Search Engine Optimization",
+       "Lead Generation",
+       "Email Marketing",
+       "App Development",
+       "Others"
+      ]
+     },
+     {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "form_fields[message]",
+      "label": "Message",
+      "placeholder": "Message",
+      "required": false
+     },
+     {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "g-recaptcha-response",
+      "label": null,
+      "placeholder": null,
+      "required": false
+     }
+    ],
+    "submit": [
+     "Download Portfolio"
+    ],
+    "recaptcha": true
+   }
+  ],
+  "images": [],
+  "size": [
+   640,
+   604
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "radius": "15px"
+ },
+ "3962": {
+  "trigger": "Schedule A Call",
+  "foundOn": "https://mmag.in/",
+  "modalId": "elementor-popup-modal-3962",
+  "text": "Schedule A Call\nName\nEmail\nPhone Number\nIndia +91\n+91\nOrganization\nInquiry\nInquiry\nWebsite Development\nE-Commerce Marketing\nBranding\nSocial Media Marketing\nSearch Engine Optimization\nLead Generation\nEmail Marketing\nApp Development\nOthers\nMessage\nSchedule A Call",
+  "headings": [
+   "H2: Schedule A Call"
+  ],
+  "forms": [
+   {
+    "name": "Schedule A Call Popup",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "form_fields[name]",
+      "label": "Name",
+      "placeholder": "Name",
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "email",
+      "name": "form_fields[email]",
+      "label": "Email",
+      "placeholder": "Email",
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "",
+      "label": "Phone Number",
+      "placeholder": "Search",
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "tel",
+      "name": "form_fields[field_ad8b800]",
+      "label": "Phone Number",
+      "placeholder": "Phone Number",
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "form_fields[field_5db25e9]",
+      "label": "Organization",
+      "placeholder": "Organization",
+      "required": true
+     },
+     {
+      "tag": "select",
+      "type": "select-one",
+      "name": "form_fields[field_5d34cd5]",
+      "label": "Inquiry",
+      "placeholder": null,
+      "required": true,
+      "options": [
+       "Inquiry",
+       "Website Development",
+       "E-Commerce Marketing",
+       "Branding",
+       "Social Media Marketing",
+       "Search Engine Optimization",
+       "Lead Generation",
+       "Email Marketing",
+       "App Development",
+       "Others"
+      ]
+     },
+     {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "form_fields[message]",
+      "label": "Message",
+      "placeholder": "Message",
+      "required": false
+     },
+     {
+      "tag": "textarea",
+      "type": "textarea",
+      "name": "g-recaptcha-response",
+      "label": null,
+      "placeholder": null,
+      "required": false
+     }
+    ],
+    "submit": [
+     "Schedule A Call"
+    ],
+    "recaptcha": true
+   }
+  ],
+  "images": [],
+  "size": [
+   640,
+   521
+  ],
+  "bg": "rgb(255, 255, 255)",
+  "radius": "15px"
+ }
+}

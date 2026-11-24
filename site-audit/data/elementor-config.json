@@ -1,0 +1,64 @@
+{
+ "activeBreakpoints": {
+  "mobile": {
+   "label": "Mobile Portrait",
+   "value": 767,
+   "default_value": 767,
+   "direction": "max",
+   "is_enabled": true
+  },
+  "mobile_extra": {
+   "label": "Mobile Landscape",
+   "value": 880,
+   "default_value": 880,
+   "direction": "max",
+   "is_enabled": true
+  },
+  "tablet": {
+   "label": "Tablet Portrait",
+   "value": 1024,
+   "default_value": 1024,
+   "direction": "max",
+   "is_enabled": true
+  },
+  "tablet_extra": {
+   "label": "Tablet Landscape",
+   "value": 1200,
+   "default_value": 1200,
+   "direction": "max",
+   "is_enabled": true
+  },
+  "laptop": {
+   "label": "Laptop",
+   "value": 1366,
+   "default_value": 1366,
+   "direction": "max",
+   "is_enabled": true
+  },
+  "widescreen": {
+   "label": "Widescreen",
+   "value": 2400,
+   "default_value": 2400,
+   "direction": "min",
+   "is_enabled": true
+  }
+ },
+ "kit": {
+  "active_breakpoints": [
+   "viewport_mobile",
+   "viewport_mobile_extra",
+   "viewport_tablet",
+   "viewport_tablet_extra",
+   "viewport_laptop",
+   "viewport_widescreen"
+  ],
+  "body_background_background": "classic",
+  "global_image_lightbox": "yes",
+  "lightbox_enable_counter": "yes",
+  "lightbox_enable_fullscreen": "yes",
+  "lightbox_enable_zoom": "yes",
+  "lightbox_enable_share": "yes",
+  "lightbox_title_src": "title",
+  "lightbox_description_src": "description"
+ }
+}

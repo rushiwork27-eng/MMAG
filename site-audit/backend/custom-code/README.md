@@ -1,0 +1,13 @@
+# Custom code index
+
+| File | Type | Pages | First line |
+|---|---|---|---|
+| [01-js.js](01-js.js) | js | home | `document.addEventListener('mousemove', function(e) { const cursorImg = document.getElement` |
+| [02-js.js](02-js.js) | js | home | `document.addEventListener("scroll", function () { const line = document.getElementById("pr` |
+| [03-js.js](03-js.js) | js | about-us, case-studies, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist, contact-us, hello-world, home, mmag-portfolio, this-page-does-not-exist-404-check, under-development, website-portfolio | `//You can replace offset value from here var offset = 300 $(window).on('load scroll', func` |
+| [04-js.js](04-js.js) | js | about-us, case-studies, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist, contact-us, hello-world, home, mmag-portfolio, this-page-does-not-exist-404-check, under-development, website-portfolio | `function initProcessOnlyAnimation() { // ? HARD STOP ON MOBILE if (window.matchMedia("(max` |
+| [05-js.js](05-js.js) | js | home | `gsap.registerPlugin(ScrollTrigger, MotionPathPlugin); ScrollTrigger.matchMedia({ /* ======` |
+| [06-html-widget.html](06-html-widget.html) | html-widget | home | `<div class="elementor-widget-container"> <style> #cursor-image{ position: absolute; top: 0` |
+| [07-html-widget.html](07-html-widget.html) | html-widget | home | `<div class="elementor-widget-container"> <div class="timeline-wrapper"> <!-- SVG LINE --> ` |
+| [08-html-widget.html](08-html-widget.html) | html-widget | about-us, case-studies, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist, contact-us, hello-world, home, mmag-portfolio, this-page-does-not-exist-404-check, under-development, website-portfolio | `<div class="elementor-widget-container"> <script src="https://code.jquery.com/jquery-3.6.0` |
+| [09-html-widget.html](09-html-widget.html) | html-widget | about-us | `<div class="elementor-widget-container"> <script src="https://fast.wistia.com/player.js" a` |
