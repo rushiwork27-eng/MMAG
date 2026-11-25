@@ -1,0 +1,22 @@
+url,title,text_captured_12oct_zip,seen_12oct_zip,captured_24nov_crawl,in_sitemap_now,status_now,content_doc
+https://mmag.in/,Home - Creative Agency In Pune,yes,yes,yes,yes,200,content/home.md
+https://mmag.in/about-us/,About Us - MMAG,yes,yes,yes,yes,200,content/about-us.md
+https://mmag.in/case-studies/,Case Studies - MMAG,,yes,yes,yes,200,content/case-studies.md
+https://mmag.in/case-studies/b2b-engineering-manufacturing/,B2B Engineering / Manufacturing - MMAG,yes,yes,yes,yes,200,content/case-studies__b2b-engineering-manufacturing.md
+https://mmag.in/case-studies/e-commerce-fair-trade-goods-b2b/,E-commerce - Fair-Trade Goods (B2B) - MMAG,yes,yes,yes,yes,200,content/case-studies__e-commerce-fair-trade-goods-b2b.md
+https://mmag.in/case-studies/education-childrens-enrichment/,Education - Children’s Enrichment - MMAG,yes,yes,yes,yes,200,content/case-studies__education-childrens-enrichment.md
+https://mmag.in/case-studies/education/,Education - MMAG,yes,yes,yes,yes,200,content/case-studies__education.md
+https://mmag.in/case-studies/equinext/,(linked only),,yes,,no,404,
+https://mmag.in/case-studies/fmcg-d2c-food/,FMCG - D2C Food - MMAG,yes,yes,yes,yes,200,content/case-studies__fmcg-d2c-food.md
+https://mmag.in/case-studies/real-estate-luxury/,Real Estate - Luxury - MMAG,yes,yes,yes,yes,200,content/case-studies__real-estate-luxury.md
+https://mmag.in/case-studies/retail-florist/,Retail Florist - MMAG,yes,yes,yes,yes,200,content/case-studies__retail-florist.md
+https://mmag.in/case-studies/yash-industries/,(linked only),,yes,,no,404,
+https://mmag.in/case-studies/zendale/,Zendale - MMAG,yes,yes,,no,404,content/removed__case-studies__zendale.md
+https://mmag.in/contact-us/,Contact Us - MMAG,yes,yes,yes,yes,200,content/contact-us.md
+https://mmag.in/hello-world/,Hello world! - MMAG,,,yes,no,200,content/hello-world.md
+https://mmag.in/mmag-portfolio/,Mmag Portfolio - MMAG,,,yes,yes,200,content/mmag-portfolio.md
+https://mmag.in/this-page-does-not-exist-404-check/,Page Not Found - MMAG,,,yes,no,404,content/this-page-does-not-exist-404-check.md
+https://mmag.in/under-development/,Under Development - MMAG,,,yes,yes,200,content/under-development.md
+https://mmag.in/website-portfolio/,Website Portfolio - MMAG,,,yes,yes,200,content/website-portfolio.md
+https://mmag.in/work/,(linked only),,yes,,no,404,
+https://mmag.in/work/zendale/,Zendale - MMAG,yes,yes,,no,404,content/removed__work__zendale.md

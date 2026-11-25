@@ -1,0 +1,112 @@
+type,url,pages,seen_12oct_zip,seen_24nov_crawl
+script,https://browser.sentry-cdn.com/9.6.1/bundle.min.js,/about-us/,yes,yes
+script,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/MotionPathPlugin.min.js,18 pages,yes,yes
+script,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js,18 pages,yes,yes
+script,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js,18 pages,yes,yes
+script,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js,/,yes,yes
+script,https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js,/,yes,yes
+script,https://code.jquery.com/jquery-2.2.4.min.js,/work/zendale/,yes,
+script,https://code.jquery.com/jquery-3.6.0.min.js,18 pages,yes,yes
+script,https://fast.wistia.com/embed/d4ec2qgftb.js,/about-us/,yes,yes
+script,https://fast.wistia.com/player.js,/about-us/,yes,yes
+script,https://maps.googleapis.com/maps/api/js,/contact-us/,yes,
+script,https://maps.gstatic.com/maps-api-v3/embed/js/66/8b/init_embed.js,/contact-us/,yes,
+script,https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/intl-tel-input/js/intlTelInput.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/js/country-code-script-hello.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/js/country-code-script.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor/assets/js/frontend.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js,9 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js,/ /mmag-portfolio/ /website-portfolio/,yes,yes
+script,https://mmag.in/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js,/ /about-us/,yes,yes
+script,https://mmag.in/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-content/themes/hello-elementor/assets/js/hello-frontend.js,12 pages,yes,
+script,https://mmag.in/wp-content/uploads/premium-addons-elementor/pafe-793.js,/,yes,
+script,https://mmag.in/wp-includes/js/comment-reply.min.js,/hello-world/,,yes
+script,https://mmag.in/wp-includes/js/dist/hooks.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-includes/js/dist/i18n.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-includes/js/jquery/jquery-migrate.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-includes/js/jquery/jquery.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-includes/js/jquery/ui/core.min.js,18 pages,yes,yes
+script,https://mmag.in/wp-includes/js/wp-emoji-release.min.js,16 pages,,yes
+script,https://www.google.com/recaptcha/api.js,18 pages,yes,yes
+script,https://www.googletagmanager.com/gtag/js,18 pages,yes,yes
+script,https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js,16 pages,,yes
+script,https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__en.js,9 pages,yes,
+script,https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__en.js,/ /case-studies/e-commerce-fair-trade-goods-b2b/ /case-studies/retail-florist/,yes,
+script,https://www.youtube.com/iframe_api,/about-us/,yes,yes
+script,https://www.youtube.com/s/player/5203c085/www-widgetapi.vflset/www-widgetapi.js,/about-us/,yes,
+script,https://www.youtube.com/s/player/7f755914/www-widgetapi.vflset/www-widgetapi.js,/about-us/,,yes
+stylesheet,https://fonts.googleapis.com/css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/css/country-code-style.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/intl-tel-input/css/intlTelInput.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css,/ /about-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css,/about-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css,/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css,/ /mmag-portfolio/ /website-portfolio/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css,/ /about-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/widget-counter.min.css,9 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/widget-divider.min.css,/ /case-studies/ /case-studies/zendale/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css,/contact-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/widget-heading.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css,/ /about-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/widget-image.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/css/widget-video.min.css,/ /about-us/ /website-portfolio/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css,/about-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css,/ /about-us/ /work/zendale/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css,10 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css,12 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css,/work/zendale/,yes,
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css,/ /about-us/ /mmag-portfolio/ /website-portfolio/,yes,yes
+stylesheet,https://mmag.in/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/themes/hello-elementor/assets/css/header-footer.css,12 pages,yes,
+stylesheet,https://mmag.in/wp-content/themes/hello-elementor/assets/css/reset.css,12 pages,yes,
+stylesheet,https://mmag.in/wp-content/themes/hello-elementor/assets/css/theme.css,12 pages,yes,
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/custom-apple-webkit.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/custom-frontend.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/custom-lightbox.min.css,/ /mmag-portfolio/ /website-portfolio/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css,10 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/custom-widget-image-box.min.css,/ /about-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-1657.css,/about-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-1924.css,/case-studies/zendale/,yes,
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-2921.css,/contact-us/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-3167.css,/case-studies/,,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-3691.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-3850.css,/mmag-portfolio/,,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-3853.css,/mmag-portfolio/,,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-3858.css,/website-portfolio/,,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-3864.css,/website-portfolio/,,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-3928.css,/under-development/,,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-3962.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-4257.css,/work/zendale/,yes,
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-4605.css,/case-studies/retail-florist/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-47.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-4769.css,/case-studies/fmcg-d2c-food/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-4795.css,/case-studies/education/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-4809.css,/case-studies/education-childrens-enrichment/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-4821.css,/case-studies/real-estate-luxury/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-4830.css,/case-studies/b2b-engineering-manufacturing/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-4841.css,/case-studies/e-commerce-fair-trade-goods-b2b/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-5041.css,/ /case-studies/,,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-6.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-619.css,18 pages,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/elementor/css/post-793.css,/,yes,yes
+stylesheet,https://mmag.in/wp-content/uploads/premium-addons-elementor/pafe-793.css,/,yes,
+stylesheet,https://mmag.in/wp-includes/css/dist/block-library/style.min.css,/hello-world/ /this-page-does-not-exist-404-check/,,yes

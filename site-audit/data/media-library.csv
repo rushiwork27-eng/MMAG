@@ -1,378 +1,400 @@
-id,date,title,alt_text,caption,mime_type,width,height,filesize_kb,attached_to_post,source_url,local_path
-48,2026-01-05,MMAG-scaled,,,image/webp,2075,2560,29.7,6,https://mmag.in/wp-content/uploads/2026/01/MMAG-scaled-1.webp,assets/media/2026/01/MMAG-scaled-1.webp
-144,2026-01-06,fonnts.com-Aeonik-Bold,,fonnts.com-Aeonik-Bold,application/x-font-ttf,,,97.9,,https://mmag.in/wp-content/uploads/2026/01/fonnts.com-Aeonik-Bold.ttf,
-164,2026-01-06,3D Cubes,,3D Cubes,application/json,,,12.4,,https://mmag.in/wp-content/uploads/2026/01/3D-Cubes.json,assets/media/2026/01/3D-Cubes.json
-216,2026-01-06,image9,,,image/jpeg,1614,1052,341.7,,https://mmag.in/wp-content/uploads/2026/01/image9.jpg,assets/media/2026/01/image9.jpg
-244,2026-01-06,first-bg,,https://mmag.in/wp-content/uploads/2026/01/first-bg.mp4,video/mp4,1920,1080,7310.6,,https://mmag.in/wp-content/uploads/2026/01/first-bg.mp4,
-423,2026-01-08,network-video,,https://mmag.in/wp-content/uploads/2026/01/network-video.mp4,video/mp4,1920,1080,4388.3,,https://mmag.in/wp-content/uploads/2026/01/network-video.mp4,
-604,2026-01-08,calculator-ellipse-small,,,image/svg+xml,470,470,0.4,,https://mmag.in/wp-content/uploads/2026/01/calculator-ellipse-small.svg,assets/media/2026/01/calculator-ellipse-small.svg
-605,2026-01-08,calculator-ellipse,,,image/svg+xml,470,470,0.4,,https://mmag.in/wp-content/uploads/2026/01/calculator-ellipse.svg,assets/media/2026/01/calculator-ellipse.svg
-649,2026-01-12,exit-quickSale,,,image/webp,1110,1440,55.7,,https://mmag.in/wp-content/uploads/2026/01/exit-quickSale.webp,assets/media/2026/01/exit-quickSale.webp
-657,2026-01-12,exit-rampUp,,,image/webp,1110,1440,43.7,,https://mmag.in/wp-content/uploads/2026/01/exit-rampUp.webp,assets/media/2026/01/exit-rampUp.webp
-658,2026-01-12,exit-longRun,,,image/webp,1110,1440,242.8,,https://mmag.in/wp-content/uploads/2026/01/exit-longRun.webp,assets/media/2026/01/exit-longRun.webp
-729,2026-01-12,Customers near sales funnel cone,,Customers near sales funnel cone,application/json,,,168.2,,https://mmag.in/wp-content/uploads/2026/01/Customers-near-sales-funnel-cone.json,assets/media/2026/01/Customers-near-sales-funnel-cone.json
-734,2026-01-12,trust,,trust,application/json,,,39.3,,https://mmag.in/wp-content/uploads/2026/01/trust.json,assets/media/2026/01/trust.json
-741,2026-01-12,Time to make business,,Time to make business,application/json,,,96.7,,https://mmag.in/wp-content/uploads/2026/01/Time-to-make-business.json,assets/media/2026/01/Time-to-make-business.json
-745,2026-01-12,lottie,,lottie,application/json,,,388.1,,https://mmag.in/wp-content/uploads/2026/01/lottie.json,assets/media/2026/01/lottie.json
-806,2026-01-30,Group 4 (1),,,image/svg+xml,581,807,1220.3,,https://mmag.in/wp-content/uploads/2026/01/Group-4-1.svg,assets/media/2026/01/Group-4-1.svg
-808,2026-01-30,Group 4,,,image/webp,1162,1614,171.7,,https://mmag.in/wp-content/uploads/2026/01/Group-4.webp,assets/media/2026/01/Group-4.webp
-907,2026-01-30,Mask group (15),,,image/webp,663,1138,7.4,793,https://mmag.in/wp-content/uploads/2026/01/Mask-group-15.webp,assets/media/2026/01/Mask-group-15.webp
-938,2026-01-30,39207234_22Y_a1gn6t35dhfm4obcdgmj0d8 [Converted]-01 1,,,image/webp,492,478,14.7,793,https://mmag.in/wp-content/uploads/2026/01/39207234_22Y_a1gn6t35dhfm4obcdgmj0d8-Converted-01-1.webp,assets/media/2026/01/39207234_22Y_a1gn6t35dhfm4obcdgmj0d8-Converted-01-1.webp
-987,2026-02-02,Frame (1),,,image/svg+xml,123,123,13.0,793,https://mmag.in/wp-content/uploads/2026/02/Frame-1.svg,assets/media/2026/02/Frame-1.svg
-992,2026-02-02,_2 (1),,,image/svg+xml,82,66,19.4,793,https://mmag.in/wp-content/uploads/2026/02/2-1.svg,assets/media/2026/02/2-1.svg
-993,2026-02-02,Frame (2),,,image/svg+xml,112,103,8.2,793,https://mmag.in/wp-content/uploads/2026/02/Frame-2.svg,assets/media/2026/02/Frame-2.svg
-1009,2026-02-02,Vector (11),,,image/svg+xml,93,93,0.3,793,https://mmag.in/wp-content/uploads/2026/02/Vector-11.svg,assets/media/2026/02/Vector-11.svg
-1010,2026-02-02,Vector (12),,,image/svg+xml,132,70,0.2,793,https://mmag.in/wp-content/uploads/2026/02/Vector-12.svg,assets/media/2026/02/Vector-12.svg
-1031,2026-02-02,svg-icon1,,,image/svg+xml,123,123,13.0,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon1.svg,assets/media/2026/02/svg-icon1.svg
-1087,2026-02-02,svg-icon2,,,image/svg+xml,82,66,19.5,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon2.svg,assets/media/2026/02/svg-icon2.svg
-1110,2026-02-02,animation (1),,animation (1),application/json,,,0.1,793,https://mmag.in/wp-content/uploads/2026/02/animation-1.json,assets/media/2026/02/animation-1.json
-1135,2026-02-02,Frame 78,,,image/webp,1804,842,136.4,793,https://mmag.in/wp-content/uploads/2026/02/Frame-78.webp,assets/media/2026/02/Frame-78.webp
-1140,2026-02-02,Group 8 (1),,,image/png,167,333,26.5,,https://mmag.in/wp-content/uploads/2026/02/Group-8-1.png,assets/media/2026/02/Group-8-1.png
-1141,2026-02-02,Group 7,,,image/png,145,282,16.7,,https://mmag.in/wp-content/uploads/2026/02/Group-7.png,assets/media/2026/02/Group-7.png
-1142,2026-02-02,Group 6,,,image/png,126,231,18.3,,https://mmag.in/wp-content/uploads/2026/02/Group-6.png,assets/media/2026/02/Group-6.png
-1181,2026-02-02,Frame 39,,,image/webp,486,300,11.3,,https://mmag.in/wp-content/uploads/2026/02/Frame-39.webp,assets/media/2026/02/Frame-39.webp
-1182,2026-02-02,Frame 55,,,image/webp,486,300,11.2,,https://mmag.in/wp-content/uploads/2026/02/Frame-55.webp,assets/media/2026/02/Frame-55.webp
-1183,2026-02-02,Frame 56,,,image/webp,486,300,15.6,,https://mmag.in/wp-content/uploads/2026/02/Frame-56.webp,assets/media/2026/02/Frame-56.webp
-1184,2026-02-02,Frame 57,,,image/webp,486,300,4.4,,https://mmag.in/wp-content/uploads/2026/02/Frame-57.webp,assets/media/2026/02/Frame-57.webp
-1185,2026-02-02,Frame 58,,,image/webp,486,300,13.5,,https://mmag.in/wp-content/uploads/2026/02/Frame-58.webp,assets/media/2026/02/Frame-58.webp
-1186,2026-02-02,Frame 59,,,image/webp,486,300,16.3,,https://mmag.in/wp-content/uploads/2026/02/Frame-59.webp,assets/media/2026/02/Frame-59.webp
-1200,2026-02-03,svg-icon3,,,image/svg+xml,112,103,8.2,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon3.svg,assets/media/2026/02/svg-icon3.svg
-1201,2026-02-03,slide vv3 design,,https://mmag.in/wp-content/uploads/2026/02/slide-vv3-design.mp4,video/mp4,596,842,139.1,793,https://mmag.in/wp-content/uploads/2026/02/slide-vv3-design.mp4,
-1218,2026-02-03,svg-icon4,,,image/svg+xml,81,116,5.3,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon4.svg,assets/media/2026/02/svg-icon4.svg
-1222,2026-02-03,svg-icon4 (1),,,image/svg+xml,81,116,5.3,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon4-1.svg,assets/media/2026/02/svg-icon4-1.svg
-1229,2026-02-03,svg-icon5,,,image/svg+xml,93,93,0.7,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon5.svg,assets/media/2026/02/svg-icon5.svg
-1298,2026-02-03,data,,data,application/json,,,9.1,793,https://mmag.in/wp-content/uploads/2026/02/data.json,assets/media/2026/02/data.json
-1305,2026-02-03,Animatio’,,https://mmag.in/wp-content/uploads/2026/02/Animatio.mp4,video/mp4,596,842,377.3,793,https://mmag.in/wp-content/uploads/2026/02/Animatio.mp4,
-1315,2026-02-03,Animatio’_2,,https://mmag.in/wp-content/uploads/2026/02/Animatio_2.mp4,video/mp4,596,842,491.5,793,https://mmag.in/wp-content/uploads/2026/02/Animatio_2.mp4,
-1319,2026-02-03,Animatio’_2,,Animatio’_2,application/json,,,706.1,793,https://mmag.in/wp-content/uploads/2026/02/Animatio_2.json,assets/media/2026/02/Animatio_2.json
-1337,2026-02-03,svg-icon6 (1),,,image/svg+xml,224,261,0.7,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon6-1.svg,assets/media/2026/02/svg-icon6-1.svg
-1397,2026-02-03,svg-icon7,,,image/svg+xml,1700,1700,5.6,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon7.svg,assets/media/2026/02/svg-icon7.svg
-1401,2026-02-03,Untitled file,,Untitled file,application/json,,,23.1,793,https://mmag.in/wp-content/uploads/2026/02/Untitled-file.json,assets/media/2026/02/Untitled-file.json
-1412,2026-02-03,Untitled file (1),,Untitled file (1),application/json,,,23.2,793,https://mmag.in/wp-content/uploads/2026/02/Untitled-file-1.json,assets/media/2026/02/Untitled-file-1.json
-1423,2026-02-03,cloudsufi_logo copy 1 1,,,image/png,65,68,5.2,793,https://mmag.in/wp-content/uploads/2026/02/cloudsufi_logo-copy-1-1.png,assets/media/2026/02/cloudsufi_logo-copy-1-1.png
-1433,2026-02-03,DSC04771 1,,,image/webp,2560,1129,186.4,793,https://mmag.in/wp-content/uploads/2026/02/DSC04771-1-scaled.webp,assets/media/2026/02/DSC04771-1-scaled.webp
-1434,2026-02-03,Vector (13),,,image/svg+xml,1328,845,1.0,793,https://mmag.in/wp-content/uploads/2026/02/Vector-13.svg,assets/media/2026/02/Vector-13.svg
-1444,2026-02-03,mail,,,image/svg+xml,32,32,0.8,619,https://mmag.in/wp-content/uploads/2026/01/mail.svg,assets/media/2026/01/mail.svg
-1445,2026-02-03,contact,,,image/svg+xml,32,32,0.8,619,https://mmag.in/wp-content/uploads/2026/01/contact.svg,assets/media/2026/01/contact.svg
-1446,2026-02-03,Location,,,image/svg+xml,32,32,0.8,619,https://mmag.in/wp-content/uploads/2026/01/Location.svg,assets/media/2026/01/Location.svg
-1486,2026-02-04,Ani03 (1),,https://mmag.in/wp-content/uploads/2026/02/Ani03-1.mp4,video/mp4,596,842,330.7,793,https://mmag.in/wp-content/uploads/2026/02/Ani03-1.mp4,
-1497,2026-02-04,performance,,,image/svg+xml,120,176,1.3,793,https://mmag.in/wp-content/uploads/2026/02/performance.svg,assets/media/2026/02/performance.svg
-1502,2026-02-04,svg-icon8,,,image/svg+xml,130,70,0.7,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon8.svg,assets/media/2026/02/svg-icon8.svg
-1506,2026-02-04,svg-icon9,,,image/svg+xml,132,71,0.6,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon9.svg,assets/media/2026/02/svg-icon9.svg
-1507,2026-02-04,svg-icon10,,,image/svg+xml,120,176,1.3,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon10.svg,assets/media/2026/02/svg-icon10.svg
-1614,2026-02-04,work (1),,,image/webp,507,425,9.8,793,https://mmag.in/wp-content/uploads/2026/02/work-1.webp,assets/media/2026/02/work-1.webp
-1615,2026-02-04,work,,,image/webp,507,425,4.2,793,https://mmag.in/wp-content/uploads/2026/02/work.webp,assets/media/2026/02/work.webp
-1616,2026-02-04,Flyer-Postcard-Mockup-01 copy 1,,,image/webp,507,424,6.2,793,https://mmag.in/wp-content/uploads/2026/02/Flyer-Postcard-Mockup-01-copy-1.webp,assets/media/2026/02/Flyer-Postcard-Mockup-01-copy-1.webp
-1682,2026-02-04,Vector (15),,,image/svg+xml,1413,750,2.3,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-15.svg,assets/media/2026/02/Vector-15.svg
-1760,2026-02-05,Rushi 1,,,image/webp,814,1206,31.2,1657,https://mmag.in/wp-content/uploads/2026/02/Rushi-1.webp,assets/media/2026/02/Rushi-1.webp
-1769,2026-02-05,Frame 1,,,image/webp,840,996,21.7,1657,https://mmag.in/wp-content/uploads/2026/02/Frame-1.webp,assets/media/2026/02/Frame-1.webp
-1795,2026-02-05,Group 1171275645 1,,,image/webp,1822,1054,82.7,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275645-1.webp,assets/media/2026/02/Group-1171275645-1.webp
-1796,2026-02-05,logo 1,,,image/png,130,24,4.9,,https://mmag.in/wp-content/uploads/2026/02/logo-1.png,assets/media/2026/02/logo-1.png
-1817,2026-02-05,Vector (16),,,image/svg+xml,22,15,0.2,47,https://mmag.in/wp-content/uploads/2026/01/Vector-16.svg,assets/media/2026/01/Vector-16.svg
-1818,2026-02-05,menu bar,,,image/svg+xml,39,395,0.6,47,https://mmag.in/wp-content/uploads/2026/01/menu-bar.svg,assets/media/2026/01/menu-bar.svg
-1820,2026-02-05,Group 1171275584,,,image/svg+xml,39,395,0.7,47,https://mmag.in/wp-content/uploads/2026/01/Group-1171275584.svg,assets/media/2026/01/Group-1171275584.svg
-1830,2026-02-05,Close,,,image/svg+xml,44,44,0.2,47,https://mmag.in/wp-content/uploads/2026/01/Close.svg,assets/media/2026/01/Close.svg
-1998,2026-02-05,about-icon,,,image/svg+xml,105,94,10.8,47,https://mmag.in/wp-content/uploads/2026/01/about-icon.svg,assets/media/2026/01/about-icon.svg
-2024,2026-02-05,MMAG-scaled,,https://mmag.in/wp-content/uploads/2026/01/cropped-MMAG-scaled-1.webp,image/webp,512,512,5.1,48,https://mmag.in/wp-content/uploads/2026/01/cropped-MMAG-scaled-1.webp,assets/media/2026/01/cropped-MMAG-scaled-1.webp
-2086,2026-02-06,Vector 71,,,image/svg+xml,2,206,0.5,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-71.svg,assets/media/2026/02/Vector-71.svg
-2087,2026-02-06,Rectangle 10,,,image/svg+xml,332,18,0.2,1657,https://mmag.in/wp-content/uploads/2026/02/Rectangle-10.svg,assets/media/2026/02/Rectangle-10.svg
-2088,2026-02-06,Rectangle 9,,,image/svg+xml,338,18,0.2,1657,https://mmag.in/wp-content/uploads/2026/02/Rectangle-9.svg,assets/media/2026/02/Rectangle-9.svg
-2118,2026-02-06,work 2,,,image/webp,1014,850,41.1,793,https://mmag.in/wp-content/uploads/2026/02/work-2.webp,assets/media/2026/02/work-2.webp
-2119,2026-02-06,work,,,image/webp,1014,850,110.7,793,https://mmag.in/wp-content/uploads/2026/02/work-3.webp,assets/media/2026/02/work-3.webp
-2120,2026-02-06,work-1,,,image/webp,1014,850,41.6,793,https://mmag.in/wp-content/uploads/2026/02/work-1-1.webp,assets/media/2026/02/work-1-1.webp
-2121,2026-02-06,work-2,,,image/webp,1014,850,158.9,793,https://mmag.in/wp-content/uploads/2026/02/work-2-1.webp,assets/media/2026/02/work-2-1.webp
-2122,2026-02-06,work-3,,,image/webp,1014,850,68.5,793,https://mmag.in/wp-content/uploads/2026/02/work-3-1.webp,assets/media/2026/02/work-3-1.webp
-2123,2026-02-06,work-4,,,image/webp,1014,850,96.8,793,https://mmag.in/wp-content/uploads/2026/02/work-4.webp,assets/media/2026/02/work-4.webp
-2124,2026-02-06,work-5,,,image/webp,1014,850,38.4,793,https://mmag.in/wp-content/uploads/2026/02/work-5.webp,assets/media/2026/02/work-5.webp
-2125,2026-02-06,work-6,,,image/webp,1014,850,157.2,793,https://mmag.in/wp-content/uploads/2026/02/work-6.webp,assets/media/2026/02/work-6.webp
-2126,2026-02-06,work-7,,,image/webp,1014,850,127.8,793,https://mmag.in/wp-content/uploads/2026/02/work-7.webp,assets/media/2026/02/work-7.webp
-2142,2026-02-06,Frame 63,,,image/svg+xml,48,48,0.3,793,https://mmag.in/wp-content/uploads/2026/02/Frame-63.svg,assets/media/2026/02/Frame-63.svg
-2143,2026-02-06,Frame 64,,,image/svg+xml,48,48,0.3,793,https://mmag.in/wp-content/uploads/2026/02/Frame-64.svg,assets/media/2026/02/Frame-64.svg
-2144,2026-02-06,Frame 64,,,image/svg+xml,48,48,0.3,793,https://mmag.in/wp-content/uploads/2026/02/Frame-64-1.svg,assets/media/2026/02/Frame-64-1.svg
-2157,2026-02-06,SM_Post_04 1 1,,,image/webp,2560,1083,482.3,,https://mmag.in/wp-content/uploads/2026/02/SM_Post_04-1-1-scaled.webp,assets/media/2026/02/SM_Post_04-1-1-scaled.webp
-2158,2026-02-06,SM_Post_04 1 1 (2),,,image/webp,2560,1083,478.3,,https://mmag.in/wp-content/uploads/2026/02/SM_Post_04-1-1-2-scaled.webp,assets/media/2026/02/SM_Post_04-1-1-2-scaled.webp
-2178,2026-02-06,1-38 1,,,image/png,506,134,36.4,,https://mmag.in/wp-content/uploads/2026/02/1-38-1.png,assets/media/2026/02/1-38-1.png
-2205,2026-02-06,001_windmill-Lemon 1,,,image/webp,880,1102,53.0,,https://mmag.in/wp-content/uploads/2026/02/001_windmill-Lemon-1.webp,assets/media/2026/02/001_windmill-Lemon-1.webp
-2207,2026-02-06,03_ Eid 1,,,image/webp,888,946,32.2,,https://mmag.in/wp-content/uploads/2026/02/03_-Eid-1.webp,assets/media/2026/02/03_-Eid-1.webp
-2208,2026-02-06,03_windmill-lemon-cream 1,,,image/webp,882,1103,45.8,,https://mmag.in/wp-content/uploads/2026/02/03_windmill-lemon-cream-1.webp,assets/media/2026/02/03_windmill-lemon-cream-1.webp
-2209,2026-02-06,004_windmill Fingers 1,,,image/webp,882,1104,77.4,,https://mmag.in/wp-content/uploads/2026/02/004_windmill-Fingers-1.webp,assets/media/2026/02/004_windmill-Fingers-1.webp
-2210,2026-02-06,04_Marie 1,,,image/webp,880,946,70.0,,https://mmag.in/wp-content/uploads/2026/02/04_Marie-1.webp,assets/media/2026/02/04_Marie-1.webp
-2211,2026-02-06,04_windmill Fingers 1,,,image/webp,882,1102,76.4,,https://mmag.in/wp-content/uploads/2026/02/04_windmill-Fingers-1.webp,assets/media/2026/02/04_windmill-Fingers-1.webp
-2212,2026-02-06,05_Windmill fingers 1,,,image/webp,884,1105,65.5,,https://mmag.in/wp-content/uploads/2026/02/05_Windmill-fingers-1.webp,assets/media/2026/02/05_Windmill-fingers-1.webp
-2213,2026-02-06,05_windmill-lemon-cream 1,,,image/webp,882,1102,93.2,,https://mmag.in/wp-content/uploads/2026/02/05_windmill-lemon-cream-1.webp,assets/media/2026/02/05_windmill-lemon-cream-1.webp
-2214,2026-02-06,Group 1171275644,,,image/webp,878,946,59.1,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275644.webp,assets/media/2026/02/Group-1171275644.webp
-2221,2026-02-06,Group 1171275644,,,image/webp,878,946,58.0,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275644-1.webp,assets/media/2026/02/Group-1171275644-1.webp
-2229,2026-02-06,112121212 1,,,image/webp,1878,1436,230.6,,https://mmag.in/wp-content/uploads/2026/02/112121212-1.webp,assets/media/2026/02/112121212-1.webp
-2234,2026-02-06,MMAG logo,,,image/png,61,75,2.3,,https://mmag.in/wp-content/uploads/2026/02/MMAG-logo.png,assets/media/2026/02/MMAG-logo.png
-2269,2026-02-09,logo_png_Asset_1_2x_400e53c3-6e4a-4237-a14c-c214cf2aab92,,,image/png,347,44,3.5,793,https://mmag.in/wp-content/uploads/2026/02/logo_png_Asset_1_2x_400e53c3-6e4a-4237-a14c-c214cf2aab92.png,assets/media/2026/02/logo_png_Asset_1_2x_400e53c3-6e4a-4237-a14c-c214cf2aab92.png
-2270,2026-02-09,Frame-1-3,,,image/png,826,278,19.7,793,https://mmag.in/wp-content/uploads/2026/02/Frame-1-3.png,assets/media/2026/02/Frame-1-3.png
-2271,2026-02-09,logo,,,image/svg+xml,118,142,9.5,793,https://mmag.in/wp-content/uploads/2026/02/logo.svg,assets/media/2026/02/logo.svg
-2275,2026-02-09,images,,,image/png,225,225,2.4,793,https://mmag.in/wp-content/uploads/2026/02/images.png,assets/media/2026/02/images.png
-2276,2026-02-09,8ee374_023c7eb18711467482c296805dd29654~mv2,,,image/png,2126,591,321.6,793,https://mmag.in/wp-content/uploads/2026/02/8ee374_023c7eb18711467482c296805dd29654mv2.png,assets/media/2026/02/8ee374_023c7eb18711467482c296805dd29654mv2.png
-2277,2026-02-09,8ee374_023c7eb18711467482c296805dd29654~mv2,,,image/webp,2126,591,29.3,793,https://mmag.in/wp-content/uploads/2026/02/8ee374_023c7eb18711467482c296805dd29654mv2.webp,assets/media/2026/02/8ee374_023c7eb18711467482c296805dd29654mv2.webp
-2329,2026-02-09,Main Logo 1,,,image/webp,442,110,7.2,,https://mmag.in/wp-content/uploads/2026/02/Main-Logo-1.webp,assets/media/2026/02/Main-Logo-1.webp
-2330,2026-02-09,Trevex-LandingPgAsset 2 2,,,image/webp,2198,1322,99.2,,https://mmag.in/wp-content/uploads/2026/02/Trevex-LandingPgAsset-2-2.webp,assets/media/2026/02/Trevex-LandingPgAsset-2-2.webp
-2331,2026-02-09,Trevex Adaptations for Website-02 1,,,image/webp,2560,1440,152.7,,https://mmag.in/wp-content/uploads/2026/02/Trevex-Adaptations-for-Website-02-1-scaled.webp,assets/media/2026/02/Trevex-Adaptations-for-Website-02-1-scaled.webp
-2332,2026-02-09,Trevex-Emailer-Asset 2 1,,,image/webp,656,1418,43.1,,https://mmag.in/wp-content/uploads/2026/02/Trevex-Emailer-Asset-2-1.webp,assets/media/2026/02/Trevex-Emailer-Asset-2-1.webp
-2333,2026-02-09,Trevex-Emailer-Asset 1 1,,,image/webp,486,1046,30.8,,https://mmag.in/wp-content/uploads/2026/02/Trevex-Emailer-Asset-1-1.webp,assets/media/2026/02/Trevex-Emailer-Asset-1-1.webp
-2337,2026-02-09,image 58 1,,,image/webp,376,164,4.5,,https://mmag.in/wp-content/uploads/2026/02/image-58-1.webp,assets/media/2026/02/image-58-1.webp
-2339,2026-02-09,Bajaj social media mockups 2 2,,,image/webp,2560,1708,135.8,,https://mmag.in/wp-content/uploads/2026/02/Bajaj-social-media-mockups-2-2-scaled.webp,assets/media/2026/02/Bajaj-social-media-mockups-2-2-scaled.webp
-2340,2026-02-09,Bajaj social media mockups 2 (1),,,image/webp,2560,1509,446.6,,https://mmag.in/wp-content/uploads/2026/02/Bajaj-social-media-mockups-2-1-scaled.webp,assets/media/2026/02/Bajaj-social-media-mockups-2-1-scaled.webp
-2353,2026-02-09,Mask-group-1.webp,,,image/webp,1102,990,9.4,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-1.webp,assets/media/2026/02/Mask-group-1.webp
-2373,2026-02-09,Frame 12,,,image/webp,660,782,14.7,1657,https://mmag.in/wp-content/uploads/2026/02/Frame-12.webp,assets/media/2026/02/Frame-12.webp
-2383,2026-02-10,MMAG logo (1),,,image/png,128,158,4.4,,https://mmag.in/wp-content/uploads/2026/02/MMAG-logo-1.png,assets/media/2026/02/MMAG-logo-1.png
-2386,2026-02-10,Layer_1 (19),,,image/svg+xml,73,87,2.6,1657,https://mmag.in/wp-content/uploads/2026/02/Layer_1-19.svg,assets/media/2026/02/Layer_1-19.svg
-2522,2026-02-11,Vector (17),,,image/svg+xml,47,63,2.5,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-17.svg,assets/media/2026/02/Vector-17.svg
-2523,2026-02-11,Vector (18),,,image/svg+xml,43,86,2.5,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-18.svg,assets/media/2026/02/Vector-18.svg
-2530,2026-02-11,Vector (19),,,image/svg+xml,33,79,2.4,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-19.svg,assets/media/2026/02/Vector-19.svg
-2552,2026-02-11,Frame 82,,,image/png,64,79,2.3,,https://mmag.in/wp-content/uploads/2026/02/Frame-82.png,assets/media/2026/02/Frame-82.png
-2554,2026-02-11,cropped-Frame-82.png,,https://mmag.in/wp-content/uploads/2026/02/cropped-Frame-82.png,image/png,512,512,30.2,2552,https://mmag.in/wp-content/uploads/2026/02/cropped-Frame-82.png,assets/media/2026/02/cropped-Frame-82.png
-2555,2026-02-11,Group 1171275584,,,image/png,64,64,1.8,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275584.png,assets/media/2026/02/Group-1171275584.png
-2556,2026-02-11,cropped-Group-1171275584.png,,https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584.png,image/png,512,512,27.2,2555,https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584.png,assets/media/2026/02/cropped-Group-1171275584.png
-2557,2026-02-11,MMAG logo (2),,,image/png,104,128,3.5,6,https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png,assets/media/2026/01/MMAG-logo-2.png
-2562,2026-02-11,svg-icon4 (2),,,image/svg+xml,81,81,5.2,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon4-2.svg,assets/media/2026/02/svg-icon4-2.svg
-2591,2026-02-13,TKG_Soothers,,https://mmag.in/wp-content/uploads/2026/02/TKG_Soothers.mp4,video/mp4,1080,1920,2947.8,,https://mmag.in/wp-content/uploads/2026/02/TKG_Soothers.mp4,
-2592,2026-02-13,TKG_Soothers,,,image/webp,443,788,17.3,,https://mmag.in/wp-content/uploads/2026/02/TKG_Soothers.webp,assets/media/2026/02/TKG_Soothers.webp
-2597,2026-02-13,Nov_Swissbake Chelsea Chocmeltz,,https://mmag.in/wp-content/uploads/2026/02/Nov_Swissbake-Chelsea-Chocmeltz.mp4,video/mp4,1080,1920,4541.3,,https://mmag.in/wp-content/uploads/2026/02/Nov_Swissbake-Chelsea-Chocmeltz.mp4,
-2598,2026-02-13,Mask group (16),,,image/webp,443,789,19.8,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-16.webp,assets/media/2026/02/Mask-group-16.webp
-2599,2026-02-13,Mask group (17),,,image/webp,443,789,15.9,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-17.webp,assets/media/2026/02/Mask-group-17.webp
-2604,2026-02-13,Nov_TKG_HygieniX Hand wash,,https://mmag.in/wp-content/uploads/2026/02/Nov_TKG_HygieniX-Hand-wash.mp4,video/mp4,1080,1920,3216.4,,https://mmag.in/wp-content/uploads/2026/02/Nov_TKG_HygieniX-Hand-wash.mp4,
-2609,2026-02-13,Mask group (19),,,image/webp,443,789,26.1,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-19.webp,assets/media/2026/02/Mask-group-19.webp
-2610,2026-02-13,Mask group (18),,,image/webp,443,789,18.1,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-18.webp,assets/media/2026/02/Mask-group-18.webp
-2611,2026-02-13,Mask group (22),,,image/webp,443,789,19.0,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-22.webp,assets/media/2026/02/Mask-group-22.webp
-2612,2026-02-13,Oct_Mojo Energy (Students),,https://mmag.in/wp-content/uploads/2026/02/Oct_Mojo-Energy-Students.mp4,video/mp4,1080,1920,6631.4,,https://mmag.in/wp-content/uploads/2026/02/Oct_Mojo-Energy-Students.mp4,
-2617,2026-02-13,Dec_Marie,,https://mmag.in/wp-content/uploads/2026/02/Dec_Marie.mp4,video/mp4,1080,1920,3165.4,,https://mmag.in/wp-content/uploads/2026/02/Dec_Marie.mp4,
-2622,2026-02-13,Mask group (19),,,image/webp,443,789,26.1,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-19-1.webp,assets/media/2026/02/Mask-group-19-1.webp
-2624,2026-02-13,Nov_01_Cookie Joe Shorties_,,https://mmag.in/wp-content/uploads/2026/02/Nov_01_Cookie-Joe-Shorties_.mp4,video/mp4,1080,1920,5935.9,,https://mmag.in/wp-content/uploads/2026/02/Nov_01_Cookie-Joe-Shorties_.mp4,
-2625,2026-02-13,BT-Bev_Vatra,,,image/webp,443,789,15.4,,https://mmag.in/wp-content/uploads/2026/02/BT-Bev_Vatra.webp,assets/media/2026/02/BT-Bev_Vatra.webp
-2630,2026-02-16,Nov_01_Lifeway Shots,,https://mmag.in/wp-content/uploads/2026/02/Nov_01_Lifeway-Shots.mp4,video/mp4,1080,1920,4238.2,,https://mmag.in/wp-content/uploads/2026/02/Nov_01_Lifeway-Shots.mp4,
-2631,2026-02-16,Mask group (24),,,image/webp,443,789,15.9,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-24.webp,assets/media/2026/02/Mask-group-24.webp
-2632,2026-02-16,Mask group (23),,,image/webp,443,789,29.9,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-23.webp,assets/media/2026/02/Mask-group-23.webp
-2638,2026-02-17,Objects (2),,,image/svg+xml,23,14,5.9,47,https://mmag.in/wp-content/uploads/2026/01/Objects-2.svg,assets/media/2026/01/Objects-2.svg
-2639,2026-02-17,Objects (4),,,image/svg+xml,20,21,9.2,47,https://mmag.in/wp-content/uploads/2026/01/Objects-4.svg,assets/media/2026/01/Objects-4.svg
-2640,2026-02-17,Objects (3),,,image/svg+xml,22,22,1.7,47,https://mmag.in/wp-content/uploads/2026/01/Objects-3.svg,assets/media/2026/01/Objects-3.svg
-2641,2026-02-17,Group 1171275584 (1),,,image/svg+xml,18,19,11.2,47,https://mmag.in/wp-content/uploads/2026/01/Group-1171275584-1.svg,assets/media/2026/01/Group-1171275584-1.svg
-2642,2026-02-17,Service,,,image/svg+xml,21,17,3.6,47,https://mmag.in/wp-content/uploads/2026/01/Service.svg,assets/media/2026/01/Service.svg
-2685,2026-03-23,Technology,,https://mmag.in/wp-content/uploads/2026/03/Technology.mp4,video/mp4,596,842,375.2,793,https://mmag.in/wp-content/uploads/2026/03/Technology.mp4,
-2686,2026-03-23,Design,,https://mmag.in/wp-content/uploads/2026/03/Design.mp4,video/mp4,596,842,519.8,793,https://mmag.in/wp-content/uploads/2026/03/Design.mp4,
-2687,2026-03-23,Performance,,https://mmag.in/wp-content/uploads/2026/03/Performance.mp4,video/mp4,596,842,702.0,793,https://mmag.in/wp-content/uploads/2026/03/Performance.mp4,
-2688,2026-03-23,Strategy,,https://mmag.in/wp-content/uploads/2026/03/Strategy.mp4,video/mp4,596,842,415.4,793,https://mmag.in/wp-content/uploads/2026/03/Strategy.mp4,
-2721,2026-03-23,1,,,image/svg+xml,23,34,0.2,793,https://mmag.in/wp-content/uploads/2026/03/1.svg,assets/media/2026/03/1.svg
-2778,2026-03-23,trevex-tumbnail,,,image/webp,992,780,23.6,793,https://mmag.in/wp-content/uploads/2026/03/trevex-tumbnail.webp,assets/media/2026/03/trevex-tumbnail.webp
-2779,2026-03-23,BHFL-thumbnail,,,image/webp,992,778,117.1,793,https://mmag.in/wp-content/uploads/2026/03/BHFL-thumbnail.webp,assets/media/2026/03/BHFL-thumbnail.webp
-2780,2026-03-23,tkg-thumbnail,,,image/webp,992,778,122.2,793,https://mmag.in/wp-content/uploads/2026/03/tkg-thumbnail.webp,assets/media/2026/03/tkg-thumbnail.webp
-2781,2026-03-23,view more,,,image/svg+xml,23,23,0.3,793,https://mmag.in/wp-content/uploads/2026/03/view-more.svg,assets/media/2026/03/view-more.svg
-2877,2026-03-26,arrow,,,image/svg+xml,17,17,0.2,793,https://mmag.in/wp-content/uploads/2026/03/arrow.svg,assets/media/2026/03/arrow.svg
-2915,2026-03-27,Rectangle 1001593,,,image/svg+xml,150,103,0.2,,https://mmag.in/wp-content/uploads/2026/03/Rectangle-1001593.svg,assets/media/2026/03/Rectangle-1001593.svg
-2916,2026-03-27,Rectangle 1001593,,,image/svg+xml,150,103,0.2,,https://mmag.in/wp-content/uploads/2026/03/Rectangle-1001593-1.svg,assets/media/2026/03/Rectangle-1001593-1.svg
-2917,2026-03-27,Rectangle 1001592,,,image/svg+xml,223,59,0.2,,https://mmag.in/wp-content/uploads/2026/03/Rectangle-1001592.svg,assets/media/2026/03/Rectangle-1001592.svg
-2930,2026-03-27,mail (1),,,image/svg+xml,48,48,1.6,2921,https://mmag.in/wp-content/uploads/2026/03/mail-1.svg,assets/media/2026/03/mail-1.svg
-2931,2026-03-27,phone-call,,,image/svg+xml,48,48,1.0,2921,https://mmag.in/wp-content/uploads/2026/03/phone-call.svg,assets/media/2026/03/phone-call.svg
-2938,2026-03-27,maps-location,,,image/svg+xml,48,48,0.6,619,https://mmag.in/wp-content/uploads/2026/01/maps-location.svg,assets/media/2026/01/maps-location.svg
-2939,2026-03-27,maps-location (1),,,image/svg+xml,48,48,0.6,619,https://mmag.in/wp-content/uploads/2026/01/maps-location-1.svg,assets/media/2026/01/maps-location-1.svg
-2949,2026-03-27,To top,,,image/svg+xml,48,48,0.4,619,https://mmag.in/wp-content/uploads/2026/01/To-top.svg,assets/media/2026/01/To-top.svg
-2966,2026-03-27,Group 1171275645 1 (1),,,image/webp,1540,1156,83.2,,https://mmag.in/wp-content/uploads/2026/03/Group-1171275645-1-1.webp,assets/media/2026/03/Group-1171275645-1-1.webp
-2978,2026-03-27,11 2121213 2,,,image/webp,1532,656,101.3,793,https://mmag.in/wp-content/uploads/2026/03/11-2121213-2.webp,assets/media/2026/03/11-2121213-2.webp
-2980,2026-03-27,Component 42,,,image/svg+xml,36,36,0.3,793,https://mmag.in/wp-content/uploads/2026/03/Component-42.svg,assets/media/2026/03/Component-42.svg
-2984,2026-03-27,Component 42 (1),,,image/svg+xml,36,36,0.3,793,https://mmag.in/wp-content/uploads/2026/03/Component-42-1.svg,assets/media/2026/03/Component-42-1.svg
-3060,2026-03-31,new-maps-location,,,image/svg+xml,48,48,1.1,619,https://mmag.in/wp-content/uploads/2026/01/new-maps-location.svg,assets/media/2026/01/new-maps-location.svg
-3102,2026-06-03,Hero 1 (1),,,image/webp,1920,832,330.5,1657,https://mmag.in/wp-content/uploads/2026/06/Hero-1-1.webp,assets/media/2026/06/Hero-1-1.webp
-3107,2026-06-03,linkedin (2),,,image/svg+xml,45,45,1.4,1657,https://mmag.in/wp-content/uploads/2026/06/linkedin-2.svg,assets/media/2026/06/linkedin-2.svg
-3117,2026-06-03,default-Saud,,,image/webp,764,864,13.1,1657,https://mmag.in/wp-content/uploads/2026/06/default-Saud.webp,assets/media/2026/06/default-Saud.webp
-3118,2026-06-03,default-Maithili,,,image/webp,764,864,19.4,1657,https://mmag.in/wp-content/uploads/2026/06/default-Maithili.webp,assets/media/2026/06/default-Maithili.webp
-3119,2026-06-03,world,,,image/webp,512,512,10.1,1657,https://mmag.in/wp-content/uploads/2026/06/world.webp,assets/media/2026/06/world.webp
-3120,2026-06-03,flag,,,image/webp,512,512,19.5,1657,https://mmag.in/wp-content/uploads/2026/06/flag.webp,assets/media/2026/06/flag.webp
-3121,2026-06-03,Vector (29),,,image/svg+xml,44,56,2.8,1657,https://mmag.in/wp-content/uploads/2026/06/Vector-29.svg,assets/media/2026/06/Vector-29.svg
-3122,2026-06-03,Vector (30),,,image/svg+xml,52,50,3.2,1657,https://mmag.in/wp-content/uploads/2026/06/Vector-30.svg,assets/media/2026/06/Vector-30.svg
-3123,2026-06-03,Vector (31),,,image/svg+xml,56,36,1.2,1657,https://mmag.in/wp-content/uploads/2026/06/Vector-31.svg,assets/media/2026/06/Vector-31.svg
-3124,2026-06-03,IMG_6783 2,,,image/webp,1554,1024,154.8,1657,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-2.webp,assets/media/2026/06/IMG_6783-2.webp
-3125,2026-06-03,IMG_6783 1,,,image/webp,1684,1024,82.6,1657,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-1.webp,assets/media/2026/06/IMG_6783-1.webp
-3584,2026-06-17,IMG_6783 2,,,image/webp,1124,740,103.6,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-2-1.webp,assets/media/2026/06/IMG_6783-2-1.webp
-3585,2026-06-17,IMG_6783 3,,,image/webp,1124,740,93.5,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-3.webp,assets/media/2026/06/IMG_6783-3.webp
-3586,2026-06-17,IMG_6783 5,,,image/webp,1124,740,75.1,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-5.webp,assets/media/2026/06/IMG_6783-5.webp
-3587,2026-06-17,IMG_6783 7,,,image/webp,1124,740,168.8,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-7.webp,assets/media/2026/06/IMG_6783-7.webp
-3588,2026-06-17,IMG_6783 1,,,image/webp,1124,740,58.9,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-1-1.webp,assets/media/2026/06/IMG_6783-1-1.webp
-3623,2026-06-17,15 1,,,image/webp,1540,640,50.2,793,https://mmag.in/wp-content/uploads/2026/06/15-1.webp,assets/media/2026/06/15-1.webp
-3718,2026-06-18,Group 2,,,image/webp,2560,1293,33.7,793,https://mmag.in/wp-content/uploads/2026/06/Group-2-scaled.webp,assets/media/2026/06/Group-2-scaled.webp
-3742,2026-06-18,1-scaled.webp,,,image/webp,2560,1440,154.6,,https://mmag.in/wp-content/uploads/2026/06/1-scaled-1.webp,assets/media/2026/06/1-scaled-1.webp
-3743,2026-06-18,2-scaled.webp,,,image/webp,2560,1440,86.1,,https://mmag.in/wp-content/uploads/2026/06/2-scaled-1.webp,assets/media/2026/06/2-scaled-1.webp
-3744,2026-06-18,3-scaled.webp,,,image/webp,2560,1440,53.2,,https://mmag.in/wp-content/uploads/2026/06/3-scaled-1.webp,assets/media/2026/06/3-scaled-1.webp
-3745,2026-06-18,4-scaled.webp,,,image/webp,2560,1440,57.1,,https://mmag.in/wp-content/uploads/2026/06/4-scaled-1.webp,assets/media/2026/06/4-scaled-1.webp
-3746,2026-06-18,5-scaled.webp,,,image/webp,2560,1440,93.8,,https://mmag.in/wp-content/uploads/2026/06/5-scaled-1.webp,assets/media/2026/06/5-scaled-1.webp
-3747,2026-06-18,6-scaled.webp,,,image/webp,2560,1440,18.5,,https://mmag.in/wp-content/uploads/2026/06/6-scaled-1.webp,assets/media/2026/06/6-scaled-1.webp
-3748,2026-06-18,7-scaled.webp,,,image/webp,2560,1440,138.3,,https://mmag.in/wp-content/uploads/2026/06/7-scaled-1.webp,assets/media/2026/06/7-scaled-1.webp
-3749,2026-06-18,link.svg,,,image/svg+xml,29,29,1.5,,https://mmag.in/wp-content/uploads/2026/06/link.svg,assets/media/2026/06/link.svg
-3750,2026-06-18,8-scaled.webp,,,image/webp,2560,1440,328.5,,https://mmag.in/wp-content/uploads/2026/06/8-scaled-1.webp,assets/media/2026/06/8-scaled-1.webp
-3751,2026-06-18,9-scaled.webp,,,image/webp,2560,1440,158.7,,https://mmag.in/wp-content/uploads/2026/06/9-scaled-1.webp,assets/media/2026/06/9-scaled-1.webp
-3752,2026-06-18,Group-136.png,,,image/png,629,74,5.7,,https://mmag.in/wp-content/uploads/2026/06/Group-136.png,assets/media/2026/06/Group-136.png
-3753,2026-06-18,Copy-of-Halloween_bajaj.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Halloween_bajaj.mp4,video/mp4,1080,1350,18710.6,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Halloween_bajaj.mp4,
-3754,2026-06-18,3-21.png,,,image/png,688,860,303.1,,https://mmag.in/wp-content/uploads/2026/06/3-21.png,assets/media/2026/06/3-21.png
-3755,2026-06-18,Copy-of-Satark-Saturday-3-AI-scam.-V1.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Satark-Saturday-3-AI-scam.-V1.mp4,video/mp4,1080,1350,19497.4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Satark-Saturday-3-AI-scam.-V1.mp4,
-3756,2026-06-18,3-22.png,,,image/png,688,860,248.0,,https://mmag.in/wp-content/uploads/2026/06/3-22.png,assets/media/2026/06/3-22.png
-3757,2026-06-18,3-24.png,,,image/png,688,860,902.0,,https://mmag.in/wp-content/uploads/2026/06/3-24.png,assets/media/2026/06/3-24.png
-3758,2026-06-18,Copy-of-In-your-best-interest-Nominees.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-In-your-best-interest-Nominees.mp4,video/mp4,1080,1350,68286.7,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-In-your-best-interest-Nominees.mp4,
-3759,2026-06-18,3-25.png,,,image/png,688,860,733.9,,https://mmag.in/wp-content/uploads/2026/06/3-25.png,assets/media/2026/06/3-25.png
-3760,2026-06-18,Copy-of-Home-Loan-EMI.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Home-Loan-EMI.mp4,video/mp4,1080,1350,11962.4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Home-Loan-EMI.mp4,
-3761,2026-06-18,3-26.png,,,image/png,688,860,261.2,,https://mmag.in/wp-content/uploads/2026/06/3-26.png,assets/media/2026/06/3-26.png
-3762,2026-06-18,Copy-of-Diwali_HL-Disbursal_To-Do-List_Video_16102025.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Diwali_HL-Disbursal_To-Do-List_Video_16102025.mp4,video/mp4,1080,1350,23351.4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Diwali_HL-Disbursal_To-Do-List_Video_16102025.mp4,
-3763,2026-06-18,3-27@2x.png,,,image/png,688,860,393.3,,https://mmag.in/wp-content/uploads/2026/06/3-27@2x.png,assets/media/2026/06/3-27@2x.png
-3764,2026-06-18,Copy-of-Indian-Map-MM-Insta-2-2.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Indian-Map-MM-Insta-2-2.mp4,video/mp4,1080,1350,16425.8,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Indian-Map-MM-Insta-2-2.mp4,
-3765,2026-06-18,3-28.png,,,image/png,688,860,565.8,,https://mmag.in/wp-content/uploads/2026/06/3-28.png,assets/media/2026/06/3-28.png
-3766,2026-06-18,Group-8.webp,,,image/webp,138,168,0.9,,https://mmag.in/wp-content/uploads/2026/06/Group-8.webp,assets/media/2026/06/Group-8.webp
-3767,2026-06-18,10-scaled.webp,,,image/webp,2560,1440,51.9,,https://mmag.in/wp-content/uploads/2026/06/10-scaled-1.webp,assets/media/2026/06/10-scaled-1.webp
-3768,2026-06-18,13-1-1-scaled.webp,,,image/webp,2560,1440,137.7,,https://mmag.in/wp-content/uploads/2026/06/13-1-1-scaled-1.webp,assets/media/2026/06/13-1-1-scaled-1.webp
-3769,2026-06-18,13-2-scaled.webp,,,image/webp,2560,1440,289.5,,https://mmag.in/wp-content/uploads/2026/06/13-2-scaled-1.webp,assets/media/2026/06/13-2-scaled-1.webp
-3770,2026-06-18,13-3-scaled.webp,,,image/webp,2560,1440,280.9,,https://mmag.in/wp-content/uploads/2026/06/13-3-scaled-1.webp,assets/media/2026/06/13-3-scaled-1.webp
-3771,2026-06-18,13-4-scaled.webp,,,image/webp,2560,1440,101.8,,https://mmag.in/wp-content/uploads/2026/06/13-4-scaled-1.webp,assets/media/2026/06/13-4-scaled-1.webp
-3772,2026-06-18,11-1-scaled.webp,,,image/webp,2560,1440,227.5,,https://mmag.in/wp-content/uploads/2026/06/11-1-scaled-1.webp,assets/media/2026/06/11-1-scaled-1.webp
-3773,2026-06-18,12-scaled.webp,,,image/webp,2560,1440,397.1,,https://mmag.in/wp-content/uploads/2026/06/12-scaled-1.webp,assets/media/2026/06/12-scaled-1.webp
-3774,2026-06-18,Group-136.webp,,,image/webp,629,74,4.0,,https://mmag.in/wp-content/uploads/2026/06/Group-136.webp,assets/media/2026/06/Group-136.webp
-3775,2026-06-18,October-Dairy-Gold_Shake-N-Sip.mp4,,https://mmag.in/wp-content/uploads/2026/06/October-Dairy-Gold_Shake-N-Sip.mp4,video/mp4,1080,1920,17831.6,,https://mmag.in/wp-content/uploads/2026/06/October-Dairy-Gold_Shake-N-Sip.mp4,
-3776,2026-06-18,Group-1171275619.webp,,,image/webp,501,891,34.7,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275619.webp,assets/media/2026/06/Group-1171275619.webp
-3777,2026-06-18,October-Windmill-Lemon-Creams.mp4,,https://mmag.in/wp-content/uploads/2026/06/October-Windmill-Lemon-Creams.mp4,video/mp4,1080,1920,9554.0,,https://mmag.in/wp-content/uploads/2026/06/October-Windmill-Lemon-Creams.mp4,
-3778,2026-06-18,Group-1171275558.webp,,,image/webp,501,891,33.3,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275558.webp,assets/media/2026/06/Group-1171275558.webp
-3779,2026-06-18,September-Binto-Sauce-700-gm.mp4,,https://mmag.in/wp-content/uploads/2026/06/September-Binto-Sauce-700-gm.mp4,video/mp4,1080,1920,20840.8,,https://mmag.in/wp-content/uploads/2026/06/September-Binto-Sauce-700-gm.mp4,
-3780,2026-06-18,Group-1171275559.webp,,,image/webp,503,893,47.7,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275559.webp,assets/media/2026/06/Group-1171275559.webp
-3781,2026-06-18,MediHerb-Turmeric-and-Argan-Oil.mp4,,https://mmag.in/wp-content/uploads/2026/06/MediHerb-Turmeric-and-Argan-Oil.mp4,video/mp4,1080,1920,19549.1,,https://mmag.in/wp-content/uploads/2026/06/MediHerb-Turmeric-and-Argan-Oil.mp4,
-3782,2026-06-18,Group-1171275560.webp,,,image/webp,501,895,21.5,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275560.webp,assets/media/2026/06/Group-1171275560.webp
-3783,2026-06-18,October-Dlite-Baby-Cereal-Range.mp4,,https://mmag.in/wp-content/uploads/2026/06/October-Dlite-Baby-Cereal-Range.mp4,video/mp4,1080,1920,57036.4,,https://mmag.in/wp-content/uploads/2026/06/October-Dlite-Baby-Cereal-Range.mp4,
-3784,2026-06-18,Group-1171275562.webp,,,image/webp,502,894,35.0,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275562.webp,assets/media/2026/06/Group-1171275562.webp
-3785,2026-06-18,September-Windmill-Range.mp4,,https://mmag.in/wp-content/uploads/2026/06/September-Windmill-Range.mp4,video/mp4,1080,1920,26008.0,,https://mmag.in/wp-content/uploads/2026/06/September-Windmill-Range.mp4,
-3786,2026-06-18,Group-1171275621.webp,,,image/webp,501,892,29.8,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275621.webp,assets/media/2026/06/Group-1171275621.webp
-3787,2026-06-18,October-Vatra-1-Ltr.mp4,,https://mmag.in/wp-content/uploads/2026/06/October-Vatra-1-Ltr.mp4,video/mp4,1080,1920,11036.3,,https://mmag.in/wp-content/uploads/2026/06/October-Vatra-1-Ltr.mp4,
-3788,2026-06-18,Group-1171275566.webp,,,image/webp,495,892,18.6,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275566.webp,assets/media/2026/06/Group-1171275566.webp
-3789,2026-06-18,August-TKG_Amazon-Mental-Mint.mp4,,https://mmag.in/wp-content/uploads/2026/06/August-TKG_Amazon-Mental-Mint.mp4,video/mp4,1080,1920,21168.3,,https://mmag.in/wp-content/uploads/2026/06/August-TKG_Amazon-Mental-Mint.mp4,
-3790,2026-06-18,Group-1171275565.webp,,,image/webp,501,892,29.2,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275565.webp,assets/media/2026/06/Group-1171275565.webp
-3791,2026-06-18,September-Banja-Original-Paste-400-gm-200-gm.mp4,,https://mmag.in/wp-content/uploads/2026/06/September-Banja-Original-Paste-400-gm-200-gm.mp4,video/mp4,1080,1920,7741.7,,https://mmag.in/wp-content/uploads/2026/06/September-Banja-Original-Paste-400-gm-200-gm.mp4,
-3792,2026-06-18,Group-1171275564.webp,,,image/webp,503,889,15.7,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275564.webp,assets/media/2026/06/Group-1171275564.webp
-3793,2026-06-18,September-Fruiticana-Smoothie-.mp4,,https://mmag.in/wp-content/uploads/2026/06/September-Fruiticana-Smoothie-.mp4,video/mp4,1080,1920,20636.1,,https://mmag.in/wp-content/uploads/2026/06/September-Fruiticana-Smoothie-.mp4,
-3794,2026-06-18,Group-1171275563.webp,,,image/webp,501,892,33.6,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275563.webp,assets/media/2026/06/Group-1171275563.webp
-3795,2026-06-18,13-scaled.webp,,,image/webp,2560,1440,249.1,,https://mmag.in/wp-content/uploads/2026/06/13-scaled-1.webp,assets/media/2026/06/13-scaled-1.webp
-3796,2026-06-18,19-scaled.webp,,,image/webp,2560,1440,73.7,,https://mmag.in/wp-content/uploads/2026/06/19-scaled-1.webp,assets/media/2026/06/19-scaled-1.webp
-3797,2026-06-18,20-scaled.webp,,,image/webp,2560,1440,103.0,,https://mmag.in/wp-content/uploads/2026/06/20-scaled-1.webp,assets/media/2026/06/20-scaled-1.webp
-3798,2026-06-18,21-scaled.webp,,,image/webp,2560,1440,107.8,,https://mmag.in/wp-content/uploads/2026/06/21-scaled-1.webp,assets/media/2026/06/21-scaled-1.webp
-3799,2026-06-18,22-scaled.webp,,,image/webp,2560,1440,200.6,,https://mmag.in/wp-content/uploads/2026/06/22-scaled-1.webp,assets/media/2026/06/22-scaled-1.webp
-3800,2026-06-18,23-scaled.webp,,,image/webp,2560,1440,31.5,,https://mmag.in/wp-content/uploads/2026/06/23-scaled-1.webp,assets/media/2026/06/23-scaled-1.webp
-3801,2026-06-18,24-scaled.webp,,,image/webp,2560,1440,28.9,,https://mmag.in/wp-content/uploads/2026/06/24-scaled-1.webp,assets/media/2026/06/24-scaled-1.webp
-3802,2026-06-18,7-1-scaled.webp,,,image/webp,2560,1440,135.6,,https://mmag.in/wp-content/uploads/2026/06/7-1-scaled-1.webp,assets/media/2026/06/7-1-scaled-1.webp
-3803,2026-06-18,8-scaled.webp,,,image/webp,2560,1440,103.5,,https://mmag.in/wp-content/uploads/2026/06/8-scaled-2.webp,assets/media/2026/06/8-scaled-2.webp
-3804,2026-06-18,9-1-scaled.webp,,,image/webp,2560,1440,177.8,,https://mmag.in/wp-content/uploads/2026/06/9-1-scaled-1.webp,assets/media/2026/06/9-1-scaled-1.webp
-3805,2026-06-18,9-1-scaled.webp,,,image/webp,2560,1440,177.8,,https://mmag.in/wp-content/uploads/2026/06/9-1-scaled-2.webp,assets/media/2026/06/9-1-scaled-2.webp
-3806,2026-06-18,10-scaled.webp,,,image/webp,2560,1440,67.0,,https://mmag.in/wp-content/uploads/2026/06/10-scaled-2.webp,assets/media/2026/06/10-scaled-2.webp
-3807,2026-06-18,14-scaled.webp,,,image/webp,2560,1440,223.9,,https://mmag.in/wp-content/uploads/2026/06/14-scaled-1.webp,assets/media/2026/06/14-scaled-1.webp
-3808,2026-06-18,14-1-1-scaled.webp,,,image/webp,2560,1440,105.3,,https://mmag.in/wp-content/uploads/2026/06/14-1-1-scaled-1.webp,assets/media/2026/06/14-1-1-scaled-1.webp
-3809,2026-06-18,14-2-scaled.webp,,,image/webp,2560,1440,126.0,,https://mmag.in/wp-content/uploads/2026/06/14-2-scaled-1.webp,assets/media/2026/06/14-2-scaled-1.webp
-3810,2026-06-18,15-1-scaled.webp,,,image/webp,2560,1440,135.9,,https://mmag.in/wp-content/uploads/2026/06/15-1-scaled-1.webp,assets/media/2026/06/15-1-scaled-1.webp
-3811,2026-06-18,16-scaled.webp,,,image/webp,2560,1440,143.6,,https://mmag.in/wp-content/uploads/2026/06/16-scaled-1.webp,assets/media/2026/06/16-scaled-1.webp
-3812,2026-06-18,17-scaled.webp,,,image/webp,2560,1440,67.8,,https://mmag.in/wp-content/uploads/2026/06/17-scaled-1.webp,assets/media/2026/06/17-scaled-1.webp
-3813,2026-06-18,51-1-scaled.webp,,,image/webp,2560,1440,160.4,,https://mmag.in/wp-content/uploads/2026/06/51-1-scaled-1.webp,assets/media/2026/06/51-1-scaled-1.webp
-3814,2026-06-18,19-3-2-scaled.webp,,,image/webp,2560,1440,126.3,,https://mmag.in/wp-content/uploads/2026/06/19-3-2-scaled-1.webp,assets/media/2026/06/19-3-2-scaled-1.webp
-3815,2026-06-18,19-2-1-scaled.webp,,,image/webp,2560,1440,97.6,,https://mmag.in/wp-content/uploads/2026/06/19-2-1-scaled-1.webp,assets/media/2026/06/19-2-1-scaled-1.webp
-3816,2026-06-18,19-3-1-scaled.webp,,,image/webp,2560,1440,99.3,,https://mmag.in/wp-content/uploads/2026/06/19-3-1-scaled-1.webp,assets/media/2026/06/19-3-1-scaled-1.webp
-3817,2026-06-18,19-3-7-scaled.webp,,,image/webp,2560,1440,81.8,,https://mmag.in/wp-content/uploads/2026/06/19-3-7-scaled-1.webp,assets/media/2026/06/19-3-7-scaled-1.webp
-3818,2026-06-18,19-3-8-scaled.webp,,,image/webp,2560,1440,248.9,,https://mmag.in/wp-content/uploads/2026/06/19-3-8-scaled-1.webp,assets/media/2026/06/19-3-8-scaled-1.webp
-3819,2026-06-18,19-3-9-scaled.webp,,,image/webp,2560,1440,91.8,,https://mmag.in/wp-content/uploads/2026/06/19-3-9-scaled-1.webp,assets/media/2026/06/19-3-9-scaled-1.webp
-3820,2026-06-18,19-3-11-scaled.webp,,,image/webp,2560,1440,30.7,,https://mmag.in/wp-content/uploads/2026/06/19-3-11-scaled-1.webp,assets/media/2026/06/19-3-11-scaled-1.webp
-3821,2026-06-18,Group-1171275625.webp,,,image/webp,590,74,3.1,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275625.webp,assets/media/2026/06/Group-1171275625.webp
-3822,2026-06-18,placeholder.png,,,image/png,1200,800,6.0,,https://mmag.in/wp-content/uploads/2026/06/placeholder.png,assets/media/2026/06/placeholder.png
-3823,2026-06-18,18-1-scaled.webp,,,image/webp,2560,1440,127.1,,https://mmag.in/wp-content/uploads/2026/06/18-1-scaled-1.webp,assets/media/2026/06/18-1-scaled-1.webp
-3824,2026-06-18,19-1-1-scaled.webp,,,image/webp,2560,1440,317.5,,https://mmag.in/wp-content/uploads/2026/06/19-1-1-scaled-1.webp,assets/media/2026/06/19-1-1-scaled-1.webp
-3825,2026-06-18,19-1-1-1-scaled.webp,,,image/webp,2560,1440,187.9,,https://mmag.in/wp-content/uploads/2026/06/19-1-1-1-scaled-1.webp,assets/media/2026/06/19-1-1-1-scaled-1.webp
-3826,2026-06-18,19-2-1-scaled.webp,,,image/webp,2560,1440,117.1,,https://mmag.in/wp-content/uploads/2026/06/19-2-1-scaled-2.webp,assets/media/2026/06/19-2-1-scaled-2.webp
-3827,2026-06-18,19-3-scaled.webp,,,image/webp,2560,1440,113.1,,https://mmag.in/wp-content/uploads/2026/06/19-3-scaled-1.webp,assets/media/2026/06/19-3-scaled-1.webp
-3828,2026-06-18,20-1-scaled.webp,,,image/webp,2560,1440,117.8,,https://mmag.in/wp-content/uploads/2026/06/20-1-scaled-1.webp,assets/media/2026/06/20-1-scaled-1.webp
-3829,2026-06-18,21-scaled.webp,,,image/webp,2560,1440,80.3,,https://mmag.in/wp-content/uploads/2026/06/21-scaled-2.webp,assets/media/2026/06/21-scaled-2.webp
-3830,2026-06-18,22-scaled.webp,,,image/webp,2560,1440,45.4,,https://mmag.in/wp-content/uploads/2026/06/22-scaled-2.webp,assets/media/2026/06/22-scaled-2.webp
-3831,2026-06-18,23-scaled.webp,,,image/webp,2560,1440,191.7,,https://mmag.in/wp-content/uploads/2026/06/23-scaled-2.webp,assets/media/2026/06/23-scaled-2.webp
-3832,2026-06-18,24-1-scaled.webp,,,image/webp,2560,1440,216.5,,https://mmag.in/wp-content/uploads/2026/06/24-1-scaled-1.webp,assets/media/2026/06/24-1-scaled-1.webp
-3833,2026-06-18,25-scaled.webp,,,image/webp,2560,1440,92.5,,https://mmag.in/wp-content/uploads/2026/06/25-scaled-1.webp,assets/media/2026/06/25-scaled-1.webp
-3834,2026-06-18,26-scaled.webp,,,image/webp,2560,1440,175.9,,https://mmag.in/wp-content/uploads/2026/06/26-scaled-1.webp,assets/media/2026/06/26-scaled-1.webp
-3835,2026-06-18,27-1-scaled.webp,,,image/webp,2560,1440,169.1,,https://mmag.in/wp-content/uploads/2026/06/27-1-scaled-1.webp,assets/media/2026/06/27-1-scaled-1.webp
-3836,2026-06-18,28-scaled.webp,,,image/webp,2560,1440,132.5,,https://mmag.in/wp-content/uploads/2026/06/28-scaled-1.webp,assets/media/2026/06/28-scaled-1.webp
-3837,2026-06-18,29-1-scaled.webp,,,image/webp,2560,1440,209.6,,https://mmag.in/wp-content/uploads/2026/06/29-1-scaled-1.webp,assets/media/2026/06/29-1-scaled-1.webp
-3838,2026-06-18,30-scaled.webp,,,image/webp,2560,1440,115.1,,https://mmag.in/wp-content/uploads/2026/06/30-scaled-1.webp,assets/media/2026/06/30-scaled-1.webp
-3839,2026-06-18,placeholder.png,,,image/png,1200,800,6.0,,https://mmag.in/wp-content/uploads/2026/06/placeholder-1.png,assets/media/2026/06/placeholder-1.png
-3840,2026-06-18,30-scaled.webp,,,image/webp,2560,1440,115.1,,https://mmag.in/wp-content/uploads/2026/06/30-scaled-2.webp,assets/media/2026/06/30-scaled-2.webp
-3841,2026-06-18,31-scaled.webp,,,image/webp,2560,1440,230.4,,https://mmag.in/wp-content/uploads/2026/06/31-scaled-1.webp,assets/media/2026/06/31-scaled-1.webp
-3842,2026-06-18,32-1-1-scaled.webp,,,image/webp,2560,1440,95.4,,https://mmag.in/wp-content/uploads/2026/06/32-1-1-scaled-1.webp,assets/media/2026/06/32-1-1-scaled-1.webp
-3843,2026-06-18,33-1-scaled.webp,,,image/webp,2560,1440,107.6,,https://mmag.in/wp-content/uploads/2026/06/33-1-scaled-1.webp,assets/media/2026/06/33-1-scaled-1.webp
-3844,2026-06-18,42-scaled.webp,,,image/webp,2560,1440,19.9,,https://mmag.in/wp-content/uploads/2026/06/42-scaled-1.webp,assets/media/2026/06/42-scaled-1.webp
-3845,2026-06-18,43-scaled.webp,,,image/webp,2560,1440,183.1,,https://mmag.in/wp-content/uploads/2026/06/43-scaled-1.webp,assets/media/2026/06/43-scaled-1.webp
-3846,2026-06-18,44-scaled.webp,,,image/webp,2560,1440,112.2,,https://mmag.in/wp-content/uploads/2026/06/44-scaled-1.webp,assets/media/2026/06/44-scaled-1.webp
-3847,2026-06-18,46-scaled.webp,,,image/webp,2560,1440,81.5,,https://mmag.in/wp-content/uploads/2026/06/46-scaled-1.webp,assets/media/2026/06/46-scaled-1.webp
-3848,2026-06-18,49-scaled.webp,,,image/webp,2560,1440,128.4,,https://mmag.in/wp-content/uploads/2026/06/49-scaled-1.webp,assets/media/2026/06/49-scaled-1.webp
-3849,2026-06-18,50-scaled.webp,,,image/webp,2560,1440,96.3,,https://mmag.in/wp-content/uploads/2026/06/50-scaled-1.webp,assets/media/2026/06/50-scaled-1.webp
-3874,2026-06-19,1,,,image/webp,200,96,2.6,,https://mmag.in/wp-content/uploads/2026/06/1.webp,assets/media/2026/06/1.webp
-3875,2026-06-19,2,,,image/webp,216,96,2.8,,https://mmag.in/wp-content/uploads/2026/06/2.webp,assets/media/2026/06/2.webp
-3876,2026-06-19,3,,,image/webp,244,96,6.4,,https://mmag.in/wp-content/uploads/2026/06/3.webp,assets/media/2026/06/3.webp
-3877,2026-06-19,4,,,image/webp,330,96,8.2,,https://mmag.in/wp-content/uploads/2026/06/4.webp,assets/media/2026/06/4.webp
-3878,2026-06-19,5,,,image/webp,494,96,10.8,,https://mmag.in/wp-content/uploads/2026/06/5.webp,assets/media/2026/06/5.webp
-3879,2026-06-19,6,,,image/webp,250,96,3.1,,https://mmag.in/wp-content/uploads/2026/06/6.webp,assets/media/2026/06/6.webp
-3883,2026-06-19,9,,,image/webp,244,96,5.5,,https://mmag.in/wp-content/uploads/2026/06/9.webp,assets/media/2026/06/9.webp
-3884,2026-06-19,10,,,image/webp,330,96,8.1,,https://mmag.in/wp-content/uploads/2026/06/10.webp,assets/media/2026/06/10.webp
-3885,2026-06-19,11,,,image/webp,494,96,10.2,,https://mmag.in/wp-content/uploads/2026/06/11.webp,assets/media/2026/06/11.webp
-3886,2026-06-19,12,,,image/webp,250,96,2.3,,https://mmag.in/wp-content/uploads/2026/06/12.webp,assets/media/2026/06/12.webp
-3887,2026-06-19,7,,,image/webp,200,96,1.8,,https://mmag.in/wp-content/uploads/2026/06/7.webp,assets/media/2026/06/7.webp
-3888,2026-06-19,8,,,image/webp,216,96,1.8,,https://mmag.in/wp-content/uploads/2026/06/8.webp,assets/media/2026/06/8.webp
-3898,2026-06-19,ball-2,,,image/webp,28,28,0.4,793,https://mmag.in/wp-content/uploads/2026/06/ball-2.webp,assets/media/2026/06/ball-2.webp
-3899,2026-06-19,ball-1,,,image/webp,44,44,0.4,793,https://mmag.in/wp-content/uploads/2026/06/ball-1.webp,assets/media/2026/06/ball-1.webp
-3936,2026-06-19,png of hover,,,image/webp,265,344,18.8,793,https://mmag.in/wp-content/uploads/2026/06/png-of-hover.webp,assets/media/2026/06/png-of-hover.webp
-3952,2026-06-19,png of hover,,,image/webp,371,374,31.9,793,https://mmag.in/wp-content/uploads/2026/06/png-of-hover-1.webp,assets/media/2026/06/png-of-hover-1.webp
-3971,2026-06-19,7,,,image/webp,200,96,1.7,793,https://mmag.in/wp-content/uploads/2026/06/7-1.webp,assets/media/2026/06/7-1.webp
-3972,2026-06-19,8,,,image/webp,216,96,2.0,793,https://mmag.in/wp-content/uploads/2026/06/8-1.webp,assets/media/2026/06/8-1.webp
-3973,2026-06-19,12,,,image/webp,250,96,3.4,793,https://mmag.in/wp-content/uploads/2026/06/12-1.webp,assets/media/2026/06/12-1.webp
-3974,2026-06-19,7,,,image/webp,200,96,1.7,793,https://mmag.in/wp-content/uploads/2026/06/7-2.webp,assets/media/2026/06/7-2.webp
-3975,2026-06-19,8,,,image/webp,216,96,2.0,793,https://mmag.in/wp-content/uploads/2026/06/8-2.webp,assets/media/2026/06/8-2.webp
-3976,2026-06-19,12,,,image/webp,250,96,3.4,793,https://mmag.in/wp-content/uploads/2026/06/12-2.webp,assets/media/2026/06/12-2.webp
-4008,2026-06-19,Background,,,image/svg+xml,28,28,0.8,793,https://mmag.in/wp-content/uploads/2026/06/Background.svg,assets/media/2026/06/Background.svg
-4029,2026-06-19,7,,,image/webp,200,96,2.4,793,https://mmag.in/wp-content/uploads/2026/06/7-3.webp,assets/media/2026/06/7-3.webp
-4030,2026-06-19,8,,,image/webp,216,96,2.8,793,https://mmag.in/wp-content/uploads/2026/06/8-3.webp,assets/media/2026/06/8-3.webp
-4031,2026-06-19,9,,,image/webp,244,96,6.4,793,https://mmag.in/wp-content/uploads/2026/06/9-1.webp,assets/media/2026/06/9-1.webp
-4032,2026-06-19,10,,,image/webp,330,96,8.4,793,https://mmag.in/wp-content/uploads/2026/06/10-1.webp,assets/media/2026/06/10-1.webp
-4033,2026-06-19,11,,,image/webp,494,96,11.6,793,https://mmag.in/wp-content/uploads/2026/06/11-1.webp,assets/media/2026/06/11-1.webp
-4034,2026-06-19,12,,,image/webp,250,96,4.0,793,https://mmag.in/wp-content/uploads/2026/06/12-3.webp,assets/media/2026/06/12-3.webp
-4035,2026-06-19,13,,,image/webp,144,96,5.7,793,https://mmag.in/wp-content/uploads/2026/06/13.webp,assets/media/2026/06/13.webp
-4280,2026-06-25,Vector.svg,,,image/svg+xml,269,268,0.6,,https://mmag.in/wp-content/uploads/2026/06/Vector.svg,assets/media/2026/06/Vector.svg
-4281,2026-06-25,Mask-group.webp,,,image/webp,2227,921,148.0,,https://mmag.in/wp-content/uploads/2026/06/Mask-group.webp,assets/media/2026/06/Mask-group.webp
-4282,2026-06-25,Group-23.svg,,,image/svg+xml,1105,446,2.5,,https://mmag.in/wp-content/uploads/2026/06/Group-23.svg,assets/media/2026/06/Group-23.svg
-4482,2026-06-26,team,,,image/webp,2560,1129,181.1,793,https://mmag.in/wp-content/uploads/2026/06/team-scaled.webp,assets/media/2026/06/team-scaled.webp
-4487,2026-06-26,11,,,image/svg+xml,247,48,34.7,793,https://mmag.in/wp-content/uploads/2026/06/11.svg,assets/media/2026/06/11.svg
-4488,2026-06-26,12,,,image/svg+xml,125,48,56.1,793,https://mmag.in/wp-content/uploads/2026/06/12.svg,assets/media/2026/06/12.svg
-4489,2026-06-26,13,,,image/svg+xml,72,48,37.5,793,https://mmag.in/wp-content/uploads/2026/06/13.svg,assets/media/2026/06/13.svg
-4490,2026-06-26,7,,,image/svg+xml,100,48,63.1,793,https://mmag.in/wp-content/uploads/2026/06/7.svg,assets/media/2026/06/7.svg
-4491,2026-06-26,8,,,image/svg+xml,108,48,29.5,793,https://mmag.in/wp-content/uploads/2026/06/8.svg,assets/media/2026/06/8.svg
-4492,2026-06-26,9,,,image/svg+xml,122,48,48.0,793,https://mmag.in/wp-content/uploads/2026/06/9.svg,assets/media/2026/06/9.svg
-4493,2026-06-26,10,,,image/svg+xml,165,48,19.1,793,https://mmag.in/wp-content/uploads/2026/06/10.svg,assets/media/2026/06/10.svg
-4494,2026-06-26,10,,,image/png,330,96,7.3,793,https://mmag.in/wp-content/uploads/2026/06/10.png,assets/media/2026/06/10.png
-4495,2026-06-26,11,,,image/png,494,96,22.3,793,https://mmag.in/wp-content/uploads/2026/06/11.png,assets/media/2026/06/11.png
-4496,2026-06-26,12,,,image/png,250,96,9.4,793,https://mmag.in/wp-content/uploads/2026/06/12.png,assets/media/2026/06/12.png
-4497,2026-06-26,13,,,image/png,144,96,12.9,793,https://mmag.in/wp-content/uploads/2026/06/13.png,assets/media/2026/06/13.png
-4498,2026-06-26,7,,,image/png,200,96,11.3,793,https://mmag.in/wp-content/uploads/2026/06/7.png,assets/media/2026/06/7.png
-4499,2026-06-26,8,,,image/png,216,96,9.8,793,https://mmag.in/wp-content/uploads/2026/06/8.png,assets/media/2026/06/8.png
-4500,2026-06-26,9,,,image/png,244,96,15.3,793,https://mmag.in/wp-content/uploads/2026/06/9.png,assets/media/2026/06/9.png
-4501,2026-06-26,11,,,image/png,362,96,13.1,793,https://mmag.in/wp-content/uploads/2026/06/11-1.png,assets/media/2026/06/11-1.png
-4502,2026-06-26,12,,,image/png,198,96,9.3,793,https://mmag.in/wp-content/uploads/2026/06/12-1.png,assets/media/2026/06/12-1.png
-4503,2026-06-26,7,,,image/png,200,96,10.9,793,https://mmag.in/wp-content/uploads/2026/06/7-1.png,assets/media/2026/06/7-1.png
-4527,2026-06-26,Animatio’23,,https://mmag.in/wp-content/uploads/2026/06/Animatio23.mp4,video/mp4,596,842,561.6,793,https://mmag.in/wp-content/uploads/2026/06/Animatio23.mp4,
-4528,2026-06-26,Ani03,,https://mmag.in/wp-content/uploads/2026/06/Ani03.mp4,video/mp4,596,842,1019.4,793,https://mmag.in/wp-content/uploads/2026/06/Ani03.mp4,
-4529,2026-06-26,Ani05,,https://mmag.in/wp-content/uploads/2026/06/Ani05.mp4,video/mp4,596,842,804.8,793,https://mmag.in/wp-content/uploads/2026/06/Ani05.mp4,
-4534,2026-06-26,slide 4,,https://mmag.in/wp-content/uploads/2026/06/slide-4.mp4,video/mp4,596,842,924.7,793,https://mmag.in/wp-content/uploads/2026/06/slide-4.mp4,
-4540,2026-06-26,square To circle Animation,,https://mmag.in/wp-content/uploads/2026/06/square-To-circle-Animation.mp4,video/mp4,596,842,381.1,793,https://mmag.in/wp-content/uploads/2026/06/square-To-circle-Animation.mp4,
-4541,2026-06-26,square To circle Animation,,https://mmag.in/wp-content/uploads/2026/06/square-To-circle-Animation-1.mp4,video/mp4,596,842,381.1,793,https://mmag.in/wp-content/uploads/2026/06/square-To-circle-Animation-1.mp4,
-4545,2026-06-26,8,,,image/png,216,96,9.8,793,https://mmag.in/wp-content/uploads/2026/06/8-1.png,assets/media/2026/06/8-1.png
-4546,2026-06-26,9,,,image/png,244,96,15.3,793,https://mmag.in/wp-content/uploads/2026/06/9-1.png,assets/media/2026/06/9-1.png
-4547,2026-06-26,10,,,image/png,330,96,7.3,793,https://mmag.in/wp-content/uploads/2026/06/10-1.png,assets/media/2026/06/10-1.png
-4548,2026-06-26,11,,,image/png,362,96,13.1,793,https://mmag.in/wp-content/uploads/2026/06/11-2.png,assets/media/2026/06/11-2.png
-4549,2026-06-26,12,,,image/png,198,96,9.3,793,https://mmag.in/wp-content/uploads/2026/06/12-2.png,assets/media/2026/06/12-2.png
-4550,2026-06-26,13,,,image/png,144,96,12.9,793,https://mmag.in/wp-content/uploads/2026/06/13-1.png,assets/media/2026/06/13-1.png
-4551,2026-06-26,7,,,image/png,200,96,10.9,793,https://mmag.in/wp-content/uploads/2026/06/7-2.png,assets/media/2026/06/7-2.png
-4560,2026-06-26,Final (1),,https://mmag.in/wp-content/uploads/2026/06/Final-1.mp4,video/mp4,596,842,196.6,793,https://mmag.in/wp-content/uploads/2026/06/Final-1.mp4,
-4568,2026-06-26,13,,,image/png,80,96,4.2,793,https://mmag.in/wp-content/uploads/2026/06/13-2.png,assets/media/2026/06/13-2.png
-4569,2026-06-26,13,,,image/png,88,96,4.9,793,https://mmag.in/wp-content/uploads/2026/06/13-3.png,assets/media/2026/06/13-3.png
-4573,2026-06-26,13,,,image/png,88,96,5.6,793,https://mmag.in/wp-content/uploads/2026/06/13-4.png,assets/media/2026/06/13-4.png
-4608,2026-07-02,cs-bg (1),,,image/png,1717,916,325.3,4605,https://mmag.in/wp-content/uploads/2026/07/cs-bg-1.png,assets/media/2026/07/cs-bg-1.png
-5005,2026-10-23,Artboard 2,,,image/jpeg,650,189,25.0,,https://mmag.in/wp-content/uploads/2026/10/Artboard-2.jpg,assets/media/2026/10/Artboard-2.jpg
-5006,2026-10-23,image21,,,image/png,227,316,47.1,,https://mmag.in/wp-content/uploads/2026/10/image21.png,assets/media/2026/10/image21.png
-5009,2026-10-30,67,,,image/webp,2560,1440,70.2,3850,https://mmag.in/wp-content/uploads/2026/06/67-scaled.webp,assets/media/2026/06/67-scaled.webp
-5011,2026-10-30,67,,,image/webp,2560,1440,70.7,3850,https://mmag.in/wp-content/uploads/2026/06/67-1-scaled.webp,assets/media/2026/06/67-1-scaled.webp
-5012,2026-10-30,68,,,image/webp,2560,1440,55.9,3850,https://mmag.in/wp-content/uploads/2026/06/68-scaled.webp,assets/media/2026/06/68-scaled.webp
+id,date,title,alt_text,caption,mime_type,width,height,filesize_kb,attached_to_post,source_url,local_path,source
+48,2026-01-05,MMAG-scaled,,,image/webp,2075,2560,29.7,6,https://mmag.in/wp-content/uploads/2026/01/MMAG-scaled-1.webp,assets/media/2026/01/MMAG-scaled-1.webp,wp-rest-api
+144,2026-01-06,fonnts.com-Aeonik-Bold,,fonnts.com-Aeonik-Bold,application/x-font-ttf,,,97.9,,https://mmag.in/wp-content/uploads/2026/01/fonnts.com-Aeonik-Bold.ttf,,wp-rest-api
+164,2026-01-06,3D Cubes,,3D Cubes,application/json,,,12.4,,https://mmag.in/wp-content/uploads/2026/01/3D-Cubes.json,assets/media/2026/01/3D-Cubes.json,wp-rest-api
+216,2026-01-06,image9,,,image/jpeg,1614,1052,341.7,,https://mmag.in/wp-content/uploads/2026/01/image9.jpg,assets/media/2026/01/image9.jpg,wp-rest-api
+244,2026-01-06,first-bg,,https://mmag.in/wp-content/uploads/2026/01/first-bg.mp4,video/mp4,1920,1080,7310.6,,https://mmag.in/wp-content/uploads/2026/01/first-bg.mp4,,wp-rest-api
+423,2026-01-08,network-video,,https://mmag.in/wp-content/uploads/2026/01/network-video.mp4,video/mp4,1920,1080,4388.3,,https://mmag.in/wp-content/uploads/2026/01/network-video.mp4,,wp-rest-api
+604,2026-01-08,calculator-ellipse-small,,,image/svg+xml,470,470,0.4,,https://mmag.in/wp-content/uploads/2026/01/calculator-ellipse-small.svg,assets/media/2026/01/calculator-ellipse-small.svg,wp-rest-api
+605,2026-01-08,calculator-ellipse,,,image/svg+xml,470,470,0.4,,https://mmag.in/wp-content/uploads/2026/01/calculator-ellipse.svg,assets/media/2026/01/calculator-ellipse.svg,wp-rest-api
+649,2026-01-12,exit-quickSale,,,image/webp,1110,1440,55.7,,https://mmag.in/wp-content/uploads/2026/01/exit-quickSale.webp,assets/media/2026/01/exit-quickSale.webp,wp-rest-api
+657,2026-01-12,exit-rampUp,,,image/webp,1110,1440,43.7,,https://mmag.in/wp-content/uploads/2026/01/exit-rampUp.webp,assets/media/2026/01/exit-rampUp.webp,wp-rest-api
+658,2026-01-12,exit-longRun,,,image/webp,1110,1440,242.8,,https://mmag.in/wp-content/uploads/2026/01/exit-longRun.webp,assets/media/2026/01/exit-longRun.webp,wp-rest-api
+729,2026-01-12,Customers near sales funnel cone,,Customers near sales funnel cone,application/json,,,168.2,,https://mmag.in/wp-content/uploads/2026/01/Customers-near-sales-funnel-cone.json,assets/media/2026/01/Customers-near-sales-funnel-cone.json,wp-rest-api
+734,2026-01-12,trust,,trust,application/json,,,39.3,,https://mmag.in/wp-content/uploads/2026/01/trust.json,assets/media/2026/01/trust.json,wp-rest-api
+741,2026-01-12,Time to make business,,Time to make business,application/json,,,96.7,,https://mmag.in/wp-content/uploads/2026/01/Time-to-make-business.json,assets/media/2026/01/Time-to-make-business.json,wp-rest-api
+745,2026-01-12,lottie,,lottie,application/json,,,388.1,,https://mmag.in/wp-content/uploads/2026/01/lottie.json,assets/media/2026/01/lottie.json,wp-rest-api
+806,2026-01-30,Group 4 (1),,,image/svg+xml,581,807,1220.3,,https://mmag.in/wp-content/uploads/2026/01/Group-4-1.svg,assets/media/2026/01/Group-4-1.svg,wp-rest-api
+808,2026-01-30,Group 4,,,image/webp,1162,1614,171.7,,https://mmag.in/wp-content/uploads/2026/01/Group-4.webp,assets/media/2026/01/Group-4.webp,wp-rest-api
+907,2026-01-30,Mask group (15),,,image/webp,663,1138,7.4,793,https://mmag.in/wp-content/uploads/2026/01/Mask-group-15.webp,assets/media/2026/01/Mask-group-15.webp,wp-rest-api
+938,2026-01-30,39207234_22Y_a1gn6t35dhfm4obcdgmj0d8 [Converted]-01 1,,,image/webp,492,478,14.7,793,https://mmag.in/wp-content/uploads/2026/01/39207234_22Y_a1gn6t35dhfm4obcdgmj0d8-Converted-01-1.webp,assets/media/2026/01/39207234_22Y_a1gn6t35dhfm4obcdgmj0d8-Converted-01-1.webp,wp-rest-api
+987,2026-02-02,Frame (1),,,image/svg+xml,123,123,13.0,793,https://mmag.in/wp-content/uploads/2026/02/Frame-1.svg,assets/media/2026/02/Frame-1.svg,wp-rest-api
+992,2026-02-02,_2 (1),,,image/svg+xml,82,66,19.4,793,https://mmag.in/wp-content/uploads/2026/02/2-1.svg,assets/media/2026/02/2-1.svg,wp-rest-api
+993,2026-02-02,Frame (2),,,image/svg+xml,112,103,8.2,793,https://mmag.in/wp-content/uploads/2026/02/Frame-2.svg,assets/media/2026/02/Frame-2.svg,wp-rest-api
+1009,2026-02-02,Vector (11),,,image/svg+xml,93,93,0.3,793,https://mmag.in/wp-content/uploads/2026/02/Vector-11.svg,assets/media/2026/02/Vector-11.svg,wp-rest-api
+1010,2026-02-02,Vector (12),,,image/svg+xml,132,70,0.2,793,https://mmag.in/wp-content/uploads/2026/02/Vector-12.svg,assets/media/2026/02/Vector-12.svg,wp-rest-api
+1031,2026-02-02,svg-icon1,,,image/svg+xml,123,123,13.0,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon1.svg,assets/media/2026/02/svg-icon1.svg,wp-rest-api
+1087,2026-02-02,svg-icon2,,,image/svg+xml,82,66,19.5,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon2.svg,assets/media/2026/02/svg-icon2.svg,wp-rest-api
+1110,2026-02-02,animation (1),,animation (1),application/json,,,0.1,793,https://mmag.in/wp-content/uploads/2026/02/animation-1.json,assets/media/2026/02/animation-1.json,wp-rest-api
+1135,2026-02-02,Frame 78,,,image/webp,1804,842,136.4,793,https://mmag.in/wp-content/uploads/2026/02/Frame-78.webp,assets/media/2026/02/Frame-78.webp,wp-rest-api
+1140,2026-02-02,Group 8 (1),,,image/png,167,333,26.5,,https://mmag.in/wp-content/uploads/2026/02/Group-8-1.png,assets/media/2026/02/Group-8-1.png,wp-rest-api
+1141,2026-02-02,Group 7,,,image/png,145,282,16.7,,https://mmag.in/wp-content/uploads/2026/02/Group-7.png,assets/media/2026/02/Group-7.png,wp-rest-api
+1142,2026-02-02,Group 6,,,image/png,126,231,18.3,,https://mmag.in/wp-content/uploads/2026/02/Group-6.png,assets/media/2026/02/Group-6.png,wp-rest-api
+1181,2026-02-02,Frame 39,,,image/webp,486,300,11.3,,https://mmag.in/wp-content/uploads/2026/02/Frame-39.webp,assets/media/2026/02/Frame-39.webp,wp-rest-api
+1182,2026-02-02,Frame 55,,,image/webp,486,300,11.2,,https://mmag.in/wp-content/uploads/2026/02/Frame-55.webp,assets/media/2026/02/Frame-55.webp,wp-rest-api
+1183,2026-02-02,Frame 56,,,image/webp,486,300,15.6,,https://mmag.in/wp-content/uploads/2026/02/Frame-56.webp,assets/media/2026/02/Frame-56.webp,wp-rest-api
+1184,2026-02-02,Frame 57,,,image/webp,486,300,4.4,,https://mmag.in/wp-content/uploads/2026/02/Frame-57.webp,assets/media/2026/02/Frame-57.webp,wp-rest-api
+1185,2026-02-02,Frame 58,,,image/webp,486,300,13.5,,https://mmag.in/wp-content/uploads/2026/02/Frame-58.webp,assets/media/2026/02/Frame-58.webp,wp-rest-api
+1186,2026-02-02,Frame 59,,,image/webp,486,300,16.3,,https://mmag.in/wp-content/uploads/2026/02/Frame-59.webp,assets/media/2026/02/Frame-59.webp,wp-rest-api
+1200,2026-02-03,svg-icon3,,,image/svg+xml,112,103,8.2,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon3.svg,assets/media/2026/02/svg-icon3.svg,wp-rest-api
+1201,2026-02-03,slide vv3 design,,https://mmag.in/wp-content/uploads/2026/02/slide-vv3-design.mp4,video/mp4,596,842,139.1,793,https://mmag.in/wp-content/uploads/2026/02/slide-vv3-design.mp4,,wp-rest-api
+1218,2026-02-03,svg-icon4,,,image/svg+xml,81,116,5.3,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon4.svg,assets/media/2026/02/svg-icon4.svg,wp-rest-api
+1222,2026-02-03,svg-icon4 (1),,,image/svg+xml,81,116,5.3,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon4-1.svg,assets/media/2026/02/svg-icon4-1.svg,wp-rest-api
+1229,2026-02-03,svg-icon5,,,image/svg+xml,93,93,0.7,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon5.svg,assets/media/2026/02/svg-icon5.svg,wp-rest-api
+1298,2026-02-03,data,,data,application/json,,,9.1,793,https://mmag.in/wp-content/uploads/2026/02/data.json,assets/media/2026/02/data.json,wp-rest-api
+1305,2026-02-03,Animatio’,,https://mmag.in/wp-content/uploads/2026/02/Animatio.mp4,video/mp4,596,842,377.3,793,https://mmag.in/wp-content/uploads/2026/02/Animatio.mp4,,wp-rest-api
+1315,2026-02-03,Animatio’_2,,https://mmag.in/wp-content/uploads/2026/02/Animatio_2.mp4,video/mp4,596,842,491.5,793,https://mmag.in/wp-content/uploads/2026/02/Animatio_2.mp4,,wp-rest-api
+1319,2026-02-03,Animatio’_2,,Animatio’_2,application/json,,,706.1,793,https://mmag.in/wp-content/uploads/2026/02/Animatio_2.json,assets/media/2026/02/Animatio_2.json,wp-rest-api
+1337,2026-02-03,svg-icon6 (1),,,image/svg+xml,224,261,0.7,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon6-1.svg,assets/media/2026/02/svg-icon6-1.svg,wp-rest-api
+1397,2026-02-03,svg-icon7,,,image/svg+xml,1700,1700,5.6,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon7.svg,assets/media/2026/02/svg-icon7.svg,wp-rest-api
+1401,2026-02-03,Untitled file,,Untitled file,application/json,,,23.1,793,https://mmag.in/wp-content/uploads/2026/02/Untitled-file.json,assets/media/2026/02/Untitled-file.json,wp-rest-api
+1412,2026-02-03,Untitled file (1),,Untitled file (1),application/json,,,23.2,793,https://mmag.in/wp-content/uploads/2026/02/Untitled-file-1.json,assets/media/2026/02/Untitled-file-1.json,wp-rest-api
+1423,2026-02-03,cloudsufi_logo copy 1 1,,,image/png,65,68,5.2,793,https://mmag.in/wp-content/uploads/2026/02/cloudsufi_logo-copy-1-1.png,assets/media/2026/02/cloudsufi_logo-copy-1-1.png,wp-rest-api
+1433,2026-02-03,DSC04771 1,,,image/webp,2560,1129,186.4,793,https://mmag.in/wp-content/uploads/2026/02/DSC04771-1-scaled.webp,assets/media/2026/02/DSC04771-1-scaled.webp,wp-rest-api
+1434,2026-02-03,Vector (13),,,image/svg+xml,1328,845,1.0,793,https://mmag.in/wp-content/uploads/2026/02/Vector-13.svg,assets/media/2026/02/Vector-13.svg,wp-rest-api
+1444,2026-02-03,mail,,,image/svg+xml,32,32,0.8,619,https://mmag.in/wp-content/uploads/2026/01/mail.svg,assets/media/2026/01/mail.svg,wp-rest-api
+1445,2026-02-03,contact,,,image/svg+xml,32,32,0.8,619,https://mmag.in/wp-content/uploads/2026/01/contact.svg,assets/media/2026/01/contact.svg,wp-rest-api
+1446,2026-02-03,Location,,,image/svg+xml,32,32,0.8,619,https://mmag.in/wp-content/uploads/2026/01/Location.svg,assets/media/2026/01/Location.svg,wp-rest-api
+1486,2026-02-04,Ani03 (1),,https://mmag.in/wp-content/uploads/2026/02/Ani03-1.mp4,video/mp4,596,842,330.7,793,https://mmag.in/wp-content/uploads/2026/02/Ani03-1.mp4,,wp-rest-api
+1497,2026-02-04,performance,,,image/svg+xml,120,176,1.3,793,https://mmag.in/wp-content/uploads/2026/02/performance.svg,assets/media/2026/02/performance.svg,wp-rest-api
+1502,2026-02-04,svg-icon8,,,image/svg+xml,130,70,0.7,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon8.svg,assets/media/2026/02/svg-icon8.svg,wp-rest-api
+1506,2026-02-04,svg-icon9,,,image/svg+xml,132,71,0.6,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon9.svg,assets/media/2026/02/svg-icon9.svg,wp-rest-api
+1507,2026-02-04,svg-icon10,,,image/svg+xml,120,176,1.3,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon10.svg,assets/media/2026/02/svg-icon10.svg,wp-rest-api
+1614,2026-02-04,work (1),,,image/webp,507,425,9.8,793,https://mmag.in/wp-content/uploads/2026/02/work-1.webp,assets/media/2026/02/work-1.webp,wp-rest-api
+1615,2026-02-04,work,,,image/webp,507,425,4.2,793,https://mmag.in/wp-content/uploads/2026/02/work.webp,assets/media/2026/02/work.webp,wp-rest-api
+1616,2026-02-04,Flyer-Postcard-Mockup-01 copy 1,,,image/webp,507,424,6.2,793,https://mmag.in/wp-content/uploads/2026/02/Flyer-Postcard-Mockup-01-copy-1.webp,assets/media/2026/02/Flyer-Postcard-Mockup-01-copy-1.webp,wp-rest-api
+1682,2026-02-04,Vector (15),,,image/svg+xml,1413,750,2.3,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-15.svg,assets/media/2026/02/Vector-15.svg,wp-rest-api
+1760,2026-02-05,Rushi 1,,,image/webp,814,1206,31.2,1657,https://mmag.in/wp-content/uploads/2026/02/Rushi-1.webp,assets/media/2026/02/Rushi-1.webp,wp-rest-api
+1769,2026-02-05,Frame 1,,,image/webp,840,996,21.7,1657,https://mmag.in/wp-content/uploads/2026/02/Frame-1.webp,assets/media/2026/02/Frame-1.webp,wp-rest-api
+1795,2026-02-05,Group 1171275645 1,,,image/webp,1822,1054,82.7,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275645-1.webp,assets/media/2026/02/Group-1171275645-1.webp,wp-rest-api
+1796,2026-02-05,logo 1,,,image/png,130,24,4.9,,https://mmag.in/wp-content/uploads/2026/02/logo-1.png,assets/media/2026/02/logo-1.png,wp-rest-api
+1817,2026-02-05,Vector (16),,,image/svg+xml,22,15,0.2,47,https://mmag.in/wp-content/uploads/2026/01/Vector-16.svg,assets/media/2026/01/Vector-16.svg,wp-rest-api
+1818,2026-02-05,menu bar,,,image/svg+xml,39,395,0.6,47,https://mmag.in/wp-content/uploads/2026/01/menu-bar.svg,assets/media/2026/01/menu-bar.svg,wp-rest-api
+1820,2026-02-05,Group 1171275584,,,image/svg+xml,39,395,0.7,47,https://mmag.in/wp-content/uploads/2026/01/Group-1171275584.svg,assets/media/2026/01/Group-1171275584.svg,wp-rest-api
+1830,2026-02-05,Close,,,image/svg+xml,44,44,0.2,47,https://mmag.in/wp-content/uploads/2026/01/Close.svg,assets/media/2026/01/Close.svg,wp-rest-api
+1998,2026-02-05,about-icon,,,image/svg+xml,105,94,10.8,47,https://mmag.in/wp-content/uploads/2026/01/about-icon.svg,assets/media/2026/01/about-icon.svg,wp-rest-api
+2024,2026-02-05,MMAG-scaled,,https://mmag.in/wp-content/uploads/2026/01/cropped-MMAG-scaled-1.webp,image/webp,512,512,5.1,48,https://mmag.in/wp-content/uploads/2026/01/cropped-MMAG-scaled-1.webp,assets/media/2026/01/cropped-MMAG-scaled-1.webp,wp-rest-api
+2086,2026-02-06,Vector 71,,,image/svg+xml,2,206,0.5,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-71.svg,assets/media/2026/02/Vector-71.svg,wp-rest-api
+2087,2026-02-06,Rectangle 10,,,image/svg+xml,332,18,0.2,1657,https://mmag.in/wp-content/uploads/2026/02/Rectangle-10.svg,assets/media/2026/02/Rectangle-10.svg,wp-rest-api
+2088,2026-02-06,Rectangle 9,,,image/svg+xml,338,18,0.2,1657,https://mmag.in/wp-content/uploads/2026/02/Rectangle-9.svg,assets/media/2026/02/Rectangle-9.svg,wp-rest-api
+2118,2026-02-06,work 2,,,image/webp,1014,850,41.1,793,https://mmag.in/wp-content/uploads/2026/02/work-2.webp,assets/media/2026/02/work-2.webp,wp-rest-api
+2119,2026-02-06,work,,,image/webp,1014,850,110.7,793,https://mmag.in/wp-content/uploads/2026/02/work-3.webp,assets/media/2026/02/work-3.webp,wp-rest-api
+2120,2026-02-06,work-1,,,image/webp,1014,850,41.6,793,https://mmag.in/wp-content/uploads/2026/02/work-1-1.webp,assets/media/2026/02/work-1-1.webp,wp-rest-api
+2121,2026-02-06,work-2,,,image/webp,1014,850,158.9,793,https://mmag.in/wp-content/uploads/2026/02/work-2-1.webp,assets/media/2026/02/work-2-1.webp,wp-rest-api
+2122,2026-02-06,work-3,,,image/webp,1014,850,68.5,793,https://mmag.in/wp-content/uploads/2026/02/work-3-1.webp,assets/media/2026/02/work-3-1.webp,wp-rest-api
+2123,2026-02-06,work-4,,,image/webp,1014,850,96.8,793,https://mmag.in/wp-content/uploads/2026/02/work-4.webp,assets/media/2026/02/work-4.webp,wp-rest-api
+2124,2026-02-06,work-5,,,image/webp,1014,850,38.4,793,https://mmag.in/wp-content/uploads/2026/02/work-5.webp,assets/media/2026/02/work-5.webp,wp-rest-api
+2125,2026-02-06,work-6,,,image/webp,1014,850,157.2,793,https://mmag.in/wp-content/uploads/2026/02/work-6.webp,assets/media/2026/02/work-6.webp,wp-rest-api
+2126,2026-02-06,work-7,,,image/webp,1014,850,127.8,793,https://mmag.in/wp-content/uploads/2026/02/work-7.webp,assets/media/2026/02/work-7.webp,wp-rest-api
+2142,2026-02-06,Frame 63,,,image/svg+xml,48,48,0.3,793,https://mmag.in/wp-content/uploads/2026/02/Frame-63.svg,assets/media/2026/02/Frame-63.svg,wp-rest-api
+2143,2026-02-06,Frame 64,,,image/svg+xml,48,48,0.3,793,https://mmag.in/wp-content/uploads/2026/02/Frame-64.svg,assets/media/2026/02/Frame-64.svg,wp-rest-api
+2144,2026-02-06,Frame 64,,,image/svg+xml,48,48,0.3,793,https://mmag.in/wp-content/uploads/2026/02/Frame-64-1.svg,assets/media/2026/02/Frame-64-1.svg,wp-rest-api
+2157,2026-02-06,SM_Post_04 1 1,,,image/webp,2560,1083,482.3,,https://mmag.in/wp-content/uploads/2026/02/SM_Post_04-1-1-scaled.webp,assets/media/2026/02/SM_Post_04-1-1-scaled.webp,wp-rest-api
+2158,2026-02-06,SM_Post_04 1 1 (2),,,image/webp,2560,1083,478.3,,https://mmag.in/wp-content/uploads/2026/02/SM_Post_04-1-1-2-scaled.webp,assets/media/2026/02/SM_Post_04-1-1-2-scaled.webp,wp-rest-api
+2178,2026-02-06,1-38 1,,,image/png,506,134,36.4,,https://mmag.in/wp-content/uploads/2026/02/1-38-1.png,assets/media/2026/02/1-38-1.png,wp-rest-api
+2205,2026-02-06,001_windmill-Lemon 1,,,image/webp,880,1102,53.0,,https://mmag.in/wp-content/uploads/2026/02/001_windmill-Lemon-1.webp,assets/media/2026/02/001_windmill-Lemon-1.webp,wp-rest-api
+2207,2026-02-06,03_ Eid 1,,,image/webp,888,946,32.2,,https://mmag.in/wp-content/uploads/2026/02/03_-Eid-1.webp,assets/media/2026/02/03_-Eid-1.webp,wp-rest-api
+2208,2026-02-06,03_windmill-lemon-cream 1,,,image/webp,882,1103,45.8,,https://mmag.in/wp-content/uploads/2026/02/03_windmill-lemon-cream-1.webp,assets/media/2026/02/03_windmill-lemon-cream-1.webp,wp-rest-api
+2209,2026-02-06,004_windmill Fingers 1,,,image/webp,882,1104,77.4,,https://mmag.in/wp-content/uploads/2026/02/004_windmill-Fingers-1.webp,assets/media/2026/02/004_windmill-Fingers-1.webp,wp-rest-api
+2210,2026-02-06,04_Marie 1,,,image/webp,880,946,70.0,,https://mmag.in/wp-content/uploads/2026/02/04_Marie-1.webp,assets/media/2026/02/04_Marie-1.webp,wp-rest-api
+2211,2026-02-06,04_windmill Fingers 1,,,image/webp,882,1102,76.4,,https://mmag.in/wp-content/uploads/2026/02/04_windmill-Fingers-1.webp,assets/media/2026/02/04_windmill-Fingers-1.webp,wp-rest-api
+2212,2026-02-06,05_Windmill fingers 1,,,image/webp,884,1105,65.5,,https://mmag.in/wp-content/uploads/2026/02/05_Windmill-fingers-1.webp,assets/media/2026/02/05_Windmill-fingers-1.webp,wp-rest-api
+2213,2026-02-06,05_windmill-lemon-cream 1,,,image/webp,882,1102,93.2,,https://mmag.in/wp-content/uploads/2026/02/05_windmill-lemon-cream-1.webp,assets/media/2026/02/05_windmill-lemon-cream-1.webp,wp-rest-api
+2214,2026-02-06,Group 1171275644,,,image/webp,878,946,59.1,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275644.webp,assets/media/2026/02/Group-1171275644.webp,wp-rest-api
+2221,2026-02-06,Group 1171275644,,,image/webp,878,946,58.0,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275644-1.webp,assets/media/2026/02/Group-1171275644-1.webp,wp-rest-api
+2229,2026-02-06,112121212 1,,,image/webp,1878,1436,230.6,,https://mmag.in/wp-content/uploads/2026/02/112121212-1.webp,assets/media/2026/02/112121212-1.webp,wp-rest-api
+2234,2026-02-06,MMAG logo,,,image/png,61,75,2.3,,https://mmag.in/wp-content/uploads/2026/02/MMAG-logo.png,assets/media/2026/02/MMAG-logo.png,wp-rest-api
+2269,2026-02-09,logo_png_Asset_1_2x_400e53c3-6e4a-4237-a14c-c214cf2aab92,,,image/png,347,44,3.5,793,https://mmag.in/wp-content/uploads/2026/02/logo_png_Asset_1_2x_400e53c3-6e4a-4237-a14c-c214cf2aab92.png,assets/media/2026/02/logo_png_Asset_1_2x_400e53c3-6e4a-4237-a14c-c214cf2aab92.png,wp-rest-api
+2270,2026-02-09,Frame-1-3,,,image/png,826,278,19.7,793,https://mmag.in/wp-content/uploads/2026/02/Frame-1-3.png,assets/media/2026/02/Frame-1-3.png,wp-rest-api
+2271,2026-02-09,logo,,,image/svg+xml,118,142,9.5,793,https://mmag.in/wp-content/uploads/2026/02/logo.svg,assets/media/2026/02/logo.svg,wp-rest-api
+2275,2026-02-09,images,,,image/png,225,225,2.4,793,https://mmag.in/wp-content/uploads/2026/02/images.png,assets/media/2026/02/images.png,wp-rest-api
+2276,2026-02-09,8ee374_023c7eb18711467482c296805dd29654~mv2,,,image/png,2126,591,321.6,793,https://mmag.in/wp-content/uploads/2026/02/8ee374_023c7eb18711467482c296805dd29654mv2.png,assets/media/2026/02/8ee374_023c7eb18711467482c296805dd29654mv2.png,wp-rest-api
+2277,2026-02-09,8ee374_023c7eb18711467482c296805dd29654~mv2,,,image/webp,2126,591,29.3,793,https://mmag.in/wp-content/uploads/2026/02/8ee374_023c7eb18711467482c296805dd29654mv2.webp,assets/media/2026/02/8ee374_023c7eb18711467482c296805dd29654mv2.webp,wp-rest-api
+2329,2026-02-09,Main Logo 1,,,image/webp,442,110,7.2,,https://mmag.in/wp-content/uploads/2026/02/Main-Logo-1.webp,assets/media/2026/02/Main-Logo-1.webp,wp-rest-api
+2330,2026-02-09,Trevex-LandingPgAsset 2 2,,,image/webp,2198,1322,99.2,,https://mmag.in/wp-content/uploads/2026/02/Trevex-LandingPgAsset-2-2.webp,assets/media/2026/02/Trevex-LandingPgAsset-2-2.webp,wp-rest-api
+2331,2026-02-09,Trevex Adaptations for Website-02 1,,,image/webp,2560,1440,152.7,,https://mmag.in/wp-content/uploads/2026/02/Trevex-Adaptations-for-Website-02-1-scaled.webp,assets/media/2026/02/Trevex-Adaptations-for-Website-02-1-scaled.webp,wp-rest-api
+2332,2026-02-09,Trevex-Emailer-Asset 2 1,,,image/webp,656,1418,43.1,,https://mmag.in/wp-content/uploads/2026/02/Trevex-Emailer-Asset-2-1.webp,assets/media/2026/02/Trevex-Emailer-Asset-2-1.webp,wp-rest-api
+2333,2026-02-09,Trevex-Emailer-Asset 1 1,,,image/webp,486,1046,30.8,,https://mmag.in/wp-content/uploads/2026/02/Trevex-Emailer-Asset-1-1.webp,assets/media/2026/02/Trevex-Emailer-Asset-1-1.webp,wp-rest-api
+2337,2026-02-09,image 58 1,,,image/webp,376,164,4.5,,https://mmag.in/wp-content/uploads/2026/02/image-58-1.webp,assets/media/2026/02/image-58-1.webp,wp-rest-api
+2339,2026-02-09,Bajaj social media mockups 2 2,,,image/webp,2560,1708,135.8,,https://mmag.in/wp-content/uploads/2026/02/Bajaj-social-media-mockups-2-2-scaled.webp,assets/media/2026/02/Bajaj-social-media-mockups-2-2-scaled.webp,wp-rest-api
+2340,2026-02-09,Bajaj social media mockups 2 (1),,,image/webp,2560,1509,446.6,,https://mmag.in/wp-content/uploads/2026/02/Bajaj-social-media-mockups-2-1-scaled.webp,assets/media/2026/02/Bajaj-social-media-mockups-2-1-scaled.webp,wp-rest-api
+2353,2026-02-09,Mask-group-1.webp,,,image/webp,1102,990,9.4,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-1.webp,assets/media/2026/02/Mask-group-1.webp,wp-rest-api
+2373,2026-02-09,Frame 12,,,image/webp,660,782,14.7,1657,https://mmag.in/wp-content/uploads/2026/02/Frame-12.webp,assets/media/2026/02/Frame-12.webp,wp-rest-api
+2383,2026-02-10,MMAG logo (1),,,image/png,128,158,4.4,,https://mmag.in/wp-content/uploads/2026/02/MMAG-logo-1.png,assets/media/2026/02/MMAG-logo-1.png,wp-rest-api
+2386,2026-02-10,Layer_1 (19),,,image/svg+xml,73,87,2.6,1657,https://mmag.in/wp-content/uploads/2026/02/Layer_1-19.svg,assets/media/2026/02/Layer_1-19.svg,wp-rest-api
+2522,2026-02-11,Vector (17),,,image/svg+xml,47,63,2.5,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-17.svg,assets/media/2026/02/Vector-17.svg,wp-rest-api
+2523,2026-02-11,Vector (18),,,image/svg+xml,43,86,2.5,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-18.svg,assets/media/2026/02/Vector-18.svg,wp-rest-api
+2530,2026-02-11,Vector (19),,,image/svg+xml,33,79,2.4,1657,https://mmag.in/wp-content/uploads/2026/02/Vector-19.svg,assets/media/2026/02/Vector-19.svg,wp-rest-api
+2552,2026-02-11,Frame 82,,,image/png,64,79,2.3,,https://mmag.in/wp-content/uploads/2026/02/Frame-82.png,assets/media/2026/02/Frame-82.png,wp-rest-api
+2554,2026-02-11,cropped-Frame-82.png,,https://mmag.in/wp-content/uploads/2026/02/cropped-Frame-82.png,image/png,512,512,30.2,2552,https://mmag.in/wp-content/uploads/2026/02/cropped-Frame-82.png,assets/media/2026/02/cropped-Frame-82.png,wp-rest-api
+2555,2026-02-11,Group 1171275584,,,image/png,64,64,1.8,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275584.png,assets/media/2026/02/Group-1171275584.png,wp-rest-api
+2556,2026-02-11,cropped-Group-1171275584.png,,https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584.png,image/png,512,512,27.2,2555,https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584.png,assets/media/2026/02/cropped-Group-1171275584.png,wp-rest-api
+2557,2026-02-11,MMAG logo (2),,,image/png,104,128,3.5,6,https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png,assets/media/2026/01/MMAG-logo-2.png,wp-rest-api
+2562,2026-02-11,svg-icon4 (2),,,image/svg+xml,81,81,5.2,793,https://mmag.in/wp-content/uploads/2026/02/svg-icon4-2.svg,assets/media/2026/02/svg-icon4-2.svg,wp-rest-api
+2591,2026-02-13,TKG_Soothers,,https://mmag.in/wp-content/uploads/2026/02/TKG_Soothers.mp4,video/mp4,1080,1920,2947.8,,https://mmag.in/wp-content/uploads/2026/02/TKG_Soothers.mp4,,wp-rest-api
+2592,2026-02-13,TKG_Soothers,,,image/webp,443,788,17.3,,https://mmag.in/wp-content/uploads/2026/02/TKG_Soothers.webp,assets/media/2026/02/TKG_Soothers.webp,wp-rest-api
+2597,2026-02-13,Nov_Swissbake Chelsea Chocmeltz,,https://mmag.in/wp-content/uploads/2026/02/Nov_Swissbake-Chelsea-Chocmeltz.mp4,video/mp4,1080,1920,4541.3,,https://mmag.in/wp-content/uploads/2026/02/Nov_Swissbake-Chelsea-Chocmeltz.mp4,,wp-rest-api
+2598,2026-02-13,Mask group (16),,,image/webp,443,789,19.8,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-16.webp,assets/media/2026/02/Mask-group-16.webp,wp-rest-api
+2599,2026-02-13,Mask group (17),,,image/webp,443,789,15.9,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-17.webp,assets/media/2026/02/Mask-group-17.webp,wp-rest-api
+2604,2026-02-13,Nov_TKG_HygieniX Hand wash,,https://mmag.in/wp-content/uploads/2026/02/Nov_TKG_HygieniX-Hand-wash.mp4,video/mp4,1080,1920,3216.4,,https://mmag.in/wp-content/uploads/2026/02/Nov_TKG_HygieniX-Hand-wash.mp4,,wp-rest-api
+2609,2026-02-13,Mask group (19),,,image/webp,443,789,26.1,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-19.webp,assets/media/2026/02/Mask-group-19.webp,wp-rest-api
+2610,2026-02-13,Mask group (18),,,image/webp,443,789,18.1,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-18.webp,assets/media/2026/02/Mask-group-18.webp,wp-rest-api
+2611,2026-02-13,Mask group (22),,,image/webp,443,789,19.0,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-22.webp,assets/media/2026/02/Mask-group-22.webp,wp-rest-api
+2612,2026-02-13,Oct_Mojo Energy (Students),,https://mmag.in/wp-content/uploads/2026/02/Oct_Mojo-Energy-Students.mp4,video/mp4,1080,1920,6631.4,,https://mmag.in/wp-content/uploads/2026/02/Oct_Mojo-Energy-Students.mp4,,wp-rest-api
+2617,2026-02-13,Dec_Marie,,https://mmag.in/wp-content/uploads/2026/02/Dec_Marie.mp4,video/mp4,1080,1920,3165.4,,https://mmag.in/wp-content/uploads/2026/02/Dec_Marie.mp4,,wp-rest-api
+2622,2026-02-13,Mask group (19),,,image/webp,443,789,26.1,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-19-1.webp,assets/media/2026/02/Mask-group-19-1.webp,wp-rest-api
+2624,2026-02-13,Nov_01_Cookie Joe Shorties_,,https://mmag.in/wp-content/uploads/2026/02/Nov_01_Cookie-Joe-Shorties_.mp4,video/mp4,1080,1920,5935.9,,https://mmag.in/wp-content/uploads/2026/02/Nov_01_Cookie-Joe-Shorties_.mp4,,wp-rest-api
+2625,2026-02-13,BT-Bev_Vatra,,,image/webp,443,789,15.4,,https://mmag.in/wp-content/uploads/2026/02/BT-Bev_Vatra.webp,assets/media/2026/02/BT-Bev_Vatra.webp,wp-rest-api
+2630,2026-02-16,Nov_01_Lifeway Shots,,https://mmag.in/wp-content/uploads/2026/02/Nov_01_Lifeway-Shots.mp4,video/mp4,1080,1920,4238.2,,https://mmag.in/wp-content/uploads/2026/02/Nov_01_Lifeway-Shots.mp4,,wp-rest-api
+2631,2026-02-16,Mask group (24),,,image/webp,443,789,15.9,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-24.webp,assets/media/2026/02/Mask-group-24.webp,wp-rest-api
+2632,2026-02-16,Mask group (23),,,image/webp,443,789,29.9,,https://mmag.in/wp-content/uploads/2026/02/Mask-group-23.webp,assets/media/2026/02/Mask-group-23.webp,wp-rest-api
+2638,2026-02-17,Objects (2),,,image/svg+xml,23,14,5.9,47,https://mmag.in/wp-content/uploads/2026/01/Objects-2.svg,assets/media/2026/01/Objects-2.svg,wp-rest-api
+2639,2026-02-17,Objects (4),,,image/svg+xml,20,21,9.2,47,https://mmag.in/wp-content/uploads/2026/01/Objects-4.svg,assets/media/2026/01/Objects-4.svg,wp-rest-api
+2640,2026-02-17,Objects (3),,,image/svg+xml,22,22,1.7,47,https://mmag.in/wp-content/uploads/2026/01/Objects-3.svg,assets/media/2026/01/Objects-3.svg,wp-rest-api
+2641,2026-02-17,Group 1171275584 (1),,,image/svg+xml,18,19,11.2,47,https://mmag.in/wp-content/uploads/2026/01/Group-1171275584-1.svg,assets/media/2026/01/Group-1171275584-1.svg,wp-rest-api
+2642,2026-02-17,Service,,,image/svg+xml,21,17,3.6,47,https://mmag.in/wp-content/uploads/2026/01/Service.svg,assets/media/2026/01/Service.svg,wp-rest-api
+2685,2026-03-23,Technology,,https://mmag.in/wp-content/uploads/2026/03/Technology.mp4,video/mp4,596,842,375.2,793,https://mmag.in/wp-content/uploads/2026/03/Technology.mp4,,wp-rest-api
+2686,2026-03-23,Design,,https://mmag.in/wp-content/uploads/2026/03/Design.mp4,video/mp4,596,842,519.8,793,https://mmag.in/wp-content/uploads/2026/03/Design.mp4,,wp-rest-api
+2687,2026-03-23,Performance,,https://mmag.in/wp-content/uploads/2026/03/Performance.mp4,video/mp4,596,842,702.0,793,https://mmag.in/wp-content/uploads/2026/03/Performance.mp4,,wp-rest-api
+2688,2026-03-23,Strategy,,https://mmag.in/wp-content/uploads/2026/03/Strategy.mp4,video/mp4,596,842,415.4,793,https://mmag.in/wp-content/uploads/2026/03/Strategy.mp4,,wp-rest-api
+2721,2026-03-23,1,,,image/svg+xml,23,34,0.2,793,https://mmag.in/wp-content/uploads/2026/03/1.svg,assets/media/2026/03/1.svg,wp-rest-api
+2778,2026-03-23,trevex-tumbnail,,,image/webp,992,780,23.6,793,https://mmag.in/wp-content/uploads/2026/03/trevex-tumbnail.webp,assets/media/2026/03/trevex-tumbnail.webp,wp-rest-api
+2779,2026-03-23,BHFL-thumbnail,,,image/webp,992,778,117.1,793,https://mmag.in/wp-content/uploads/2026/03/BHFL-thumbnail.webp,assets/media/2026/03/BHFL-thumbnail.webp,wp-rest-api
+2780,2026-03-23,tkg-thumbnail,,,image/webp,992,778,122.2,793,https://mmag.in/wp-content/uploads/2026/03/tkg-thumbnail.webp,assets/media/2026/03/tkg-thumbnail.webp,wp-rest-api
+2781,2026-03-23,view more,,,image/svg+xml,23,23,0.3,793,https://mmag.in/wp-content/uploads/2026/03/view-more.svg,assets/media/2026/03/view-more.svg,wp-rest-api
+2877,2026-03-26,arrow,,,image/svg+xml,17,17,0.2,793,https://mmag.in/wp-content/uploads/2026/03/arrow.svg,assets/media/2026/03/arrow.svg,wp-rest-api
+2915,2026-03-27,Rectangle 1001593,,,image/svg+xml,150,103,0.2,,https://mmag.in/wp-content/uploads/2026/03/Rectangle-1001593.svg,assets/media/2026/03/Rectangle-1001593.svg,wp-rest-api
+2916,2026-03-27,Rectangle 1001593,,,image/svg+xml,150,103,0.2,,https://mmag.in/wp-content/uploads/2026/03/Rectangle-1001593-1.svg,assets/media/2026/03/Rectangle-1001593-1.svg,wp-rest-api
+2917,2026-03-27,Rectangle 1001592,,,image/svg+xml,223,59,0.2,,https://mmag.in/wp-content/uploads/2026/03/Rectangle-1001592.svg,assets/media/2026/03/Rectangle-1001592.svg,wp-rest-api
+2930,2026-03-27,mail (1),,,image/svg+xml,48,48,1.6,2921,https://mmag.in/wp-content/uploads/2026/03/mail-1.svg,assets/media/2026/03/mail-1.svg,wp-rest-api
+2931,2026-03-27,phone-call,,,image/svg+xml,48,48,1.0,2921,https://mmag.in/wp-content/uploads/2026/03/phone-call.svg,assets/media/2026/03/phone-call.svg,wp-rest-api
+2938,2026-03-27,maps-location,,,image/svg+xml,48,48,0.6,619,https://mmag.in/wp-content/uploads/2026/01/maps-location.svg,assets/media/2026/01/maps-location.svg,wp-rest-api
+2939,2026-03-27,maps-location (1),,,image/svg+xml,48,48,0.6,619,https://mmag.in/wp-content/uploads/2026/01/maps-location-1.svg,assets/media/2026/01/maps-location-1.svg,wp-rest-api
+2949,2026-03-27,To top,,,image/svg+xml,48,48,0.4,619,https://mmag.in/wp-content/uploads/2026/01/To-top.svg,assets/media/2026/01/To-top.svg,wp-rest-api
+2966,2026-03-27,Group 1171275645 1 (1),,,image/webp,1540,1156,83.2,,https://mmag.in/wp-content/uploads/2026/03/Group-1171275645-1-1.webp,assets/media/2026/03/Group-1171275645-1-1.webp,wp-rest-api
+2978,2026-03-27,11 2121213 2,,,image/webp,1532,656,101.3,793,https://mmag.in/wp-content/uploads/2026/03/11-2121213-2.webp,assets/media/2026/03/11-2121213-2.webp,wp-rest-api
+2980,2026-03-27,Component 42,,,image/svg+xml,36,36,0.3,793,https://mmag.in/wp-content/uploads/2026/03/Component-42.svg,assets/media/2026/03/Component-42.svg,wp-rest-api
+2984,2026-03-27,Component 42 (1),,,image/svg+xml,36,36,0.3,793,https://mmag.in/wp-content/uploads/2026/03/Component-42-1.svg,assets/media/2026/03/Component-42-1.svg,wp-rest-api
+3060,2026-03-31,new-maps-location,,,image/svg+xml,48,48,1.1,619,https://mmag.in/wp-content/uploads/2026/01/new-maps-location.svg,assets/media/2026/01/new-maps-location.svg,wp-rest-api
+3102,2026-06-03,Hero 1 (1),,,image/webp,1920,832,330.5,1657,https://mmag.in/wp-content/uploads/2026/06/Hero-1-1.webp,assets/media/2026/06/Hero-1-1.webp,wp-rest-api
+3107,2026-06-03,linkedin (2),,,image/svg+xml,45,45,1.4,1657,https://mmag.in/wp-content/uploads/2026/06/linkedin-2.svg,assets/media/2026/06/linkedin-2.svg,wp-rest-api
+3117,2026-06-03,default-Saud,,,image/webp,764,864,13.1,1657,https://mmag.in/wp-content/uploads/2026/06/default-Saud.webp,assets/media/2026/06/default-Saud.webp,wp-rest-api
+3118,2026-06-03,default-Maithili,,,image/webp,764,864,19.4,1657,https://mmag.in/wp-content/uploads/2026/06/default-Maithili.webp,assets/media/2026/06/default-Maithili.webp,wp-rest-api
+3119,2026-06-03,world,,,image/webp,512,512,10.1,1657,https://mmag.in/wp-content/uploads/2026/06/world.webp,assets/media/2026/06/world.webp,wp-rest-api
+3120,2026-06-03,flag,,,image/webp,512,512,19.5,1657,https://mmag.in/wp-content/uploads/2026/06/flag.webp,assets/media/2026/06/flag.webp,wp-rest-api
+3121,2026-06-03,Vector (29),,,image/svg+xml,44,56,2.8,1657,https://mmag.in/wp-content/uploads/2026/06/Vector-29.svg,assets/media/2026/06/Vector-29.svg,wp-rest-api
+3122,2026-06-03,Vector (30),,,image/svg+xml,52,50,3.2,1657,https://mmag.in/wp-content/uploads/2026/06/Vector-30.svg,assets/media/2026/06/Vector-30.svg,wp-rest-api
+3123,2026-06-03,Vector (31),,,image/svg+xml,56,36,1.2,1657,https://mmag.in/wp-content/uploads/2026/06/Vector-31.svg,assets/media/2026/06/Vector-31.svg,wp-rest-api
+3124,2026-06-03,IMG_6783 2,,,image/webp,1554,1024,154.8,1657,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-2.webp,assets/media/2026/06/IMG_6783-2.webp,wp-rest-api
+3125,2026-06-03,IMG_6783 1,,,image/webp,1684,1024,82.6,1657,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-1.webp,assets/media/2026/06/IMG_6783-1.webp,wp-rest-api
+3584,2026-06-17,IMG_6783 2,,,image/webp,1124,740,103.6,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-2-1.webp,assets/media/2026/06/IMG_6783-2-1.webp,wp-rest-api
+3585,2026-06-17,IMG_6783 3,,,image/webp,1124,740,93.5,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-3.webp,assets/media/2026/06/IMG_6783-3.webp,wp-rest-api
+3586,2026-06-17,IMG_6783 5,,,image/webp,1124,740,75.1,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-5.webp,assets/media/2026/06/IMG_6783-5.webp,wp-rest-api
+3587,2026-06-17,IMG_6783 7,,,image/webp,1124,740,168.8,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-7.webp,assets/media/2026/06/IMG_6783-7.webp,wp-rest-api
+3588,2026-06-17,IMG_6783 1,,,image/webp,1124,740,58.9,,https://mmag.in/wp-content/uploads/2026/06/IMG_6783-1-1.webp,assets/media/2026/06/IMG_6783-1-1.webp,wp-rest-api
+3623,2026-06-17,15 1,,,image/webp,1540,640,50.2,793,https://mmag.in/wp-content/uploads/2026/06/15-1.webp,assets/media/2026/06/15-1.webp,wp-rest-api
+3718,2026-06-18,Group 2,,,image/webp,2560,1293,33.7,793,https://mmag.in/wp-content/uploads/2026/06/Group-2-scaled.webp,assets/media/2026/06/Group-2-scaled.webp,wp-rest-api
+3742,2026-06-18,1-scaled.webp,,,image/webp,2560,1440,154.6,,https://mmag.in/wp-content/uploads/2026/06/1-scaled-1.webp,assets/media/2026/06/1-scaled-1.webp,wp-rest-api
+3743,2026-06-18,2-scaled.webp,,,image/webp,2560,1440,86.1,,https://mmag.in/wp-content/uploads/2026/06/2-scaled-1.webp,assets/media/2026/06/2-scaled-1.webp,wp-rest-api
+3744,2026-06-18,3-scaled.webp,,,image/webp,2560,1440,53.2,,https://mmag.in/wp-content/uploads/2026/06/3-scaled-1.webp,assets/media/2026/06/3-scaled-1.webp,wp-rest-api
+3745,2026-06-18,4-scaled.webp,,,image/webp,2560,1440,57.1,,https://mmag.in/wp-content/uploads/2026/06/4-scaled-1.webp,assets/media/2026/06/4-scaled-1.webp,wp-rest-api
+3746,2026-06-18,5-scaled.webp,,,image/webp,2560,1440,93.8,,https://mmag.in/wp-content/uploads/2026/06/5-scaled-1.webp,assets/media/2026/06/5-scaled-1.webp,wp-rest-api
+3747,2026-06-18,6-scaled.webp,,,image/webp,2560,1440,18.5,,https://mmag.in/wp-content/uploads/2026/06/6-scaled-1.webp,assets/media/2026/06/6-scaled-1.webp,wp-rest-api
+3748,2026-06-18,7-scaled.webp,,,image/webp,2560,1440,138.3,,https://mmag.in/wp-content/uploads/2026/06/7-scaled-1.webp,assets/media/2026/06/7-scaled-1.webp,wp-rest-api
+3749,2026-06-18,link.svg,,,image/svg+xml,29,29,1.5,,https://mmag.in/wp-content/uploads/2026/06/link.svg,assets/media/2026/06/link.svg,wp-rest-api
+3750,2026-06-18,8-scaled.webp,,,image/webp,2560,1440,328.5,,https://mmag.in/wp-content/uploads/2026/06/8-scaled-1.webp,assets/media/2026/06/8-scaled-1.webp,wp-rest-api
+3751,2026-06-18,9-scaled.webp,,,image/webp,2560,1440,158.7,,https://mmag.in/wp-content/uploads/2026/06/9-scaled-1.webp,assets/media/2026/06/9-scaled-1.webp,wp-rest-api
+3752,2026-06-18,Group-136.png,,,image/png,629,74,5.7,,https://mmag.in/wp-content/uploads/2026/06/Group-136.png,assets/media/2026/06/Group-136.png,wp-rest-api
+3753,2026-06-18,Copy-of-Halloween_bajaj.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Halloween_bajaj.mp4,video/mp4,1080,1350,18710.6,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Halloween_bajaj.mp4,,wp-rest-api
+3754,2026-06-18,3-21.png,,,image/png,688,860,303.1,,https://mmag.in/wp-content/uploads/2026/06/3-21.png,assets/media/2026/06/3-21.png,wp-rest-api
+3755,2026-06-18,Copy-of-Satark-Saturday-3-AI-scam.-V1.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Satark-Saturday-3-AI-scam.-V1.mp4,video/mp4,1080,1350,19497.4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Satark-Saturday-3-AI-scam.-V1.mp4,,wp-rest-api
+3756,2026-06-18,3-22.png,,,image/png,688,860,248.0,,https://mmag.in/wp-content/uploads/2026/06/3-22.png,assets/media/2026/06/3-22.png,wp-rest-api
+3757,2026-06-18,3-24.png,,,image/png,688,860,902.0,,https://mmag.in/wp-content/uploads/2026/06/3-24.png,assets/media/2026/06/3-24.png,wp-rest-api
+3758,2026-06-18,Copy-of-In-your-best-interest-Nominees.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-In-your-best-interest-Nominees.mp4,video/mp4,1080,1350,68286.7,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-In-your-best-interest-Nominees.mp4,,wp-rest-api
+3759,2026-06-18,3-25.png,,,image/png,688,860,733.9,,https://mmag.in/wp-content/uploads/2026/06/3-25.png,assets/media/2026/06/3-25.png,wp-rest-api
+3760,2026-06-18,Copy-of-Home-Loan-EMI.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Home-Loan-EMI.mp4,video/mp4,1080,1350,11962.4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Home-Loan-EMI.mp4,,wp-rest-api
+3761,2026-06-18,3-26.png,,,image/png,688,860,261.2,,https://mmag.in/wp-content/uploads/2026/06/3-26.png,assets/media/2026/06/3-26.png,wp-rest-api
+3762,2026-06-18,Copy-of-Diwali_HL-Disbursal_To-Do-List_Video_16102025.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Diwali_HL-Disbursal_To-Do-List_Video_16102025.mp4,video/mp4,1080,1350,23351.4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Diwali_HL-Disbursal_To-Do-List_Video_16102025.mp4,,wp-rest-api
+3763,2026-06-18,3-27@2x.png,,,image/png,688,860,393.3,,https://mmag.in/wp-content/uploads/2026/06/3-27@2x.png,assets/media/2026/06/3-27@2x.png,wp-rest-api
+3764,2026-06-18,Copy-of-Indian-Map-MM-Insta-2-2.mp4,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Indian-Map-MM-Insta-2-2.mp4,video/mp4,1080,1350,16425.8,,https://mmag.in/wp-content/uploads/2026/06/Copy-of-Indian-Map-MM-Insta-2-2.mp4,,wp-rest-api
+3765,2026-06-18,3-28.png,,,image/png,688,860,565.8,,https://mmag.in/wp-content/uploads/2026/06/3-28.png,assets/media/2026/06/3-28.png,wp-rest-api
+3766,2026-06-18,Group-8.webp,,,image/webp,138,168,0.9,,https://mmag.in/wp-content/uploads/2026/06/Group-8.webp,assets/media/2026/06/Group-8.webp,wp-rest-api
+3767,2026-06-18,10-scaled.webp,,,image/webp,2560,1440,51.9,,https://mmag.in/wp-content/uploads/2026/06/10-scaled-1.webp,assets/media/2026/06/10-scaled-1.webp,wp-rest-api
+3768,2026-06-18,13-1-1-scaled.webp,,,image/webp,2560,1440,137.7,,https://mmag.in/wp-content/uploads/2026/06/13-1-1-scaled-1.webp,assets/media/2026/06/13-1-1-scaled-1.webp,wp-rest-api
+3769,2026-06-18,13-2-scaled.webp,,,image/webp,2560,1440,289.5,,https://mmag.in/wp-content/uploads/2026/06/13-2-scaled-1.webp,assets/media/2026/06/13-2-scaled-1.webp,wp-rest-api
+3770,2026-06-18,13-3-scaled.webp,,,image/webp,2560,1440,280.9,,https://mmag.in/wp-content/uploads/2026/06/13-3-scaled-1.webp,assets/media/2026/06/13-3-scaled-1.webp,wp-rest-api
+3771,2026-06-18,13-4-scaled.webp,,,image/webp,2560,1440,101.8,,https://mmag.in/wp-content/uploads/2026/06/13-4-scaled-1.webp,assets/media/2026/06/13-4-scaled-1.webp,wp-rest-api
+3772,2026-06-18,11-1-scaled.webp,,,image/webp,2560,1440,227.5,,https://mmag.in/wp-content/uploads/2026/06/11-1-scaled-1.webp,assets/media/2026/06/11-1-scaled-1.webp,wp-rest-api
+3773,2026-06-18,12-scaled.webp,,,image/webp,2560,1440,397.1,,https://mmag.in/wp-content/uploads/2026/06/12-scaled-1.webp,assets/media/2026/06/12-scaled-1.webp,wp-rest-api
+3774,2026-06-18,Group-136.webp,,,image/webp,629,74,4.0,,https://mmag.in/wp-content/uploads/2026/06/Group-136.webp,assets/media/2026/06/Group-136.webp,wp-rest-api
+3775,2026-06-18,October-Dairy-Gold_Shake-N-Sip.mp4,,https://mmag.in/wp-content/uploads/2026/06/October-Dairy-Gold_Shake-N-Sip.mp4,video/mp4,1080,1920,17831.6,,https://mmag.in/wp-content/uploads/2026/06/October-Dairy-Gold_Shake-N-Sip.mp4,,wp-rest-api
+3776,2026-06-18,Group-1171275619.webp,,,image/webp,501,891,34.7,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275619.webp,assets/media/2026/06/Group-1171275619.webp,wp-rest-api
+3777,2026-06-18,October-Windmill-Lemon-Creams.mp4,,https://mmag.in/wp-content/uploads/2026/06/October-Windmill-Lemon-Creams.mp4,video/mp4,1080,1920,9554.0,,https://mmag.in/wp-content/uploads/2026/06/October-Windmill-Lemon-Creams.mp4,,wp-rest-api
+3778,2026-06-18,Group-1171275558.webp,,,image/webp,501,891,33.3,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275558.webp,assets/media/2026/06/Group-1171275558.webp,wp-rest-api
+3779,2026-06-18,September-Binto-Sauce-700-gm.mp4,,https://mmag.in/wp-content/uploads/2026/06/September-Binto-Sauce-700-gm.mp4,video/mp4,1080,1920,20840.8,,https://mmag.in/wp-content/uploads/2026/06/September-Binto-Sauce-700-gm.mp4,,wp-rest-api
+3780,2026-06-18,Group-1171275559.webp,,,image/webp,503,893,47.7,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275559.webp,assets/media/2026/06/Group-1171275559.webp,wp-rest-api
+3781,2026-06-18,MediHerb-Turmeric-and-Argan-Oil.mp4,,https://mmag.in/wp-content/uploads/2026/06/MediHerb-Turmeric-and-Argan-Oil.mp4,video/mp4,1080,1920,19549.1,,https://mmag.in/wp-content/uploads/2026/06/MediHerb-Turmeric-and-Argan-Oil.mp4,,wp-rest-api
+3782,2026-06-18,Group-1171275560.webp,,,image/webp,501,895,21.5,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275560.webp,assets/media/2026/06/Group-1171275560.webp,wp-rest-api
+3783,2026-06-18,October-Dlite-Baby-Cereal-Range.mp4,,https://mmag.in/wp-content/uploads/2026/06/October-Dlite-Baby-Cereal-Range.mp4,video/mp4,1080,1920,57036.4,,https://mmag.in/wp-content/uploads/2026/06/October-Dlite-Baby-Cereal-Range.mp4,,wp-rest-api
+3784,2026-06-18,Group-1171275562.webp,,,image/webp,502,894,35.0,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275562.webp,assets/media/2026/06/Group-1171275562.webp,wp-rest-api
+3785,2026-06-18,September-Windmill-Range.mp4,,https://mmag.in/wp-content/uploads/2026/06/September-Windmill-Range.mp4,video/mp4,1080,1920,26008.0,,https://mmag.in/wp-content/uploads/2026/06/September-Windmill-Range.mp4,,wp-rest-api
+3786,2026-06-18,Group-1171275621.webp,,,image/webp,501,892,29.8,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275621.webp,assets/media/2026/06/Group-1171275621.webp,wp-rest-api
+3787,2026-06-18,October-Vatra-1-Ltr.mp4,,https://mmag.in/wp-content/uploads/2026/06/October-Vatra-1-Ltr.mp4,video/mp4,1080,1920,11036.3,,https://mmag.in/wp-content/uploads/2026/06/October-Vatra-1-Ltr.mp4,,wp-rest-api
+3788,2026-06-18,Group-1171275566.webp,,,image/webp,495,892,18.6,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275566.webp,assets/media/2026/06/Group-1171275566.webp,wp-rest-api
+3789,2026-06-18,August-TKG_Amazon-Mental-Mint.mp4,,https://mmag.in/wp-content/uploads/2026/06/August-TKG_Amazon-Mental-Mint.mp4,video/mp4,1080,1920,21168.3,,https://mmag.in/wp-content/uploads/2026/06/August-TKG_Amazon-Mental-Mint.mp4,,wp-rest-api
+3790,2026-06-18,Group-1171275565.webp,,,image/webp,501,892,29.2,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275565.webp,assets/media/2026/06/Group-1171275565.webp,wp-rest-api
+3791,2026-06-18,September-Banja-Original-Paste-400-gm-200-gm.mp4,,https://mmag.in/wp-content/uploads/2026/06/September-Banja-Original-Paste-400-gm-200-gm.mp4,video/mp4,1080,1920,7741.7,,https://mmag.in/wp-content/uploads/2026/06/September-Banja-Original-Paste-400-gm-200-gm.mp4,,wp-rest-api
+3792,2026-06-18,Group-1171275564.webp,,,image/webp,503,889,15.7,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275564.webp,assets/media/2026/06/Group-1171275564.webp,wp-rest-api
+3793,2026-06-18,September-Fruiticana-Smoothie-.mp4,,https://mmag.in/wp-content/uploads/2026/06/September-Fruiticana-Smoothie-.mp4,video/mp4,1080,1920,20636.1,,https://mmag.in/wp-content/uploads/2026/06/September-Fruiticana-Smoothie-.mp4,,wp-rest-api
+3794,2026-06-18,Group-1171275563.webp,,,image/webp,501,892,33.6,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275563.webp,assets/media/2026/06/Group-1171275563.webp,wp-rest-api
+3795,2026-06-18,13-scaled.webp,,,image/webp,2560,1440,249.1,,https://mmag.in/wp-content/uploads/2026/06/13-scaled-1.webp,assets/media/2026/06/13-scaled-1.webp,wp-rest-api
+3796,2026-06-18,19-scaled.webp,,,image/webp,2560,1440,73.7,,https://mmag.in/wp-content/uploads/2026/06/19-scaled-1.webp,assets/media/2026/06/19-scaled-1.webp,wp-rest-api
+3797,2026-06-18,20-scaled.webp,,,image/webp,2560,1440,103.0,,https://mmag.in/wp-content/uploads/2026/06/20-scaled-1.webp,assets/media/2026/06/20-scaled-1.webp,wp-rest-api
+3798,2026-06-18,21-scaled.webp,,,image/webp,2560,1440,107.8,,https://mmag.in/wp-content/uploads/2026/06/21-scaled-1.webp,assets/media/2026/06/21-scaled-1.webp,wp-rest-api
+3799,2026-06-18,22-scaled.webp,,,image/webp,2560,1440,200.6,,https://mmag.in/wp-content/uploads/2026/06/22-scaled-1.webp,assets/media/2026/06/22-scaled-1.webp,wp-rest-api
+3800,2026-06-18,23-scaled.webp,,,image/webp,2560,1440,31.5,,https://mmag.in/wp-content/uploads/2026/06/23-scaled-1.webp,assets/media/2026/06/23-scaled-1.webp,wp-rest-api
+3801,2026-06-18,24-scaled.webp,,,image/webp,2560,1440,28.9,,https://mmag.in/wp-content/uploads/2026/06/24-scaled-1.webp,assets/media/2026/06/24-scaled-1.webp,wp-rest-api
+3802,2026-06-18,7-1-scaled.webp,,,image/webp,2560,1440,135.6,,https://mmag.in/wp-content/uploads/2026/06/7-1-scaled-1.webp,assets/media/2026/06/7-1-scaled-1.webp,wp-rest-api
+3803,2026-06-18,8-scaled.webp,,,image/webp,2560,1440,103.5,,https://mmag.in/wp-content/uploads/2026/06/8-scaled-2.webp,assets/media/2026/06/8-scaled-2.webp,wp-rest-api
+3804,2026-06-18,9-1-scaled.webp,,,image/webp,2560,1440,177.8,,https://mmag.in/wp-content/uploads/2026/06/9-1-scaled-1.webp,assets/media/2026/06/9-1-scaled-1.webp,wp-rest-api
+3805,2026-06-18,9-1-scaled.webp,,,image/webp,2560,1440,177.8,,https://mmag.in/wp-content/uploads/2026/06/9-1-scaled-2.webp,assets/media/2026/06/9-1-scaled-2.webp,wp-rest-api
+3806,2026-06-18,10-scaled.webp,,,image/webp,2560,1440,67.0,,https://mmag.in/wp-content/uploads/2026/06/10-scaled-2.webp,assets/media/2026/06/10-scaled-2.webp,wp-rest-api
+3807,2026-06-18,14-scaled.webp,,,image/webp,2560,1440,223.9,,https://mmag.in/wp-content/uploads/2026/06/14-scaled-1.webp,assets/media/2026/06/14-scaled-1.webp,wp-rest-api
+3808,2026-06-18,14-1-1-scaled.webp,,,image/webp,2560,1440,105.3,,https://mmag.in/wp-content/uploads/2026/06/14-1-1-scaled-1.webp,assets/media/2026/06/14-1-1-scaled-1.webp,wp-rest-api
+3809,2026-06-18,14-2-scaled.webp,,,image/webp,2560,1440,126.0,,https://mmag.in/wp-content/uploads/2026/06/14-2-scaled-1.webp,assets/media/2026/06/14-2-scaled-1.webp,wp-rest-api
+3810,2026-06-18,15-1-scaled.webp,,,image/webp,2560,1440,135.9,,https://mmag.in/wp-content/uploads/2026/06/15-1-scaled-1.webp,assets/media/2026/06/15-1-scaled-1.webp,wp-rest-api
+3811,2026-06-18,16-scaled.webp,,,image/webp,2560,1440,143.6,,https://mmag.in/wp-content/uploads/2026/06/16-scaled-1.webp,assets/media/2026/06/16-scaled-1.webp,wp-rest-api
+3812,2026-06-18,17-scaled.webp,,,image/webp,2560,1440,67.8,,https://mmag.in/wp-content/uploads/2026/06/17-scaled-1.webp,assets/media/2026/06/17-scaled-1.webp,wp-rest-api
+3813,2026-06-18,51-1-scaled.webp,,,image/webp,2560,1440,160.4,,https://mmag.in/wp-content/uploads/2026/06/51-1-scaled-1.webp,assets/media/2026/06/51-1-scaled-1.webp,wp-rest-api
+3814,2026-06-18,19-3-2-scaled.webp,,,image/webp,2560,1440,126.3,,https://mmag.in/wp-content/uploads/2026/06/19-3-2-scaled-1.webp,assets/media/2026/06/19-3-2-scaled-1.webp,wp-rest-api
+3815,2026-06-18,19-2-1-scaled.webp,,,image/webp,2560,1440,97.6,,https://mmag.in/wp-content/uploads/2026/06/19-2-1-scaled-1.webp,assets/media/2026/06/19-2-1-scaled-1.webp,wp-rest-api
+3816,2026-06-18,19-3-1-scaled.webp,,,image/webp,2560,1440,99.3,,https://mmag.in/wp-content/uploads/2026/06/19-3-1-scaled-1.webp,assets/media/2026/06/19-3-1-scaled-1.webp,wp-rest-api
+3817,2026-06-18,19-3-7-scaled.webp,,,image/webp,2560,1440,81.8,,https://mmag.in/wp-content/uploads/2026/06/19-3-7-scaled-1.webp,assets/media/2026/06/19-3-7-scaled-1.webp,wp-rest-api
+3818,2026-06-18,19-3-8-scaled.webp,,,image/webp,2560,1440,248.9,,https://mmag.in/wp-content/uploads/2026/06/19-3-8-scaled-1.webp,assets/media/2026/06/19-3-8-scaled-1.webp,wp-rest-api
+3819,2026-06-18,19-3-9-scaled.webp,,,image/webp,2560,1440,91.8,,https://mmag.in/wp-content/uploads/2026/06/19-3-9-scaled-1.webp,assets/media/2026/06/19-3-9-scaled-1.webp,wp-rest-api
+3820,2026-06-18,19-3-11-scaled.webp,,,image/webp,2560,1440,30.7,,https://mmag.in/wp-content/uploads/2026/06/19-3-11-scaled-1.webp,assets/media/2026/06/19-3-11-scaled-1.webp,wp-rest-api
+3821,2026-06-18,Group-1171275625.webp,,,image/webp,590,74,3.1,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275625.webp,assets/media/2026/06/Group-1171275625.webp,wp-rest-api
+3822,2026-06-18,placeholder.png,,,image/png,1200,800,6.0,,https://mmag.in/wp-content/uploads/2026/06/placeholder.png,assets/media/2026/06/placeholder.png,wp-rest-api
+3823,2026-06-18,18-1-scaled.webp,,,image/webp,2560,1440,127.1,,https://mmag.in/wp-content/uploads/2026/06/18-1-scaled-1.webp,assets/media/2026/06/18-1-scaled-1.webp,wp-rest-api
+3824,2026-06-18,19-1-1-scaled.webp,,,image/webp,2560,1440,317.5,,https://mmag.in/wp-content/uploads/2026/06/19-1-1-scaled-1.webp,assets/media/2026/06/19-1-1-scaled-1.webp,wp-rest-api
+3825,2026-06-18,19-1-1-1-scaled.webp,,,image/webp,2560,1440,187.9,,https://mmag.in/wp-content/uploads/2026/06/19-1-1-1-scaled-1.webp,assets/media/2026/06/19-1-1-1-scaled-1.webp,wp-rest-api
+3826,2026-06-18,19-2-1-scaled.webp,,,image/webp,2560,1440,117.1,,https://mmag.in/wp-content/uploads/2026/06/19-2-1-scaled-2.webp,assets/media/2026/06/19-2-1-scaled-2.webp,wp-rest-api
+3827,2026-06-18,19-3-scaled.webp,,,image/webp,2560,1440,113.1,,https://mmag.in/wp-content/uploads/2026/06/19-3-scaled-1.webp,assets/media/2026/06/19-3-scaled-1.webp,wp-rest-api
+3828,2026-06-18,20-1-scaled.webp,,,image/webp,2560,1440,117.8,,https://mmag.in/wp-content/uploads/2026/06/20-1-scaled-1.webp,assets/media/2026/06/20-1-scaled-1.webp,wp-rest-api
+3829,2026-06-18,21-scaled.webp,,,image/webp,2560,1440,80.3,,https://mmag.in/wp-content/uploads/2026/06/21-scaled-2.webp,assets/media/2026/06/21-scaled-2.webp,wp-rest-api
+3830,2026-06-18,22-scaled.webp,,,image/webp,2560,1440,45.4,,https://mmag.in/wp-content/uploads/2026/06/22-scaled-2.webp,assets/media/2026/06/22-scaled-2.webp,wp-rest-api
+3831,2026-06-18,23-scaled.webp,,,image/webp,2560,1440,191.7,,https://mmag.in/wp-content/uploads/2026/06/23-scaled-2.webp,assets/media/2026/06/23-scaled-2.webp,wp-rest-api
+3832,2026-06-18,24-1-scaled.webp,,,image/webp,2560,1440,216.5,,https://mmag.in/wp-content/uploads/2026/06/24-1-scaled-1.webp,assets/media/2026/06/24-1-scaled-1.webp,wp-rest-api
+3833,2026-06-18,25-scaled.webp,,,image/webp,2560,1440,92.5,,https://mmag.in/wp-content/uploads/2026/06/25-scaled-1.webp,assets/media/2026/06/25-scaled-1.webp,wp-rest-api
+3834,2026-06-18,26-scaled.webp,,,image/webp,2560,1440,175.9,,https://mmag.in/wp-content/uploads/2026/06/26-scaled-1.webp,assets/media/2026/06/26-scaled-1.webp,wp-rest-api
+3835,2026-06-18,27-1-scaled.webp,,,image/webp,2560,1440,169.1,,https://mmag.in/wp-content/uploads/2026/06/27-1-scaled-1.webp,assets/media/2026/06/27-1-scaled-1.webp,wp-rest-api
+3836,2026-06-18,28-scaled.webp,,,image/webp,2560,1440,132.5,,https://mmag.in/wp-content/uploads/2026/06/28-scaled-1.webp,assets/media/2026/06/28-scaled-1.webp,wp-rest-api
+3837,2026-06-18,29-1-scaled.webp,,,image/webp,2560,1440,209.6,,https://mmag.in/wp-content/uploads/2026/06/29-1-scaled-1.webp,assets/media/2026/06/29-1-scaled-1.webp,wp-rest-api
+3838,2026-06-18,30-scaled.webp,,,image/webp,2560,1440,115.1,,https://mmag.in/wp-content/uploads/2026/06/30-scaled-1.webp,assets/media/2026/06/30-scaled-1.webp,wp-rest-api
+3839,2026-06-18,placeholder.png,,,image/png,1200,800,6.0,,https://mmag.in/wp-content/uploads/2026/06/placeholder-1.png,assets/media/2026/06/placeholder-1.png,wp-rest-api
+3840,2026-06-18,30-scaled.webp,,,image/webp,2560,1440,115.1,,https://mmag.in/wp-content/uploads/2026/06/30-scaled-2.webp,assets/media/2026/06/30-scaled-2.webp,wp-rest-api
+3841,2026-06-18,31-scaled.webp,,,image/webp,2560,1440,230.4,,https://mmag.in/wp-content/uploads/2026/06/31-scaled-1.webp,assets/media/2026/06/31-scaled-1.webp,wp-rest-api
+3842,2026-06-18,32-1-1-scaled.webp,,,image/webp,2560,1440,95.4,,https://mmag.in/wp-content/uploads/2026/06/32-1-1-scaled-1.webp,assets/media/2026/06/32-1-1-scaled-1.webp,wp-rest-api
+3843,2026-06-18,33-1-scaled.webp,,,image/webp,2560,1440,107.6,,https://mmag.in/wp-content/uploads/2026/06/33-1-scaled-1.webp,assets/media/2026/06/33-1-scaled-1.webp,wp-rest-api
+3844,2026-06-18,42-scaled.webp,,,image/webp,2560,1440,19.9,,https://mmag.in/wp-content/uploads/2026/06/42-scaled-1.webp,assets/media/2026/06/42-scaled-1.webp,wp-rest-api
+3845,2026-06-18,43-scaled.webp,,,image/webp,2560,1440,183.1,,https://mmag.in/wp-content/uploads/2026/06/43-scaled-1.webp,assets/media/2026/06/43-scaled-1.webp,wp-rest-api
+3846,2026-06-18,44-scaled.webp,,,image/webp,2560,1440,112.2,,https://mmag.in/wp-content/uploads/2026/06/44-scaled-1.webp,assets/media/2026/06/44-scaled-1.webp,wp-rest-api
+3847,2026-06-18,46-scaled.webp,,,image/webp,2560,1440,81.5,,https://mmag.in/wp-content/uploads/2026/06/46-scaled-1.webp,assets/media/2026/06/46-scaled-1.webp,wp-rest-api
+3848,2026-06-18,49-scaled.webp,,,image/webp,2560,1440,128.4,,https://mmag.in/wp-content/uploads/2026/06/49-scaled-1.webp,assets/media/2026/06/49-scaled-1.webp,wp-rest-api
+3849,2026-06-18,50-scaled.webp,,,image/webp,2560,1440,96.3,,https://mmag.in/wp-content/uploads/2026/06/50-scaled-1.webp,assets/media/2026/06/50-scaled-1.webp,wp-rest-api
+3874,2026-06-19,1,,,image/webp,200,96,2.6,,https://mmag.in/wp-content/uploads/2026/06/1.webp,assets/media/2026/06/1.webp,wp-rest-api
+3875,2026-06-19,2,,,image/webp,216,96,2.8,,https://mmag.in/wp-content/uploads/2026/06/2.webp,assets/media/2026/06/2.webp,wp-rest-api
+3876,2026-06-19,3,,,image/webp,244,96,6.4,,https://mmag.in/wp-content/uploads/2026/06/3.webp,assets/media/2026/06/3.webp,wp-rest-api
+3877,2026-06-19,4,,,image/webp,330,96,8.2,,https://mmag.in/wp-content/uploads/2026/06/4.webp,assets/media/2026/06/4.webp,wp-rest-api
+3878,2026-06-19,5,,,image/webp,494,96,10.8,,https://mmag.in/wp-content/uploads/2026/06/5.webp,assets/media/2026/06/5.webp,wp-rest-api
+3879,2026-06-19,6,,,image/webp,250,96,3.1,,https://mmag.in/wp-content/uploads/2026/06/6.webp,assets/media/2026/06/6.webp,wp-rest-api
+3883,2026-06-19,9,,,image/webp,244,96,5.5,,https://mmag.in/wp-content/uploads/2026/06/9.webp,assets/media/2026/06/9.webp,wp-rest-api
+3884,2026-06-19,10,,,image/webp,330,96,8.1,,https://mmag.in/wp-content/uploads/2026/06/10.webp,assets/media/2026/06/10.webp,wp-rest-api
+3885,2026-06-19,11,,,image/webp,494,96,10.2,,https://mmag.in/wp-content/uploads/2026/06/11.webp,assets/media/2026/06/11.webp,wp-rest-api
+3886,2026-06-19,12,,,image/webp,250,96,2.3,,https://mmag.in/wp-content/uploads/2026/06/12.webp,assets/media/2026/06/12.webp,wp-rest-api
+3887,2026-06-19,7,,,image/webp,200,96,1.8,,https://mmag.in/wp-content/uploads/2026/06/7.webp,assets/media/2026/06/7.webp,wp-rest-api
+3888,2026-06-19,8,,,image/webp,216,96,1.8,,https://mmag.in/wp-content/uploads/2026/06/8.webp,assets/media/2026/06/8.webp,wp-rest-api
+3898,2026-06-19,ball-2,,,image/webp,28,28,0.4,793,https://mmag.in/wp-content/uploads/2026/06/ball-2.webp,assets/media/2026/06/ball-2.webp,wp-rest-api
+3899,2026-06-19,ball-1,,,image/webp,44,44,0.4,793,https://mmag.in/wp-content/uploads/2026/06/ball-1.webp,assets/media/2026/06/ball-1.webp,wp-rest-api
+3936,2026-06-19,png of hover,,,image/webp,265,344,18.8,793,https://mmag.in/wp-content/uploads/2026/06/png-of-hover.webp,assets/media/2026/06/png-of-hover.webp,wp-rest-api
+3952,2026-06-19,png of hover,,,image/webp,371,374,31.9,793,https://mmag.in/wp-content/uploads/2026/06/png-of-hover-1.webp,assets/media/2026/06/png-of-hover-1.webp,wp-rest-api
+3971,2026-06-19,7,,,image/webp,200,96,1.7,793,https://mmag.in/wp-content/uploads/2026/06/7-1.webp,assets/media/2026/06/7-1.webp,wp-rest-api
+3972,2026-06-19,8,,,image/webp,216,96,2.0,793,https://mmag.in/wp-content/uploads/2026/06/8-1.webp,assets/media/2026/06/8-1.webp,wp-rest-api
+3973,2026-06-19,12,,,image/webp,250,96,3.4,793,https://mmag.in/wp-content/uploads/2026/06/12-1.webp,assets/media/2026/06/12-1.webp,wp-rest-api
+3974,2026-06-19,7,,,image/webp,200,96,1.7,793,https://mmag.in/wp-content/uploads/2026/06/7-2.webp,assets/media/2026/06/7-2.webp,wp-rest-api
+3975,2026-06-19,8,,,image/webp,216,96,2.0,793,https://mmag.in/wp-content/uploads/2026/06/8-2.webp,assets/media/2026/06/8-2.webp,wp-rest-api
+3976,2026-06-19,12,,,image/webp,250,96,3.4,793,https://mmag.in/wp-content/uploads/2026/06/12-2.webp,assets/media/2026/06/12-2.webp,wp-rest-api
+4008,2026-06-19,Background,,,image/svg+xml,28,28,0.8,793,https://mmag.in/wp-content/uploads/2026/06/Background.svg,assets/media/2026/06/Background.svg,wp-rest-api
+4029,2026-06-19,7,,,image/webp,200,96,2.4,793,https://mmag.in/wp-content/uploads/2026/06/7-3.webp,assets/media/2026/06/7-3.webp,wp-rest-api
+4030,2026-06-19,8,,,image/webp,216,96,2.8,793,https://mmag.in/wp-content/uploads/2026/06/8-3.webp,assets/media/2026/06/8-3.webp,wp-rest-api
+4031,2026-06-19,9,,,image/webp,244,96,6.4,793,https://mmag.in/wp-content/uploads/2026/06/9-1.webp,assets/media/2026/06/9-1.webp,wp-rest-api
+4032,2026-06-19,10,,,image/webp,330,96,8.4,793,https://mmag.in/wp-content/uploads/2026/06/10-1.webp,assets/media/2026/06/10-1.webp,wp-rest-api
+4033,2026-06-19,11,,,image/webp,494,96,11.6,793,https://mmag.in/wp-content/uploads/2026/06/11-1.webp,assets/media/2026/06/11-1.webp,wp-rest-api
+4034,2026-06-19,12,,,image/webp,250,96,4.0,793,https://mmag.in/wp-content/uploads/2026/06/12-3.webp,assets/media/2026/06/12-3.webp,wp-rest-api
+4035,2026-06-19,13,,,image/webp,144,96,5.7,793,https://mmag.in/wp-content/uploads/2026/06/13.webp,assets/media/2026/06/13.webp,wp-rest-api
+4280,2026-06-25,Vector.svg,,,image/svg+xml,269,268,0.6,,https://mmag.in/wp-content/uploads/2026/06/Vector.svg,assets/media/2026/06/Vector.svg,wp-rest-api
+4281,2026-06-25,Mask-group.webp,,,image/webp,2227,921,148.0,,https://mmag.in/wp-content/uploads/2026/06/Mask-group.webp,assets/media/2026/06/Mask-group.webp,wp-rest-api
+4282,2026-06-25,Group-23.svg,,,image/svg+xml,1105,446,2.5,,https://mmag.in/wp-content/uploads/2026/06/Group-23.svg,assets/media/2026/06/Group-23.svg,wp-rest-api
+4482,2026-06-26,team,,,image/webp,2560,1129,181.1,793,https://mmag.in/wp-content/uploads/2026/06/team-scaled.webp,assets/media/2026/06/team-scaled.webp,wp-rest-api
+4487,2026-06-26,11,,,image/svg+xml,247,48,34.7,793,https://mmag.in/wp-content/uploads/2026/06/11.svg,assets/media/2026/06/11.svg,wp-rest-api
+4488,2026-06-26,12,,,image/svg+xml,125,48,56.1,793,https://mmag.in/wp-content/uploads/2026/06/12.svg,assets/media/2026/06/12.svg,wp-rest-api
+4489,2026-06-26,13,,,image/svg+xml,72,48,37.5,793,https://mmag.in/wp-content/uploads/2026/06/13.svg,assets/media/2026/06/13.svg,wp-rest-api
+4490,2026-06-26,7,,,image/svg+xml,100,48,63.1,793,https://mmag.in/wp-content/uploads/2026/06/7.svg,assets/media/2026/06/7.svg,wp-rest-api
+4491,2026-06-26,8,,,image/svg+xml,108,48,29.5,793,https://mmag.in/wp-content/uploads/2026/06/8.svg,assets/media/2026/06/8.svg,wp-rest-api
+4492,2026-06-26,9,,,image/svg+xml,122,48,48.0,793,https://mmag.in/wp-content/uploads/2026/06/9.svg,assets/media/2026/06/9.svg,wp-rest-api
+4493,2026-06-26,10,,,image/svg+xml,165,48,19.1,793,https://mmag.in/wp-content/uploads/2026/06/10.svg,assets/media/2026/06/10.svg,wp-rest-api
+4494,2026-06-26,10,,,image/png,330,96,7.3,793,https://mmag.in/wp-content/uploads/2026/06/10.png,assets/media/2026/06/10.png,wp-rest-api
+4495,2026-06-26,11,,,image/png,494,96,22.3,793,https://mmag.in/wp-content/uploads/2026/06/11.png,assets/media/2026/06/11.png,wp-rest-api
+4496,2026-06-26,12,,,image/png,250,96,9.4,793,https://mmag.in/wp-content/uploads/2026/06/12.png,assets/media/2026/06/12.png,wp-rest-api
+4497,2026-06-26,13,,,image/png,144,96,12.9,793,https://mmag.in/wp-content/uploads/2026/06/13.png,assets/media/2026/06/13.png,wp-rest-api
+4498,2026-06-26,7,,,image/png,200,96,11.3,793,https://mmag.in/wp-content/uploads/2026/06/7.png,assets/media/2026/06/7.png,wp-rest-api
+4499,2026-06-26,8,,,image/png,216,96,9.8,793,https://mmag.in/wp-content/uploads/2026/06/8.png,assets/media/2026/06/8.png,wp-rest-api
+4500,2026-06-26,9,,,image/png,244,96,15.3,793,https://mmag.in/wp-content/uploads/2026/06/9.png,assets/media/2026/06/9.png,wp-rest-api
+4501,2026-06-26,11,,,image/png,362,96,13.1,793,https://mmag.in/wp-content/uploads/2026/06/11-1.png,assets/media/2026/06/11-1.png,wp-rest-api
+4502,2026-06-26,12,,,image/png,198,96,9.3,793,https://mmag.in/wp-content/uploads/2026/06/12-1.png,assets/media/2026/06/12-1.png,wp-rest-api
+4503,2026-06-26,7,,,image/png,200,96,10.9,793,https://mmag.in/wp-content/uploads/2026/06/7-1.png,assets/media/2026/06/7-1.png,wp-rest-api
+4527,2026-06-26,Animatio’23,,https://mmag.in/wp-content/uploads/2026/06/Animatio23.mp4,video/mp4,596,842,561.6,793,https://mmag.in/wp-content/uploads/2026/06/Animatio23.mp4,,wp-rest-api
+4528,2026-06-26,Ani03,,https://mmag.in/wp-content/uploads/2026/06/Ani03.mp4,video/mp4,596,842,1019.4,793,https://mmag.in/wp-content/uploads/2026/06/Ani03.mp4,,wp-rest-api
+4529,2026-06-26,Ani05,,https://mmag.in/wp-content/uploads/2026/06/Ani05.mp4,video/mp4,596,842,804.8,793,https://mmag.in/wp-content/uploads/2026/06/Ani05.mp4,,wp-rest-api
+4534,2026-06-26,slide 4,,https://mmag.in/wp-content/uploads/2026/06/slide-4.mp4,video/mp4,596,842,924.7,793,https://mmag.in/wp-content/uploads/2026/06/slide-4.mp4,,wp-rest-api
+4540,2026-06-26,square To circle Animation,,https://mmag.in/wp-content/uploads/2026/06/square-To-circle-Animation.mp4,video/mp4,596,842,381.1,793,https://mmag.in/wp-content/uploads/2026/06/square-To-circle-Animation.mp4,,wp-rest-api
+4541,2026-06-26,square To circle Animation,,https://mmag.in/wp-content/uploads/2026/06/square-To-circle-Animation-1.mp4,video/mp4,596,842,381.1,793,https://mmag.in/wp-content/uploads/2026/06/square-To-circle-Animation-1.mp4,,wp-rest-api
+4545,2026-06-26,8,,,image/png,216,96,9.8,793,https://mmag.in/wp-content/uploads/2026/06/8-1.png,assets/media/2026/06/8-1.png,wp-rest-api
+4546,2026-06-26,9,,,image/png,244,96,15.3,793,https://mmag.in/wp-content/uploads/2026/06/9-1.png,assets/media/2026/06/9-1.png,wp-rest-api
+4547,2026-06-26,10,,,image/png,330,96,7.3,793,https://mmag.in/wp-content/uploads/2026/06/10-1.png,assets/media/2026/06/10-1.png,wp-rest-api
+4548,2026-06-26,11,,,image/png,362,96,13.1,793,https://mmag.in/wp-content/uploads/2026/06/11-2.png,assets/media/2026/06/11-2.png,wp-rest-api
+4549,2026-06-26,12,,,image/png,198,96,9.3,793,https://mmag.in/wp-content/uploads/2026/06/12-2.png,assets/media/2026/06/12-2.png,wp-rest-api
+4550,2026-06-26,13,,,image/png,144,96,12.9,793,https://mmag.in/wp-content/uploads/2026/06/13-1.png,assets/media/2026/06/13-1.png,wp-rest-api
+4551,2026-06-26,7,,,image/png,200,96,10.9,793,https://mmag.in/wp-content/uploads/2026/06/7-2.png,assets/media/2026/06/7-2.png,wp-rest-api
+4560,2026-06-26,Final (1),,https://mmag.in/wp-content/uploads/2026/06/Final-1.mp4,video/mp4,596,842,196.6,793,https://mmag.in/wp-content/uploads/2026/06/Final-1.mp4,,wp-rest-api
+4568,2026-06-26,13,,,image/png,80,96,4.2,793,https://mmag.in/wp-content/uploads/2026/06/13-2.png,assets/media/2026/06/13-2.png,wp-rest-api
+4569,2026-06-26,13,,,image/png,88,96,4.9,793,https://mmag.in/wp-content/uploads/2026/06/13-3.png,assets/media/2026/06/13-3.png,wp-rest-api
+4573,2026-06-26,13,,,image/png,88,96,5.6,793,https://mmag.in/wp-content/uploads/2026/06/13-4.png,assets/media/2026/06/13-4.png,wp-rest-api
+4608,2026-07-02,cs-bg (1),,,image/png,1717,916,325.3,4605,https://mmag.in/wp-content/uploads/2026/07/cs-bg-1.png,assets/media/2026/07/cs-bg-1.png,wp-rest-api
+5005,2026-10-23,Artboard 2,,,image/jpeg,650,189,25.0,,https://mmag.in/wp-content/uploads/2026/10/Artboard-2.jpg,assets/media/2026/10/Artboard-2.jpg,wp-rest-api
+5006,2026-10-23,image21,,,image/png,227,316,47.1,,https://mmag.in/wp-content/uploads/2026/10/image21.png,assets/media/2026/10/image21.png,wp-rest-api
+5009,2026-10-30,67,,,image/webp,2560,1440,70.2,3850,https://mmag.in/wp-content/uploads/2026/06/67-scaled.webp,assets/media/2026/06/67-scaled.webp,wp-rest-api
+5011,2026-10-30,67,,,image/webp,2560,1440,70.7,3850,https://mmag.in/wp-content/uploads/2026/06/67-1-scaled.webp,assets/media/2026/06/67-1-scaled.webp,wp-rest-api
+5012,2026-10-30,68,,,image/webp,2560,1440,55.9,3850,https://mmag.in/wp-content/uploads/2026/06/68-scaled.webp,assets/media/2026/06/68-scaled.webp,wp-rest-api
+,,15-1,,,image/webp,2252,1644,131.4,,https://mmag.in/wp-content/uploads/2026/02/15-1.webp,assets/media/2026/02/15-1.webp,zip-scrape-2026-10-12: used on removed page /case-studies/zendale/ (not listed by public REST API)
+,,2-3126542,,,image/webp,474,1164,71.2,,https://mmag.in/wp-content/uploads/2026/02/2-3126542.webp,assets/media/2026/02/2-3126542.webp,zip-scrape-2026-10-12: used on removed page /case-studies/zendale/ (not listed by public REST API)
+,,3-1,,,image/webp,582,1218,88.9,,https://mmag.in/wp-content/uploads/2026/02/3-1.webp,assets/media/2026/02/3-1.webp,zip-scrape-2026-10-12: used on removed page /case-studies/zendale/ (not listed by public REST API)
+,,Group-1-171275578,,,image/webp,532,106,13.4,,https://mmag.in/wp-content/uploads/2026/02/Group-1-171275578.webp,assets/media/2026/02/Group-1-171275578.webp,zip-scrape-2026-10-12: used on removed page /case-studies/zendale/ (not listed by public REST API)
+,,Group-1171275650,,,image/webp,1088,180,13.4,,https://mmag.in/wp-content/uploads/2026/02/Group-1171275650.webp,assets/media/2026/02/Group-1171275650.webp,zip-scrape-2026-10-12: used on removed page /case-studies/zendale/ (not listed by public REST API)
+,,Website-2,,,image/webp,2252,2324,424.2,,https://mmag.in/wp-content/uploads/2026/02/Website-2.webp,assets/media/2026/02/Website-2.webp,zip-scrape-2026-10-12: used on removed page /case-studies/zendale/ (not listed by public REST API)
+,,Zendale-Stationary-Mockup-1,,,image/webp,2252,1502,22.8,,https://mmag.in/wp-content/uploads/2026/02/Zendale-Stationary-Mockup-1.webp,assets/media/2026/02/Zendale-Stationary-Mockup-1.webp,zip-scrape-2026-10-12: used on removed page /case-studies/zendale/ (not listed by public REST API)
+,,image-29,,,image/webp,1102,900,64.9,,https://mmag.in/wp-content/uploads/2026/02/image-29.webp,assets/media/2026/02/image-29.webp,zip-scrape-2026-10-12: used on removed page /case-studies/zendale/ (not listed by public REST API)
+,,12-1-1,,,image/webp,1623,570,89.5,,https://mmag.in/wp-content/uploads/2026/06/12-1-1.webp,assets/media/2026/06/12-1-1.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,Frame-34860,,,image/webp,2340,956,53.4,,https://mmag.in/wp-content/uploads/2026/06/Frame-34860.webp,assets/media/2026/06/Frame-34860.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,Group-1-171275578-1,,,image/svg+xml,,,9.8,,https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg,assets/media/2026/06/Group-1-171275578-1.svg,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,Group-1171275650,,,image/svg+xml,,,25.4,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275650.svg,assets/media/2026/06/Group-1171275650.svg,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,Group-1171275651,,,image/svg+xml,,,27.5,,https://mmag.in/wp-content/uploads/2026/06/Group-1171275651.svg,assets/media/2026/06/Group-1171275651.svg,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,logo-1-1,,,image/svg+xml,,,25.2,,https://mmag.in/wp-content/uploads/2026/06/logo-1-1.svg,assets/media/2026/06/logo-1-1.svg,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,mockup-1-scaled,,,image/webp,2560,1701,31.7,,https://mmag.in/wp-content/uploads/2026/06/mockup-1-scaled.webp,assets/media/2026/06/mockup-1-scaled.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,mockup-1,,,image/webp,3840,2551,45.8,,https://mmag.in/wp-content/uploads/2026/06/mockup-1.webp,assets/media/2026/06/mockup-1.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,mockup-2-scaled,,,image/webp,2560,1528,182.8,,https://mmag.in/wp-content/uploads/2026/06/mockup-2-scaled.webp,assets/media/2026/06/mockup-2-scaled.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,mockup-2,,,image/webp,3840,2292,217.5,,https://mmag.in/wp-content/uploads/2026/06/mockup-2.webp,assets/media/2026/06/mockup-2.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,mockup-3-scaled,,,image/webp,2560,1600,99.7,,https://mmag.in/wp-content/uploads/2026/06/mockup-3-scaled.webp,assets/media/2026/06/mockup-3-scaled.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,mockup-3,,,image/webp,3840,2400,120.4,,https://mmag.in/wp-content/uploads/2026/06/mockup-3.webp,assets/media/2026/06/mockup-3.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,mockup-4-scaled,,,image/webp,2560,1996,188.2,,https://mmag.in/wp-content/uploads/2026/06/mockup-4-scaled.webp,assets/media/2026/06/mockup-4-scaled.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)
+,,mockup-4,,,image/webp,3840,2994,258.7,,https://mmag.in/wp-content/uploads/2026/06/mockup-4.webp,assets/media/2026/06/mockup-4.webp,zip-scrape-2026-10-12: used on removed page /work/zendale/ (not listed by public REST API)

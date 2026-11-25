@@ -11,11 +11,12 @@ No login was attempted and no forms were submitted. Anything that needs wp-admin
 
 | Layer | Finding | Evidence |
 |---|---|---|
-| CMS | WordPress **7.1.5** | `<meta name="generator">`, RSS feed generator |
-| Theme | Hello Elementor | `/wp-content/themes/hello-elementor/` assets |
+| CMS | WordPress **7.1.5** (it was 7.1.3 on 12 Oct 2026, per the zip scrape) | `<meta name="generator">`, RSS feed generator |
+| Theme | Hello Elementor 3.5.1 | Its `reset.css`, `theme.css`, `header-footer.css` and `hello-frontend.js` loaded on 12 Oct. They no longer load (24 Nov), and the theme's "Skip to content" link went with them |
 | Page builder | Elementor **4.2.4** + Elementor Pro **4.2.2** | Generator meta, asset versions |
 | Elementor features | Inline SVG icons, additional custom breakpoints, external CSS print method, Google Fonts with `font-display: swap` | Generator meta |
 | Templates | Header #47, Footer #619, case-study cards container #5041, portfolio containers #3850 and #3858, popups #3691 (Download Portfolio) and #3962 (Schedule A Call) | `data-elementor-id` attributes |
+| Unpublished pages | 1924 = `/case-studies/zendale/`, 4257 = `/work/zendale/` (live on 12 Oct, 404 now; their `post-<id>.css` files are deleted) | Zip scrape + `?page_id=` links on Home. See `changes-oct-to-nov.md` |
 
 ## 2. Plugins detected
 
@@ -56,7 +57,7 @@ TLS certificate details were not captured, because the cloud proxy used for this
 | Pages | 14 published | 7 case studies are child **pages** of `/case-studies/` (ID 3167), not a custom post type |
 | Posts | 1 | Default "Hello world!" (2026-01-05) is still published, indexable and in the RSS feed |
 | Categories / tags | 1 (Uncategorized) / 0 | There is no blog |
-| Media | 377 listed publicly (header reports 443 total) | 199 WebP, 76 SVG, 49 PNG, 2 JPG, **40 MP4 (≈430 MB)**, 10 JSON (Lottie, none used on pages, one invalid), 1 TTF. 222 of the 377 are not referenced on any live page (approximate; see `data/assets-summary.json`) |
+| Media | 377 listed publicly (header reports 443 total). The gap is attachments of unpublished pages, which WordPress hides from the public API. 22 of these (the Zendale pages) were recovered via the zip scrape and are still served from `/wp-content/uploads/` | 199 WebP, 76 SVG, 49 PNG, 2 JPG, **40 MP4 (≈430 MB)**, 10 JSON (Lottie, none used on pages, one invalid), 1 TTF. 222 of the 377 are not referenced on any live page (approximate; see `data/assets-summary.json`) |
 | Floating buttons (`e-floating-buttons`) | 0 | Type exists, nothing published |
 | Elementor library / snippets | Private (401) | **needs wp-admin** |
 

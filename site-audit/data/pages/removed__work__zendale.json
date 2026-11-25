@@ -1,0 +1,2462 @@
+{
+ "url": "https://mmag.in/work/zendale/",
+ "title": "Zendale - MMAG",
+ "lang": "en-US",
+ "meta": [
+  {
+   "name": "origin-trial",
+   "content": "A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="
+  },
+  {
+   "name": "charset",
+   "content": "UTF-8"
+  },
+  {
+   "name": "viewport",
+   "content": "width=device-width, initial-scale=1"
+  },
+  {
+   "name": "description",
+   "content": "The Zen-Dale project is focused on promoting the tranquil lifestyles of its residential plots, highlighting the harmony between nature and modern living. The"
+  },
+  {
+   "name": "robots",
+   "content": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+  },
+  {
+   "name": "og:locale",
+   "content": "en_US"
+  },
+  {
+   "name": "og:type",
+   "content": "article"
+  },
+  {
+   "name": "og:title",
+   "content": "Zendale - MMAG"
+  },
+  {
+   "name": "og:description",
+   "content": "The Zen-Dale project is focused on promoting the tranquil lifestyles of its residential plots, highlighting the harmony between nature and modern living. The"
+  },
+  {
+   "name": "og:url",
+   "content": "https://mmag.in/work/zendale/"
+  },
+  {
+   "name": "og:site_name",
+   "content": "MMAG"
+  },
+  {
+   "name": "og:updated_time",
+   "content": "2026-06-26T08:56:03+00:00"
+  },
+  {
+   "name": "og:image",
+   "content": "https://mmag.in/wp-content/uploads/2026/06/12-1-1.webp"
+  },
+  {
+   "name": "og:image:secure_url",
+   "content": "https://mmag.in/wp-content/uploads/2026/06/12-1-1.webp"
+  },
+  {
+   "name": "og:image:width",
+   "content": "1623"
+  },
+  {
+   "name": "og:image:height",
+   "content": "570"
+  },
+  {
+   "name": "og:image:alt",
+   "content": "Zendale"
+  },
+  {
+   "name": "og:image:type",
+   "content": "image/webp"
+  },
+  {
+   "name": "article:published_time",
+   "content": "2026-06-25T11:57:03+00:00"
+  },
+  {
+   "name": "article:modified_time",
+   "content": "2026-06-26T08:56:03+00:00"
+  },
+  {
+   "name": "twitter:card",
+   "content": "summary_large_image"
+  },
+  {
+   "name": "twitter:title",
+   "content": "Zendale - MMAG"
+  },
+  {
+   "name": "twitter:description",
+   "content": "The Zen-Dale project is focused on promoting the tranquil lifestyles of its residential plots, highlighting the harmony between nature and modern living. The"
+  },
+  {
+   "name": "twitter:image",
+   "content": "https://mmag.in/wp-content/uploads/2026/06/12-1-1.webp"
+  },
+  {
+   "name": "twitter:label1",
+   "content": "Time to read"
+  },
+  {
+   "name": "twitter:data1",
+   "content": "Less than a minute"
+  },
+  {
+   "name": "generator",
+   "content": "WordPress 7.1.3"
+  },
+  {
+   "name": "generator",
+   "content": "Elementor 4.2.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+  },
+  {
+   "name": "msapplication-TileImage",
+   "content": "https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584-270x270.png"
+  }
+ ],
+ "headLinks": [
+  {
+   "rel": "profile",
+   "href": "https://gmpg.org/xfn/11",
+   "type": "",
+   "sizes": ""
+  },
+  {
+   "rel": "canonical",
+   "href": "https://mmag.in/work/zendale/",
+   "type": "",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/feed/",
+   "type": "application/rss+xml",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/comments/feed/",
+   "type": "application/rss+xml",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmmag.in%2Fwork%2Fzendale%2F",
+   "type": "application/json+oembed",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmmag.in%2Fwork%2Fzendale%2F&format=xml",
+   "type": "text/xml+oembed",
+   "sizes": ""
+  },
+  {
+   "rel": "https://api.w.org/",
+   "href": "https://mmag.in/wp-json/",
+   "type": "",
+   "sizes": ""
+  },
+  {
+   "rel": "alternate",
+   "href": "https://mmag.in/wp-json/wp/v2/pages/4257",
+   "type": "application/json",
+   "sizes": ""
+  },
+  {
+   "rel": "EditURI",
+   "href": "https://mmag.in/xmlrpc.php?rsd",
+   "type": "application/rsd+xml",
+   "sizes": ""
+  },
+  {
+   "rel": "shortlink",
+   "href": "https://mmag.in/?p=4257",
+   "type": "",
+   "sizes": ""
+  },
+  {
+   "rel": "icon",
+   "href": "https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584-32x32.png",
+   "type": "",
+   "sizes": "32x32"
+  },
+  {
+   "rel": "icon",
+   "href": "https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584-192x192.png",
+   "type": "",
+   "sizes": "192x192"
+  },
+  {
+   "rel": "apple-touch-icon",
+   "href": "https://mmag.in/wp-content/uploads/2026/02/cropped-Group-1171275584-180x180.png",
+   "type": "",
+   "sizes": ""
+  }
+ ],
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Organization",
+     "@id": "https://mmag.in/#organization",
+     "name": "MMAG",
+     "url": "https://mmag.in",
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://mmag.in/#logo",
+      "url": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+      "contentUrl": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+      "caption": "MMAG",
+      "inLanguage": "en-US",
+      "width": "104",
+      "height": "128"
+     }
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://mmag.in/#website",
+     "url": "https://mmag.in",
+     "name": "MMAG",
+     "publisher": {
+      "@id": "https://mmag.in/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg",
+     "url": "https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg",
+     "width": "200",
+     "height": "200",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://mmag.in/work/zendale/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://mmag.in",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://mmag.in/work/",
+        "name": "Work"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://mmag.in/work/zendale/",
+        "name": "Zendale"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://mmag.in/work/zendale/#webpage",
+     "url": "https://mmag.in/work/zendale/",
+     "name": "Zendale - MMAG",
+     "datePublished": "2026-06-25T11:57:03+00:00",
+     "dateModified": "2026-06-26T08:56:03+00:00",
+     "isPartOf": {
+      "@id": "https://mmag.in/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://mmag.in/work/zendale/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://mmag.in/author/admin/",
+     "name": "admin",
+     "url": "https://mmag.in/author/admin/",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/984fe45a60a9c84f3fd2ee75d4a9d8502db8824dd53d80f204c895db8a99829a?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/984fe45a60a9c84f3fd2ee75d4a9d8502db8824dd53d80f204c895db8a99829a?s=96&amp;d=mm&amp;r=g",
+      "caption": "admin",
+      "inLanguage": "en-US"
+     },
+     "sameAs": [
+      "https://mmag.in"
+     ],
+     "worksFor": {
+      "@id": "https://mmag.in/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Zendale - MMAG",
+     "datePublished": "2026-06-25T11:57:03+00:00",
+     "dateModified": "2026-06-26T08:56:03+00:00",
+     "author": {
+      "@id": "https://mmag.in/author/admin/",
+      "name": "admin"
+     },
+     "publisher": {
+      "@id": "https://mmag.in/#organization"
+     },
+     "description": "The Zen-Dale project is focused on promoting the tranquil lifestyles of its residential plots, highlighting the harmony between nature and modern living. The",
+     "name": "Zendale - MMAG",
+     "@id": "https://mmag.in/work/zendale/#richSnippet",
+     "isPartOf": {
+      "@id": "https://mmag.in/work/zendale/#webpage"
+     },
+     "image": {
+      "@id": "https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://mmag.in/work/zendale/#webpage"
+     }
+    }
+   ]
+  }
+ ],
+ "headings": [
+  {
+   "level": "H2",
+   "text": "BALANCING SERENITY AND CONVENIENCE THROUGH DIGITAL BRANDING FOR ZEN-DALE RESIDENCES",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H3",
+   "text": "Find your peacful\nsanctuary at Zen-Dale",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H3",
+   "text": "A serene valley\nof tranquility",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H3",
+   "text": "A state of clam and\nclarity",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "What we did for",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "ZEN-DALE",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "Industry: Real Estate",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H5",
+   "text": "Primary\n#405641",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H5",
+   "text": "Secondary\n#1F7BBA",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H5",
+   "text": "#7B8F76",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H5",
+   "text": "#9F9F9F",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "Next Work",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "Website Design",
+   "region": "main",
+   "hiddenOn": []
+  },
+  {
+   "level": "H2",
+   "text": "Follow us on",
+   "region": "footer",
+   "hiddenOn": []
+  }
+ ],
+ "documents": [
+  {
+   "type": "header",
+   "id": "47",
+   "nested": false
+  },
+  {
+   "type": "wp-page",
+   "id": "4257",
+   "nested": false
+  },
+  {
+   "type": "footer",
+   "id": "619",
+   "nested": false
+  }
+ ],
+ "widgets": [
+  {
+   "type": "theme-site-logo.default",
+   "id": "5d0c7c2",
+   "cssId": null,
+   "classes": null,
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "alt": "",
+    "title": null,
+    "w": 104,
+    "h": 128,
+    "srcset": null
+   },
+   "href": "https://mmag.in/"
+  },
+  {
+   "type": "nav-menu.default",
+   "id": "78daf76",
+   "cssId": null,
+   "classes": "elementor-nav-menu__align-end elementor-nav-menu--dropdown-mobile_extra elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger",
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "text": "About Us",
+     "href": "https://mmag.in/about-us/",
+     "depth": 0
+    },
+    {
+     "text": "Case Studies",
+     "href": "https://mmag.in/case-studies/",
+     "depth": 0
+    },
+    {
+     "text": "Contact Us",
+     "href": "https://mmag.in/contact-us/",
+     "depth": 0
+    }
+   ]
+  },
+  {
+   "type": "button.default",
+   "id": "5b4d20c",
+   "cssId": null,
+   "classes": null,
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Download Portfoilo",
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "target": null,
+   "icon": null
+  },
+  {
+   "type": "theme-site-logo.default",
+   "id": "5d0c7c2",
+   "cssId": null,
+   "classes": null,
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "alt": "",
+    "title": null,
+    "w": 104,
+    "h": 128,
+    "srcset": null
+   },
+   "href": "https://mmag.in/"
+  },
+  {
+   "type": "nav-menu.default",
+   "id": "78daf76",
+   "cssId": null,
+   "classes": "elementor-nav-menu__align-end elementor-nav-menu--dropdown-mobile_extra elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger",
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "text": "About Us",
+     "href": "https://mmag.in/about-us/",
+     "depth": 0
+    },
+    {
+     "text": "Case Studies",
+     "href": "https://mmag.in/case-studies/",
+     "depth": 0
+    },
+    {
+     "text": "Contact Us",
+     "href": "https://mmag.in/contact-us/",
+     "depth": 0
+    }
+   ]
+  },
+  {
+   "type": "button.default",
+   "id": "5b4d20c",
+   "cssId": null,
+   "classes": null,
+   "region": "header",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Download Portfoilo",
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "target": null,
+   "icon": null
+  },
+  {
+   "type": "shortcode.default",
+   "id": "a9c7de2",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Home | Work | Zendale"
+  },
+  {
+   "type": "image.default",
+   "id": "35eec1c",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg",
+    "alt": "",
+    "title": null,
+    "w": 472,
+    "h": 94,
+    "srcset": null
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "heading.default",
+   "id": "caff540",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H2",
+   "text": "BALANCING SERENITY AND CONVENIENCE THROUGH DIGITAL BRANDING FOR ZEN-DALE RESIDENCES"
+  },
+  {
+   "type": "icon-box.default",
+   "id": "a8b1cb4",
+   "cssId": null,
+   "classes": "elementor-position-inline-end elementor-mobile-position-inline-end elementor-view-default",
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "title": "Find your peacful\nsanctuary at Zen-Dale",
+   "description": "",
+   "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"54\" height=\"1\" viewBox=\"0 0 54 1\" fill=\"none\"><path d=\"M0.5 0.5H53.5\" stroke=\"#E3FFDE\" stroke-linecap=\"round\"></path></svg>",
+   "href": null
+  },
+  {
+   "type": "icon-box.default",
+   "id": "078ee86",
+   "cssId": null,
+   "classes": "elementor-position-inline-end elementor-mobile-position-inline-end elementor-view-default",
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "title": "A serene valley\nof tranquility",
+   "description": "",
+   "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"54\" height=\"1\" viewBox=\"0 0 54 1\" fill=\"none\"><path d=\"M0.5 0.5H53.5\" stroke=\"#E3FFDE\" stroke-linecap=\"round\"></path></svg>",
+   "href": null
+  },
+  {
+   "type": "icon-box.default",
+   "id": "d8ac333",
+   "cssId": null,
+   "classes": "elementor-position-inline-end elementor-mobile-position-inline-end elementor-view-default",
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "title": "A state of clam and\nclarity",
+   "description": "",
+   "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"54\" height=\"1\" viewBox=\"0 0 54 1\" fill=\"none\"><path d=\"M0.5 0.5H53.5\" stroke=\"#E3FFDE\" stroke-linecap=\"round\"></path></svg>",
+   "href": null
+  },
+  {
+   "type": "image.default",
+   "id": "67ce2e8",
+   "cssId": null,
+   "classes": "elementor-absolute circleSun fadeInUp",
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "animation": "fadeInUp",
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/Vector.svg",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Vector.svg",
+    "alt": "",
+    "title": null,
+    "w": 269,
+    "h": 268,
+    "srcset": null
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "image.default",
+   "id": "9657cea",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/12-1-1.webp",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/12-1-1-1536x539.webp",
+    "alt": "",
+    "title": null,
+    "w": 1439,
+    "h": 505,
+    "srcset": "https://mmag.in/wp-content/uploads/2026/06/12-1-1.webp 1623w, https://mmag.in/wp-content/uploads/2026/06/12-1-1-300x105.webp 300w, https://mmag.in/wp-content/uploads/2026/06/12-1-1-1024x360.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/12-1-1-768x270.webp 768w, https://mmag.in/wp-content/uploads/2026/06/12-1-1-1536x539.webp 1536w"
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "heading.default",
+   "id": "7943933",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H2",
+   "text": "What we did for"
+  },
+  {
+   "type": "heading.default",
+   "id": "6e85344",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H2",
+   "text": "ZEN-DALE"
+  },
+  {
+   "type": "text-editor.default",
+   "id": "ad584a9",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "The Zen-Dale project is focused on promoting the tranquil lifestyles of its residential plots, highlighting the harmony between nature and modern living. The challenge was to emphasize both the peaceful environment and its prime location near the Pune-Mumbai Expressway, appealing to families seeking serenity and convenience",
+   "html": "<p>The Zen-Dale project is focused on promoting the tranquil lifestyles of its residential plots, highlighting the harmony between nature and modern living. The challenge was to emphasize both the peaceful environment and its prime location near the Pune-Mumbai Expressway, appealing to families seeking serenity and convenience</p>"
+  },
+  {
+   "type": "html.default",
+   "id": "cf4a392",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "var winWD = $(window).width();\n $(window).scroll(function(){ \n if ($(window).scrollTop() > $('#kamal').offset().top-400) {\n $(\".leaf\").addClass(\"leafAnim\");\n }\n else{ \n $(\".leaf\").removeClass(\"leafAnim\");\n }\n });\n .leaf{transition: transform 1.5s ease-in-out;}\n .leaf-2{transform: rotate3d(0, 4, 1, -55deg);}\n .leaf-3{transform: rotate3d(0, 0, 1, 30deg);transform-origin: bottom;}\n .leaf-4{transform: rotate3d(0, 1, 1, -17deg);transform-origin: bottom;}\n .leaf-5{transform: rotate3d(0, 1, 1, 21deg);transform-origin: bottom;}\n .leafAnim{transform: rotate3d(0, 0, 0, 0deg)!important;}",
+   "html": "<div class=\"elementor-widget-container\"> <script src=\"https://code.jquery.com/jquery-2.2.4.min.js\"></script> <script type=\"text/javascript\"> var winWD = $(window).width(); $(window).scroll(function(){ if ($(window).scrollTop() > $('#kamal').offset().top-400) { $(\".leaf\").addClass(\"leafAnim\"); } else{ $(\".leaf\").removeClass(\"leafAnim\"); } }); </script> <svg width=\"100%\" viewBox=\"0 0 521 375\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"z-index:9;position:relative;\"> <style> .leaf{transition: transform 1.5s ease-in-out;} .leaf-2{transform: rotate3d(0, 4, 1, -55deg);} .leaf-3{transform: rotate3d(0, 0, 1, 30deg);transform-origin: bottom;} .leaf-4{transform: rotate3d(0, 1, 1, -17deg);transform-origin: bottom;} .leaf-5{transform: rotate3d(0, 1, 1, 21deg);transform-origin: bottom;} .leafAnim{transform: rotate3d(0, 0, 0, 0deg)!important;} </style> <path class=\"leaf leaf-4\" d=\"M300.147 85.6309C324.672 67.2883 350.173 51.7274 378.169 39.2288C379.523 42.7702 380.817 46.3324 382.057 49.9124C383.295 53.4973 384.469 57.096 385.588 60.7175C386.706 64.339 387.766 67.9763 388.765 71.6344C389.765 75.2924 390.703 78.9593 391.585 82.649C392.462 86.3366 393.283 90.0352 394.04 93.7475C394.797 97.4598 395.496 101.188 396.128 104.923C396.765 108.66 397.336 112.404 397.85 116.158C398.364 119.913 398.812 123.674 399.204 127.447C401.923 153.626 399.077 178.335 391.919 203.55C386.409 217.368 381.15 230.506 373.054 243.1C372.357 244.17 371.652 245.231 370.937 246.287C370.222 247.344 369.495 248.39 368.757 249.431C368.02 250.473 367.275 251.505 366.515 252.531C365.756 253.558 364.993 254.577 364.218 255.585C363.44 256.599 362.651 257.601 361.858 258.596C361.065 259.591 360.252 260.578 359.437 261.558C358.622 262.537 357.794 263.506 356.961 264.473C356.123 265.438 355.28 266.388 354.426 267.335C353.573 268.282 352.707 269.217 351.836 270.151C350.962 271.077 350.079 272 349.188 272.913C348.296 273.826 347.397 274.731 346.487 275.619C345.576 276.512 344.661 277.399 343.734 278.274C342.807 279.149 341.872 280.015 340.929 280.872C339.986 281.729 339.036 282.578 338.072 283.415C337.114 284.254 336.143 285.082 335.164 285.901C334.186 286.72 333.199 287.53 332.212 288.328C331.225 289.126 330.218 289.915 329.208 290.698C328.201 291.476 327.183 292.25 326.16 293.01C325.137 293.77 324.106 294.521 323.069 295.258C322.03 295.999 320.986 296.727 319.934 297.446C318.882 298.165 317.822 298.875 316.756 299.571C315.69 300.267 314.617 300.954 313.536 301.631C312.455 302.309 311.368 302.973 310.273 303.628C309.179 304.283 308.079 304.924 306.973 305.563C305.865 306.195 304.754 306.82 303.633 307.429C302.516 308.04 301.387 308.64 300.257 309.228C299.127 309.816 297.989 310.395 296.846 310.96C295.702 311.525 294.556 312.083 293.404 312.627C292.252 313.171 291.094 313.701 289.929 314.223C288.763 314.744 287.597 315.253 286.425 315.749C285.253 316.244 284.073 316.73 282.893 317.205C281.707 317.677 280.519 318.143 279.332 318.591C272.398 321.276 265.297 324.04 258.028 325.625C254.06 318.337 250.525 310.844 247.422 303.146C231.239 263.212 227.457 218.13 239.213 176.44C242.353 165.311 246.926 154.801 251.419 144.176C254.571 139.183 257.28 133.923 260.495 128.945C271.4 112.051 284.568 98.2542 300.163 85.6321L300.147 85.6309Z\" fill=\"#5B7954\"></path> <path class=\"leaf leaf-5\" d=\"M215.959 85.6309C191.434 67.2883 165.933 51.7274 137.937 39.2288C136.583 42.7702 135.289 46.3324 134.049 49.9124C132.811 53.4973 131.637 57.096 130.518 60.7175C129.4 64.339 128.34 67.9763 127.341 71.6344C126.341 75.2924 125.403 78.9593 124.521 82.649C123.644 86.3366 122.823 90.0352 122.066 93.7475C121.309 97.4598 120.61 101.188 119.978 104.923C119.341 108.66 118.77 112.404 118.256 116.158C117.742 119.913 117.294 123.674 116.902 127.447C114.183 153.626 117.029 178.335 124.187 203.55C129.697 217.368 134.956 230.506 143.052 243.1C143.749 244.17 144.454 245.231 145.169 246.287C145.884 247.344 146.611 248.39 147.349 249.431C148.086 250.473 148.831 251.505 149.591 252.531C150.35 253.558 151.113 254.577 151.888 255.585C152.665 256.599 153.455 257.601 154.248 258.596C155.041 259.591 155.854 260.578 156.669 261.558C157.484 262.537 158.312 263.506 159.145 264.473C159.983 265.438 160.826 266.388 161.68 267.335C162.533 268.282 163.399 269.217 164.27 270.151C165.144 271.077 166.027 272 166.918 272.913C167.81 273.826 168.709 274.731 169.619 275.619C170.53 276.512 171.445 277.399 172.372 278.274C173.299 279.149 174.234 280.015 175.177 280.872C176.12 281.729 177.07 282.578 178.034 283.415C178.992 284.254 179.963 285.082 180.941 285.901C181.92 286.72 182.907 287.53 183.894 288.328C184.881 289.126 185.888 289.915 186.898 290.698C187.905 291.476 188.923 292.25 189.946 293.01C190.969 293.77 192 294.521 193.037 295.258C194.076 295.999 195.12 296.727 196.172 297.446C197.224 298.165 198.284 298.875 199.35 299.571C200.415 300.267 201.489 300.954 202.57 301.631C203.651 302.309 204.738 302.973 205.832 303.628C206.927 304.283 208.027 304.924 209.133 305.563C210.241 306.195 211.351 306.82 212.473 307.429C213.59 308.04 214.719 308.64 215.849 309.228C216.979 309.816 218.117 310.395 219.26 310.96C220.404 311.525 221.55 312.083 222.702 312.627C223.854 313.171 225.012 313.701 226.177 314.223C227.343 314.744 228.509 315.253 229.681 315.749C230.853 316.244 232.033 316.73 233.213 317.205C234.399 317.677 235.587 318.143 236.774 318.591C243.708 321.276 250.809 324.04 258.078 325.625C262.046 318.337 265.581 310.844 268.684 303.146C284.867 263.212 288.649 218.13 276.893 176.44C273.752 165.311 269.18 154.801 264.687 144.176C261.535 139.183 258.826 133.923 255.611 128.945C244.706 112.051 231.538 98.2542 215.942 85.6321L215.959 85.6309Z\" fill=\"#5B7954\"></path> <path class=\"leaf leaf-2\" d=\"M383.034 120.832C411.515 111.742 439.816 105.485 469.173 102.786C469.043 106.427 468.852 110.069 468.607 113.709C468.359 117.354 468.049 120.991 467.682 124.632C467.314 128.273 466.889 131.91 466.403 135.547C465.917 139.185 465.373 142.811 464.772 146.441C464.167 150.067 463.508 153.686 462.788 157.297C462.069 160.909 4"
+  },
+  {
+   "type": "heading.default",
+   "id": "38abbc2",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H2",
+   "text": "Industry: Real Estate"
+  },
+  {
+   "type": "icon-list.default",
+   "id": "6b7e3be",
+   "cssId": null,
+   "classes": "elementor-align-end elementor-mobile-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width",
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "text": "Branding",
+     "href": null,
+     "icon": null
+    },
+    {
+     "text": "Marketing Collaterals",
+     "href": null,
+     "icon": null
+    },
+    {
+     "text": "Strategy",
+     "href": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "type": "image.default",
+   "id": "e4e3c1c",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/Group-1171275650.svg",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Group-1171275650.svg",
+    "alt": "",
+    "title": null,
+    "w": 317,
+    "h": 542,
+    "srcset": null
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "image.default",
+   "id": "8b07038",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/Group-1171275651.svg",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Group-1171275651.svg",
+    "alt": "",
+    "title": null,
+    "w": 167,
+    "h": 259,
+    "srcset": null
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "heading.default",
+   "id": "a3cca6a",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H5",
+   "text": "Primary\n#405641"
+  },
+  {
+   "type": "heading.default",
+   "id": "dba7b87",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H5",
+   "text": "Secondary\n#1F7BBA"
+  },
+  {
+   "type": "heading.default",
+   "id": "5de9a0b",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H5",
+   "text": "#7B8F76"
+  },
+  {
+   "type": "heading.default",
+   "id": "da13844",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H5",
+   "text": "#9F9F9F"
+  },
+  {
+   "type": "image.default",
+   "id": "98e40d2",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "animation": "fadeInUp",
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/mockup-1-scaled.webp",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/mockup-1-1536x1020.webp",
+    "alt": "",
+    "title": null,
+    "w": 1439,
+    "h": 956,
+    "srcset": "https://mmag.in/wp-content/uploads/2026/06/mockup-1-scaled.webp 2560w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-300x199.webp 300w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-1024x680.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-768x510.webp 768w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-1536x1020.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-2048x1361.webp 2048w"
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "image.default",
+   "id": "48468b8",
+   "cssId": null,
+   "classes": "elementor-fixed",
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/mockup-2-scaled.webp",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/mockup-2-1536x917.webp",
+    "alt": "",
+    "title": null,
+    "w": 1439,
+    "h": 859,
+    "srcset": "https://mmag.in/wp-content/uploads/2026/06/mockup-2-scaled.webp 2560w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-300x179.webp 300w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-1024x611.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-768x458.webp 768w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-1536x917.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-2048x1222.webp 2048w"
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "image.default",
+   "id": "635171e",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "animation": "zoomIn",
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/mockup-3-scaled.webp",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/mockup-3-1536x960.webp",
+    "alt": "",
+    "title": null,
+    "w": 1439,
+    "h": 899,
+    "srcset": "https://mmag.in/wp-content/uploads/2026/06/mockup-3-scaled.webp 2560w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-300x188.webp 300w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-1024x640.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-768x480.webp 768w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-1536x960.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-2048x1280.webp 2048w"
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "image.default",
+   "id": "21bb023",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "animation": "fadeInUp",
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/mockup-4-scaled.webp",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/mockup-4-1536x1198.webp",
+    "alt": "",
+    "title": null,
+    "w": 1439,
+    "h": 1123,
+    "srcset": "https://mmag.in/wp-content/uploads/2026/06/mockup-4-scaled.webp 2560w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-300x234.webp 300w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-1024x798.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-768x599.webp 768w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-1536x1198.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-2048x1597.webp 2048w"
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "heading.default",
+   "id": "977c9f3",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H2",
+   "text": "Next Work"
+  },
+  {
+   "type": "image.default",
+   "id": "106811c",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/logo-1-1.svg",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/logo-1-1.svg",
+    "alt": "",
+    "title": null,
+    "w": 234,
+    "h": 43,
+    "srcset": null
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "image.default",
+   "id": "b93e1e5",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/06/Frame-34860.webp",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Frame-34860-1536x628.webp",
+    "alt": "",
+    "title": null,
+    "w": 1439,
+    "h": 588,
+    "srcset": "https://mmag.in/wp-content/uploads/2026/06/Frame-34860.webp 2340w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-300x123.webp 300w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-1024x418.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-768x314.webp 768w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-1536x628.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-2048x837.webp 2048w"
+   },
+   "href": null,
+   "caption": ""
+  },
+  {
+   "type": "heading.default",
+   "id": "8d7cf6d",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H2",
+   "text": "Website Design"
+  },
+  {
+   "type": "button.default",
+   "id": "2139e76",
+   "cssId": null,
+   "classes": null,
+   "region": "main",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "View Work",
+   "href": "https://mmag.in/case-studies/yash-industries/",
+   "target": null,
+   "icon": null
+  },
+  {
+   "type": "theme-site-logo.default",
+   "id": "9e1bb2c",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "image": {
+    "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+    "alt": "",
+    "title": null,
+    "w": 104,
+    "h": 128,
+    "srcset": null
+   },
+   "href": "https://mmag.in/"
+  },
+  {
+   "type": "social-icons.default",
+   "id": "f3de2be",
+   "cssId": null,
+   "classes": "elementor-shape-rounded elementor-grid-0",
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "href": "https://mmag.in/work/zendale/",
+     "label": "",
+     "icon": ""
+    },
+    {
+     "href": "tel:+91-8308852044",
+     "label": "",
+     "icon": ""
+    },
+    {
+     "href": "https://maps.app.goo.gl/wxVkVbBEvJV89RsL7",
+     "label": "",
+     "icon": ""
+    }
+   ]
+  },
+  {
+   "type": "icon-list.default",
+   "id": "7093c14",
+   "cssId": null,
+   "classes": "elementor-icon-list--layout-traditional elementor-list-item-link-full_width",
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "text": "About Us",
+     "href": "https://mmag.in/about-us/",
+     "icon": null
+    },
+    {
+     "text": "Case Studies",
+     "href": "https://mmag.in/case-studies/",
+     "icon": null
+    },
+    {
+     "text": "Contact Us",
+     "href": "https://mmag.in/contact-us/",
+     "icon": null
+    }
+   ]
+  },
+  {
+   "type": "html.default",
+   "id": "f71046d",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "//You can replace offset value from here\nvar offset = 300\n$(window).on('load scroll', function(){\n if( $(window).scrollTop() > offset ){\n $('body').addClass('show')\n }else{\n $('body').removeClass('show')\n }\n})",
+   "html": "<div class=\"elementor-widget-container\"> <script src=\"https://code.jquery.com/jquery-3.6.0.min.js\"></script> <script> //You can replace offset value from here var offset = 300 $(window).on('load scroll', function(){ if( $(window).scrollTop() > offset ){ $('body').addClass('show') }else{ $('body').removeClass('show') } }) </script> </div>"
+  },
+  {
+   "type": "heading.default",
+   "id": "f78a47c",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "tag": "H2",
+   "text": "Follow us on"
+  },
+  {
+   "type": "social-icons.default",
+   "id": "e7a7402",
+   "cssId": null,
+   "classes": "elementor-shape-rounded elementor-grid-0",
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "items": [
+    {
+     "href": "https://www.instagram.com/mmag_india/",
+     "label": "Instagram",
+     "icon": "e-font-icon-svg e-fab-instagram"
+    },
+    {
+     "href": "https://www.linkedin.com/company/mmagindia",
+     "label": "Linkedin-in",
+     "icon": "e-font-icon-svg e-fab-linkedin-in"
+    },
+    {
+     "href": "https://www.youtube.com/@mmag2717",
+     "label": "Youtube",
+     "icon": "e-font-icon-svg e-fab-youtube"
+    },
+    {
+     "href": "https://www.facebook.com/mmag.india/",
+     "label": "Facebook-f",
+     "icon": "e-font-icon-svg e-fab-facebook-f"
+    }
+   ]
+  },
+  {
+   "type": "button.default",
+   "id": "3e99e15",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Download Portfolio",
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "target": null,
+   "icon": null
+  },
+  {
+   "type": "text-editor.default",
+   "id": "3ca112f",
+   "cssId": null,
+   "classes": null,
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "Copyright © 2026 MMAG, All right reserved",
+   "html": "Copyright © 2026 MMAG, All right reserved"
+  },
+  {
+   "type": "button.default",
+   "id": "be918f4",
+   "cssId": null,
+   "classes": "elementor-fixed",
+   "region": "footer",
+   "hiddenOn": [],
+   "insideWidget": null,
+   "text": "",
+   "href": "#",
+   "target": null,
+   "icon": ""
+  }
+ ],
+ "widgetCounts": {
+  "theme-site-logo.default": 3,
+  "nav-menu.default": 2,
+  "button.default": 5,
+  "shortcode.default": 1,
+  "image.default": 11,
+  "heading.default": 11,
+  "icon-box.default": 3,
+  "text-editor.default": 2,
+  "html.default": 2,
+  "icon-list.default": 2,
+  "social-icons.default": 2
+ },
+ "sections": [
+  {
+   "doc": "header:47",
+   "index": 0,
+   "dataId": "885477a",
+   "cssId": "header",
+   "classes": "e-con-boxed elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects",
+   "hiddenOn": [],
+   "height": 82,
+   "background": [
+    {
+     "color": "rgb(255, 255, 255)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": "About Us\nCase Studies\nContact Us\nDownload Portfoilo"
+  },
+  {
+   "doc": "header:47",
+   "index": 1,
+   "dataId": "885477a",
+   "cssId": "header",
+   "classes": "e-con-boxed elementor-sticky elementor-sticky__spacer",
+   "hiddenOn": [],
+   "height": 82,
+   "background": [
+    {
+     "color": "rgb(255, 255, 255)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": "About Us\nCase Studies\nContact Us\n About Us\nCase Studies\nContact Us\n Download Portfoilo"
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 0,
+   "dataId": "4eb1e8f",
+   "cssId": null,
+   "classes": "e-con-boxed",
+   "hiddenOn": [],
+   "height": 60,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": "Home | Work | Zendale"
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 1,
+   "dataId": "cbce6cf",
+   "cssId": "overview",
+   "classes": "e-con-full left-padding-section",
+   "hiddenOn": [],
+   "height": 833,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [
+    "H2: BALANCING SERENITY AND CONVENIENCE THROUGH DIGITAL BRANDING FOR ZEN-DALE RESIDENCES",
+    "H3: Find your peacful\nsanctuary at Zen-Dale",
+    "H3: A serene valley\nof tranquility",
+    "H3: A state of clam and\nclarity"
+   ],
+   "text": "BALANCING SERENITY AND CONVENIENCE THROUGH DIGITAL BRANDING FOR ZEN-DALE RESIDENCES\nFind your peacful\nsanctuary at Zen-Dale\nA serene valley\nof tranquility\nA state of clam and\nclarity"
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 2,
+   "dataId": "e007b97",
+   "cssId": "kamal",
+   "classes": "e-con-boxed",
+   "hiddenOn": [],
+   "height": 817,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [
+    "H2: What we did for",
+    "H2: ZEN-DALE",
+    "H2: Industry: Real Estate"
+   ],
+   "text": "What we did for\nZEN-DALE\nThe Zen-Dale project is focused on promoting the tranquil lifestyles of its residential plots, highlighting the harmony between nature and modern living. The challenge was to emphasize both the peaceful environment and its prime location near the Pune-Mumbai Expressway, appealing to families seeking serenity and convenience\nIndustry: Real Estate\nBranding\nMarketing Collaterals\nStrategy"
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 3,
+   "dataId": "303c7b2",
+   "cssId": null,
+   "classes": "e-con-full left-padding-section2",
+   "hiddenOn": [],
+   "height": 1257,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [
+    "H5: Primary\n#405641",
+    "H5: Secondary\n#1F7BBA",
+    "H5: #7B8F76",
+    "H5: #9F9F9F"
+   ],
+   "text": "Primary\n#405641\nSecondary\n#1F7BBA\n#7B8F76\n#9F9F9F"
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 4,
+   "dataId": "8b31a60",
+   "cssId": null,
+   "classes": "e-con-full",
+   "hiddenOn": [],
+   "height": 660,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": ""
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 5,
+   "dataId": "c1de775",
+   "cssId": null,
+   "classes": "e-con-full",
+   "hiddenOn": [],
+   "height": 660,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": ""
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 6,
+   "dataId": "401acbc",
+   "cssId": null,
+   "classes": "e-con-full",
+   "hiddenOn": [],
+   "height": 660,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": ""
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 7,
+   "dataId": "e488365",
+   "cssId": null,
+   "classes": "e-con-full",
+   "hiddenOn": [],
+   "height": 660,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": ""
+  },
+  {
+   "doc": "wp-page:4257",
+   "index": 8,
+   "dataId": "b7dd305",
+   "cssId": null,
+   "classes": "e-con-boxed",
+   "hiddenOn": [],
+   "height": 856,
+   "background": [
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [
+    "H2: Next Work",
+    "H2: Website Design"
+   ],
+   "text": "Next Work\nWebsite Design\nView Work"
+  },
+  {
+   "doc": "footer:619",
+   "index": 0,
+   "dataId": "95773d6",
+   "cssId": null,
+   "classes": "e-grid e-con-boxed",
+   "hiddenOn": [],
+   "height": 261,
+   "background": [
+    {
+     "color": "rgb(255, 255, 255)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [
+    "H2: Follow us on"
+   ],
+   "text": "About Us\nCase Studies\nContact Us\nFollow us on\nInstagram\nLinkedin-in\nYoutube\nFacebook-f\nDownload Portfolio"
+  },
+  {
+   "doc": "footer:619",
+   "index": 1,
+   "dataId": "3cf3dae",
+   "cssId": null,
+   "classes": "e-con-boxed",
+   "hiddenOn": [],
+   "height": 52,
+   "background": [
+    {
+     "color": "rgb(84, 7, 139)",
+     "image": null
+    },
+    {
+     "color": "rgba(0, 0, 0, 0)",
+     "image": null
+    }
+   ],
+   "backgroundVideo": null,
+   "headings": [],
+   "text": "Copyright © 2026 MMAG, All right reserved"
+  }
+ ],
+ "links": [
+  {
+   "href": "#content",
+   "abs": "https://mmag.in/work/zendale/#content",
+   "text": "Skip to content",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "other",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in",
+   "abs": "https://mmag.in/",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "abs": "https://mmag.in/work/zendale/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "text": "Download Portfoilo",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": true,
+   "isButton": true
+  },
+  {
+   "href": "https://mmag.in",
+   "abs": "https://mmag.in/",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": false
+  },
+  {
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "abs": "https://mmag.in/work/zendale/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "text": "Download Portfoilo",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "header",
+   "visible": false,
+   "isButton": true
+  },
+  {
+   "href": "https://mmag.in",
+   "abs": "https://mmag.in/",
+   "text": "Home",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "main",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/work/",
+   "abs": "https://mmag.in/work/",
+   "text": "Work",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "main",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/yash-industries/",
+   "abs": "https://mmag.in/case-studies/yash-industries/",
+   "text": "View Work",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "main",
+   "visible": true,
+   "isButton": true
+  },
+  {
+   "href": "https://mmag.in",
+   "abs": "https://mmag.in/",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "",
+   "abs": "https://mmag.in/work/zendale/",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "tel:+91-8308852044",
+   "abs": "tel:+91-8308852044",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://maps.app.goo.gl/wxVkVbBEvJV89RsL7",
+   "abs": "https://maps.app.goo.gl/wxVkVbBEvJV89RsL7",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/about-us/",
+   "abs": "https://mmag.in/about-us/",
+   "text": "About Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/case-studies/",
+   "abs": "https://mmag.in/case-studies/",
+   "text": "Case Studies",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://mmag.in/contact-us/",
+   "abs": "https://mmag.in/contact-us/",
+   "text": "Contact Us",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://www.instagram.com/mmag_india/",
+   "abs": "https://www.instagram.com/mmag_india/",
+   "text": "Instagram",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://www.linkedin.com/company/mmagindia",
+   "abs": "https://www.linkedin.com/company/mmagindia",
+   "text": "Linkedin-in",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://www.youtube.com/@mmag2717",
+   "abs": "https://www.youtube.com/@mmag2717",
+   "text": "Youtube",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "https://www.facebook.com/mmag.india/",
+   "abs": "https://www.facebook.com/mmag.india/",
+   "text": "Facebook-f",
+   "aria": null,
+   "title": null,
+   "target": "_blank",
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": false
+  },
+  {
+   "href": "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "abs": "https://mmag.in/work/zendale/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "text": "Download Portfolio",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": true
+  },
+  {
+   "href": "#",
+   "abs": "https://mmag.in/work/zendale/#",
+   "text": "",
+   "aria": null,
+   "title": null,
+   "target": null,
+   "rel": null,
+   "region": "footer",
+   "visible": true,
+   "isButton": true
+  }
+ ],
+ "images": [
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "alt": "",
+   "title": null,
+   "w": 104,
+   "h": 128,
+   "srcset": null,
+   "region": "header",
+   "widget": "theme-site-logo.default",
+   "displayed": [
+    50,
+    62
+   ],
+   "loading": null
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "alt": "",
+   "title": null,
+   "w": 104,
+   "h": 128,
+   "srcset": null,
+   "region": "header",
+   "widget": "theme-site-logo.default",
+   "displayed": [
+    50,
+    62
+   ],
+   "loading": null
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Group-1-171275578-1.svg",
+   "alt": "",
+   "title": null,
+   "w": 472,
+   "h": 94,
+   "srcset": null,
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    472,
+    94
+   ],
+   "loading": null
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/Vector.svg",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Vector.svg",
+   "alt": "",
+   "title": null,
+   "w": 269,
+   "h": 268,
+   "srcset": null,
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    269,
+    268
+   ],
+   "loading": null
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/12-1-1.webp",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/12-1-1-1536x539.webp",
+   "alt": "",
+   "title": null,
+   "w": 1439,
+   "h": 505,
+   "srcset": "https://mmag.in/wp-content/uploads/2026/06/12-1-1.webp 1623w, https://mmag.in/wp-content/uploads/2026/06/12-1-1-300x105.webp 300w, https://mmag.in/wp-content/uploads/2026/06/12-1-1-1024x360.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/12-1-1-768x270.webp 768w, https://mmag.in/wp-content/uploads/2026/06/12-1-1-1536x539.webp 1536w",
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    670,
+    235
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/Group-1171275650.svg",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Group-1171275650.svg",
+   "alt": "",
+   "title": null,
+   "w": 317,
+   "h": 542,
+   "srcset": null,
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    317,
+    542
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/Group-1171275651.svg",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Group-1171275651.svg",
+   "alt": "",
+   "title": null,
+   "w": 167,
+   "h": 259,
+   "srcset": null,
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    167,
+    259
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/mockup-1-scaled.webp",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/mockup-1-1536x1020.webp",
+   "alt": "",
+   "title": null,
+   "w": 1439,
+   "h": 956,
+   "srcset": "https://mmag.in/wp-content/uploads/2026/06/mockup-1-scaled.webp 2560w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-300x199.webp 300w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-1024x680.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-768x510.webp 768w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-1536x1020.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/mockup-1-2048x1361.webp 2048w",
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    964,
+    640
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/mockup-2-scaled.webp",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/mockup-2-1536x917.webp",
+   "alt": "",
+   "title": null,
+   "w": 1439,
+   "h": 859,
+   "srcset": "https://mmag.in/wp-content/uploads/2026/06/mockup-2-scaled.webp 2560w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-300x179.webp 300w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-1024x611.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-768x458.webp 768w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-1536x917.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/mockup-2-2048x1222.webp 2048w",
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    1072,
+    640
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/mockup-3-scaled.webp",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/mockup-3-1536x960.webp",
+   "alt": "",
+   "title": null,
+   "w": 1439,
+   "h": 899,
+   "srcset": "https://mmag.in/wp-content/uploads/2026/06/mockup-3-scaled.webp 2560w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-300x188.webp 300w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-1024x640.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-768x480.webp 768w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-1536x960.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/mockup-3-2048x1280.webp 2048w",
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    1024,
+    640
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/mockup-4-scaled.webp",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/mockup-4-1536x1198.webp",
+   "alt": "",
+   "title": null,
+   "w": 1439,
+   "h": 1123,
+   "srcset": "https://mmag.in/wp-content/uploads/2026/06/mockup-4-scaled.webp 2560w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-300x234.webp 300w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-1024x798.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-768x599.webp 768w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-1536x1198.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/mockup-4-2048x1597.webp 2048w",
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    821,
+    640
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/logo-1-1.svg",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/logo-1-1.svg",
+   "alt": "",
+   "title": null,
+   "w": 234,
+   "h": 43,
+   "srcset": null,
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    234,
+    43
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/06/Frame-34860.webp",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/06/Frame-34860-1536x628.webp",
+   "alt": "",
+   "title": null,
+   "w": 1439,
+   "h": 588,
+   "srcset": "https://mmag.in/wp-content/uploads/2026/06/Frame-34860.webp 2340w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-300x123.webp 300w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-1024x418.webp 1024w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-768x314.webp 768w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-1536x628.webp 1536w, https://mmag.in/wp-content/uploads/2026/06/Frame-34860-2048x837.webp 2048w",
+   "region": "main",
+   "widget": "image.default",
+   "displayed": [
+    1260,
+    515
+   ],
+   "loading": "lazy"
+  },
+  {
+   "src": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "currentSrc": "https://mmag.in/wp-content/uploads/2026/01/MMAG-logo-2.png",
+   "alt": "",
+   "title": null,
+   "w": 104,
+   "h": 128,
+   "srcset": null,
+   "region": "footer",
+   "widget": "theme-site-logo.default",
+   "displayed": [
+    104,
+    128
+   ],
+   "loading": null
+  }
+ ],
+ "backgroundImages": [],
+ "inlineSvgCount": 17,
+ "videos": [],
+ "iframes": [],
+ "lottie": [],
+ "forms": [],
+ "buttons": [
+  {
+   "text": "",
+   "aria": "Menu Toggle",
+   "cls": "elementor-menu-toggle",
+   "region": "header",
+   "visible": false
+  },
+  {
+   "text": "",
+   "aria": "Menu Toggle",
+   "cls": "elementor-menu-toggle",
+   "region": "header",
+   "visible": false
+  }
+ ],
+ "components": {
+  "swipers": [],
+  "jetTabs": [],
+  "nTabs": [],
+  "accordions": [],
+  "popupsInDom": [],
+  "popupTriggers": [
+   {
+    "text": "Download Portfoilo",
+    "href": "#elementor-action:action=popup:open&settings=eyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ=="
+   },
+   {
+    "text": "Download Portfoilo",
+    "href": "#elementor-action:action=popup:open&settings=eyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ=="
+   },
+   {
+    "text": "Download Portfolio",
+    "href": "#elementor-action:action=popup:open&settings=eyJpZCI6IjM2OTEiLCJ0b2dnbGUiOmZhbHNlfQ=="
+   }
+  ],
+  "floatingButtons": [],
+  "customIds": [
+   "global-styles-inline-css",
+   "hello-elementor-css",
+   "hello-elementor-theme-style-css",
+   "hello-elementor-header-footer-css",
+   "widget-image-css",
+   "widget-nav-menu-css",
+   "e-sticky-css",
+   "widget-social-icons-css",
+   "e-apple-webkit-css",
+   "widget-icon-list-css",
+   "widget-heading-css",
+   "widget-form-css",
+   "e-popup-css",
+   "font-awesome-5-all-css",
+   "font-awesome-4-shim-css",
+   "e-animation-fadeInLeft-css",
+   "widget-icon-box-css",
+   "e-animation-fadeInUp-css",
+   "e-animation-fadeInRight-css",
+   "e-animation-zoomIn-css",
+   "jquery-core-js",
+   "jquery-migrate-js",
+   "font-awesome-4-shim-js",
+   "header",
+   "menu-1-78daf76",
+   "menu-2-78daf76",
+   "header",
+   "menu-1-78daf76",
+   "menu-2-78daf76",
+   "content",
+   "overview",
+   "kamal",
+   "clip0_3396_287",
+   "hello-theme-frontend-js",
+   "jquery-ui-core-js-before",
+   "jquery-ui-core-js",
+   "smartmenus-js",
+   "e-sticky-js",
+   "pa-elements-handler-js",
+   "pro-elements-handlers-js"
+  ],
+  "stickyElements": [
+   {
+    "dataId": "885477a",
+    "sticky": "top",
+    "on": [
+     "widescreen",
+     "desktop",
+     "laptop",
+     "tablet_extra",
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "offset": 0,
+    "effectsOffset": 0
+   },
+   {
+    "dataId": "885477a",
+    "sticky": "top",
+    "on": [
+     "widescreen",
+     "desktop",
+     "laptop",
+     "tablet_extra",
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "offset": 0,
+    "effectsOffset": 0
+   }
+  ],
+  "animatedCount": 15
+ },
+ "scripts": [
+  "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__en.js",
+  "https://mmag.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+  "https://mmag.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.2.4",
+  "https://www.googletagmanager.com/gtag/js?id=G-9WNY7XF2FT",
+  "https://code.jquery.com/jquery-2.2.4.min.js",
+  "https://code.jquery.com/jquery-3.6.0.min.js",
+  "https://mmag.in/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.5.1",
+  "https://mmag.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4",
+  "https://mmag.in/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+  "https://mmag.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js?ver=4.11.103",
+  "https://www.google.com/recaptcha/api.js?render=explicit&ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.2.2",
+  "https://mmag.in/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+  "https://mmag.in/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.2.3",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/intl-tel-input/js/intlTelInput.js?ver=1.7.4",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/js/country-code-script.min.js?ver=1.7.4",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/js/country-code-script-hello.min.js?ver=1.7.4",
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/MotionPathPlugin.min.js",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3"
+ ],
+ "inlineScripts": [
+  "\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9WNY7XF2FT');\n",
+  "\n        var winWD = $(window).width();\n\n        $(window).scroll(function(){ \n        if ($(window).scrollTop() > $('#kamal').offset().top-400) {\n            $(\".leaf\").addClass(\"leafAnim\");\n        }\n        else{            \n            $(\".leaf\").removeClass(\"leafAnim\");\n        }\n    });\n    ",
+  "\n//You can replace offset value from here\nvar offset = 300\n$(window).on('load scroll', function(){\n\t\n\tif( $(window).scrollTop() > offset ){\n        $('body').addClass('show')\n\t}else{\n        $('body').removeClass('show')\n\t}\n})\n",
+  "\n\t\t\t\t( () => {\n\t\t\t\t\tconst lazyloadRunObserver = () => {\n\t\t\t\t\t\tconst lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );\n\t\t\t\t\t\tconst lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {\n\t\t\t\t\t\t\tentries.forEach( ( entry ) => {\n\t\t\t\t\t\t\t\tif ( entry.isIntersecting ) {\n\t\t\t\t\t\t\t\t\tlet lazyloadBackground = entry.target;\n\t\t\t\t\t\t\t\t\tif( lazyloadBackground ) {\n\t\t\t\t\t\t\t\t\t\tlazyloadBackground.classList.add( 'e-lazyloaded' );\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tlazyloadBackgroundObserver.unobserve( entry.target );\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t});\n\t\t\t\t\t\t}, { rootMargin: '200px 0px 200px 0px' } );\n\t\t\t\t\t\tlazyloadBackgrounds.forEach( ( lazyloadBackground ) => {\n\t\t\t\t\t\t\tlazyloadBackgroundObserver.observe( lazyloadBackground );\n\t\t\t\t\t\t} );\n\t\t\t\t\t};\n\t\t\t\t\tconst events = [\n\t\t\t\t\t\t'DOMContentLoaded',\n\t\t\t\t\t\t'elementor/lazyload/observe',\n\t\t\t\t\t];\n\t\t\t\t\tevents.forEach( ( event ) => {\n\t\t\t\t\t\tdocument.addEventListener( event, lazyloadRunObserver );\n\t\t\t\t\t} );\n\t\t\t\t} )();\n\t\t\t",
+  "\njQuery.uiBackCompat = true;\n//# sourceURL=jquery-ui-core-js-before\n",
+  "\nvar PremiumSettings = {\"ajaxurl\":\"https://mmag.in/wp-admin/admin-ajax.php\",\"nonce\":\"768e7581c0\"};\n//# sourceURL=elementor-frontend-js-extra\n",
+  "\nvar elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Share on Facebook\",\"shareOnX\":\"Share on X\",\"pinIt\":\"Pin it\",\"download\":\"Download\",\"downloadImage\":\"Download image\",\"fullscreen\":\"Fullscreen\",\"zoom\":\"Zoom\",\"share\":\"Share\",\"playVideo\":\"Play Video\",\"previous\":\"Previous\",\"next\":\"Next\",\"close\":\"Close\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"Mobile Portrait\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"Mobile Landscape\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":true},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":true},\"laptop\":{\"label\":\"Laptop\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":true},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":true}},\"hasCustomBreakpoints\":true},\"version\":\"4.2.4\",\"is_static\":false,\"experimentalFeatures\":{\"e_font_icon_svg\":true,\"additional_custom_breakpoints\":true,\"container\":true,\"e_panel_promotions\":true,\"theme_builder_v2\":true,\"hello-theme-header-footer\":true,\"e_pro_free_trial_popup\":true,\"nested-elements\":true,\"global_classes_should_enforce_capabilities\":true,\"e_opt_in_v4_page\":true,\"e_interactions\":true,\"e_widget_creation\":true,\"import-export-customization\":true,\"e_pro_atomic_form\":true,\"e_pro_collection_loop\":true,\"mega-menu\":true,\"e_pro_variables\":true,\"e_pro_interactions\":true},\"urls\":{\"assets\":\"https:\\/\\/mmag.in\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/mmag.in\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/mmag.in\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"79f1cc3c9d\",\"atomicFormsSendForm\":\"3db85af482\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"active_breakpoints\":[\"viewport_mobile\",\"viewport_mobile_extra\",\"viewport_tablet\",\"viewport_tablet_extra\",\"viewport_laptop\",\"viewport_widescreen\"],\"body_background_background\":\"classic\",\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\",\"hello_header_logo_type\":\"logo\",\"hello_header_menu_layout\":\"horizontal\",\"hello_footer_logo_type\":\"logo\"},\"post\":{\"id\":4257,\"title\":\"Zendale%20-%20MMAG\",\"excerpt\":\"\",\"featuredImage\":false}};\n//# sourceURL=elementor-frontend-js-before\n",
+  "\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n//# sourceURL=wp-i18n-js-after\n",
+  "\nvar ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/mmag.in\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"d084a587f7\",\"urls\":{\"assets\":\"https:\\/\\/mmag.in\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/mmag.in\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":true},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}},\"facebook_sdk\":{\"lang\":\"en_US\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/mmag.in\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}};\n//# sourceURL=elementor-pro-frontend-js-before\n",
+  "\nvar JetTabsSettings = {\"ajaxurl\":\"https://mmag.in/wp-admin/admin-ajax.php\",\"isMobile\":\"false\",\"templateApiUrl\":\"https://mmag.in/wp-json/jet-tabs-api/v1/elementor-template\",\"devMode\":\"false\"};\n//# sourceURL=jet-tabs-frontend-js-extra\n",
+  "\nvar CCFEFCustomData = {\"pluginDir\":\"https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/\",\"errorMap\":[\"The phone number you entered is not valid. Please check the format and try again.\",\"The country code you entered is not recognized. Please ensure it is correct and try again.\",\"The phone number you entered is too short. Please enter a complete phone number, including the country code.\",\"The phone number you entered is too long. Please ensure it is in the correct format and try again.\",\"The phone number you entered is not valid. Please check the format and try again.\"]};\n//# sourceURL=ccfef-country-code-script-js-extra\n",
+  "\nvar CCFEFCustomData = {\"pluginDir\":\"https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/\",\"errorMap\":[\"The phone number you entered is not valid. Please check the format and try again.\",\"The country code you entered is not recognized. Please ensure it is correct and try again.\",\"The phone number you entered is too short. Please enter a complete phone number, including the country code.\",\"The phone number you entered is too long. Please ensure it is in the correct format and try again.\",\"The phone number you entered is not valid. Please check the format and try again.\"]};\n//# sourceURL=ccfef-country-code-script-hello-js-extra\n",
+  "\n{\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://mmag.in/wp-includes/js/wp-emoji-release.min.js?ver=7.1.3\"}}\n",
+  "\n/*! This file is auto-generated */\nvar e=\"script#wp-emoji-settings\",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error(\"Element missing: \"+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,\"wpEmojiSettingsSupports\"),o=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!r(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,r){let a;const s=(a=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),o=(s.textBaseline=\"top\",s.font=\"600 32px Arial\",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",r=new Blob([e],{type:\"text/javascript\"});const a=new Worker(URL.createObjectURL(r),{name:\"wpTestEmojiSupports\"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],\"flag\"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});\n//# sourceURL=https://mmag.in/wp-includes/js/wp-emoji-loader.min.js\n",
+  "\nfunction initProcessOnlyAnimation() {\n\n  // ? HARD STOP ON MOBILE\n  if (window.matchMedia(\"(max-width: 767px)\").matches) {\n    return;\n  }\n\n  // Wait until GSAP plugins are available\n  if (typeof MotionPathPlugin === \"undefined\" || typeof ScrollTrigger === \"undefined\") {\n    setTimeout(initProcessOnlyAnimation, 300);\n    return;\n  }\n\n  gsap.registerPlugin(ScrollTrigger, MotionPathPlugin);\n\n  ScrollTrigger.matchMedia({\n\n    /* =======================\n       ✅ DESKTOP ONLY\n       ======================= */\n    \"(min-width: 768px)\": function () {\n\n      const section = document.querySelector(\"#process-section\");\n      const circles = document.querySelectorAll(\".moving-circle\");\n      const targets = document.querySelectorAll(\"#process-section .target-position\");\n\n      if (!section || circles.length === 0) return;\n\n      const tl = gsap.timeline({\n        scrollTrigger: {\n          trigger: section,\n          start: \"top top\",\n          end: \"+=200%\",\n          scrub: 1.5,\n          pin: true,\n          pinSpacing: true,\n          invalidateOnRefresh: true,\n// \t\t\t\t\tonLeave: () => {\n//       // ? swap balls\n//       gsap.set(\"#process-ball\", {\n//         opacity: 0,\n//         visibility: \"hidden\"\n//       });\n\n//       gsap.set(\"#build-ball\", {\n//     clearProps: \"transform\"\n//   });\n\n//   // Then apply scale\n//   gsap.set(\"#build-ball\", {\n//     opacity: 1,\n//     visibility: \"visible\",\n//     scale: 0.7\n//   });\n//   }\n\t\t\t\t\t// ? scrolling UP back into the pin\n//     onEnterBack: () => {\n// //       gsap.set(\"#build-ball\", {\n// //         opacity: 0,\n// //         visibility: \"hidden\",\n// //         scale: 1\n// //       });\n\n// //       gsap.set(\"#process-ball\", {\n// //         opacity: 1,\n// //         visibility: \"visible\"\n// //       });\n//     }\n        }\n      });\n\n      // INITIAL STATE\n      gsap.set(circles, { y: 0, opacity: 0 });\n\n      // PHASE 0: DROP\n      tl.to(circles, {\n        y: 120,\n        opacity: 1,\n        duration: 0.5,\n        ease: \"power1.out\"\n      });\n\t\t\ttl.to(\"#process-ball\", {\n  opacity: 0,\n  duration: 1,\n  ease: \"power1.out\"\n}, 0.5);\n\n      // PHASE 1: SPREAD TO TARGETS\n      circles.forEach((circle, i) => {\n        const target = targets[i];\n        if (!target) return;\n\n        const p = MotionPathPlugin.getRelativePosition(\n          circle,\n          target,\n          [0.5, 0.5],\n          [0.5, 0.5]\n        );\n\n        tl.to(circle, {\n          x: p.x,\n          y: p.y,\n          duration: 1.2,\n          ease: \"power2.inOut\"\n        }, 0.6);\n      });\n\n//       // PHASE 3.5: 4th BALL EXIT\n//       const fourthCircle = circles[3];\n//       if (fourthCircle) {\n//         tl.to(fourthCircle, {\n//           y: \"+=300\",\n//           scale: 0.6,\n//           opacity: 0,\n//           duration: 2,\n//           ease: \"power3.in\"\n//         }, \">\");\n//       }\n\n//       // FINAL HOLD\n      tl.to({}, { duration: 1 });\n// \t\t\t//       // ? NEW PHASE 2: MOVE DOWN TO CENTER\n// tl.to(circles, {\n//   y: \"+=400\",\n//   duration: 1,\n//   ease: \"power2.inOut\"\n// }, \">+=0.2\");\n    },\n\t\t\n\t\t\n\n    /* =======================\n       ❌ MOBILE ONLY\n       ======================= */\n    \"(max-width: 767px)\": function () {\n\n      // Kill everything GSAP-related\n      ScrollTrigger.getAll().forEach(st => st.kill());\n      gsap.killTweensOf(\"*\");\n      gsap.globalTimeline.clear();\n\n      // Reset animated elements (VERY IMPORTANT)\n      gsap.set(\n        \"#process-section, .moving-circle, .target-position\",\n        { clearProps: \"all\" }\n      );\n    }\n\n  });\n}\n\n// Run on page load\nwindow.addEventListener(\"load\", initProcessOnlyAnimation);\n"
+ ],
+ "inlineStyles": [
+  {
+   "id": "wp-img-auto-sizes-contain-inline-css",
+   "css": "\nimg:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css */\n"
+  },
+  {
+   "id": "wp-emoji-styles-inline-css",
+   "css": "\n\n\timg.wp-smiley, img.emoji {\n\t\tdisplay: inline !important;\n\t\tborder: none !important;\n\t\tbox-shadow: none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin: 0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none !important;\n\t\tpadding: 0 !important;\n\t}\n/*# sourceURL=wp-emoji-styles-inline-css */\n"
+  },
+  {
+   "id": "global-styles-inline-css",
+   "css": "\n:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}\n:root :where(.wp-block-icon svg){width: 24px;}\n:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}\n/*# sourceURL=global-styles-inline-css */\n"
+  },
+  {
+   "id": "elementor-pro-custom-fonts-inline-css",
+   "css": "\n@font-face {\n\tfont-family: 'Satoshi';\n\tfont-display: auto;\n\tsrc: url('https://mmag.in/wp-content/uploads/2026/01/Satoshi-Variable.ttf') format('truetype');\n}\n\n/*# sourceURL=elementor-pro-custom-fonts-inline-css */\n"
+  },
+  {
+   "id": "",
+   "css": "\n\t\t\t\t.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t}\n\t\t\t\t@media screen and (max-height: 1024px) {\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t@media screen and (max-height: 640px) {\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),\n\t\t\t\t\t.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {\n\t\t\t\t\t\tbackground-image: none !important;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t"
+  },
+  {
+   "id": "wp-custom-css",
+   "css": "\n#hero-ball {\n    position: absolute;\n    will-change: transform, z-index;\n}\n.hero-pin {\n/*     will-change: padding; */\n    overflow: hidden !important;\n    height: 100vh !important;\n\n}\n.frame{\n    position: relative;\n    z-index: 10;\n}\n\n\n.floating-container {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    pointer-events: none;\n    z-index: 10;\n}\n\n.moving-circle {\n    position: absolute;\n    width: 25px;  \n    height: 25px;\n    background-color: #F3C01F; \n    border-radius: 50%;\n    top: 0;\n    left: 50%;\n    transform: translate(-50%, 0);\n    opacity: 1;\n\tz-index: 100000;\n}\n\n#process-section {\n    position: relative;\n    overflow: visible !important;\n\tz-index: 10;\n}\n\n.process-card {\n    position: relative;\n}\n\n.card-video {\n    transform: translate(-50%, -50%);\n    width: 100%; /* Or the specific size of your SVG icon */\n    height: auto;\n    opacity: 0;\n    transition: opacity 0.3s ease;\n    z-index: 5;\n}\n\n/* 1. Prevent parent containers from collapsing during pinning */\n/* .elementor-section-wrap, \n.elementor-inner {\n    overflow: visible !important;\n} */\n\n/* 2. Ensure the pinned section has a stable height */\n#process-section {\n    min-height: 100vh;\n    display: block !important; /* Flex can sometimes cause jumping with pin */\n}\n\n/* 3. Smooth out the scroll behavior */\n/* html {\n    scroll-behavior: auto !important; /* Smooth scroll conflicts with scrub/pin */\n} */\n\n\n/* .ball-build {\n  position: absolute;\n  width: 25px;  \n    height: 25px;\n    background-color: #F3C01F; \n    border-radius: 50%;\n  top: 20px;\n  left: 50%;\n  z-index: 999;\n}\n.build {\n    position: relative;\n}\n\n/* .build .target-position {\n  opacity: 0;\n  transform: scale(1);\n  will-change: opacity;\n} */\n\n\n\n/* .build-content-block {\n  opacity: 0;\n  transform: translateY(20px);\n} */ */\n\n\n\n.e-n-menu-title-container {\n  position: relative;\n  padding-top: 32px !important;\n}\n.e-n-menu-title-container::before {\n  content: \"\";\n  position: absolute;\n  top: 0;\n  left: 50%;\n  width: 32px;\n  height: 32px;\n  background-size: contain;\n  background-repeat: no-repeat;\n  background-position: center;\n  transform: translate(-50%, -32px);\n  opacity: 0;\n  transition: all 0.3s ease;\n  pointer-events: none;\n}\n.e-n-menu-title-container:hover::before,\n.e-n-menu-item.current-menu-item .e-n-menu-title-container::before {\n  opacity: 1;\n}\n/* #about_page .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/about-icon.svg\");\n} */\n#service_page .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/Service.svg\");\n}\n#client_page .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/Objects-2.svg\");\n}\n#work_page .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/Group-1171275584-1.svg\");\n}\n#case_study .e-n-menu-title-container::before {\n  background-image: url(\"https://mmag.in/wp-content/uploads/2026/01/Objects-3.svg\");\n}\n\nspan.purp-color{\n\tcolor:#54078b;\n}\n\n"
+  },
+  {
+   "id": "",
+   "css": "\n.elementor-invisible{visibility:visible!important;opacity:1!important}\n.elementor-popup-modal,.iti__country-list{display:none!important}\n[data-elementor-type=\"wp-page\"] .e-con{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:20px}\n[data-elementor-type=\"wp-page\"] .e-con.e-grid{--display:grid;--e-con-grid-template-columns:repeat(3,1fr);--grid-auto-flow:row}\n[data-elementor-type=\"wp-page\"] .e-con.e-child:has(> .e-con + .e-con){--flex-direction:row;--flex-wrap:wrap;--container-widget-width:initial}\n[data-elementor-type=\"wp-page\"] .e-con.e-child:has(> .e-con + .e-con) > .e-con{flex:1 1 300px;min-width:0}\n[data-elementor-type=\"wp-page\"] img{max-height:640px;width:auto!important;max-width:100%;height:auto!important}\nhtml,body{overflow-x:hidden!important;max-width:100vw}\n[data-elementor-type=\"wp-page\"] .elementor-absolute,[data-elementor-type=\"wp-page\"] .elementor-fixed,[data-elementor-type=\"wp-page\"] .e-con[style*=\"position\"]{position:relative!important;inset:auto!important;top:auto!important;left:auto!important;right:auto!important;bottom:auto!important}\n[data-elementor-type=\"wp-page\"] [style*=\"transform\"],[data-elementor-type=\"wp-page\"] .elementor-motion-effects-element,[data-elementor-type=\"wp-page\"] .elementor-motion-effects-layer{transform:none!important}\n[data-elementor-type=\"wp-page\"] .e-con,[data-elementor-type=\"wp-page\"] .elementor-widget{max-width:100%;min-height:0!important}\n[data-elementor-type=\"wp-page\"] .e-con.e-parent>.e-con-inner{max-width:1280px;margin:0 auto}\n#archive-banner{background:#F3C01F;color:#1E1E1E;font:600 16px/1.45 system-ui,sans-serif;padding:14px 24px;text-align:center}"
+  },
+  {
+   "id": "",
+   "css": "\n\t\t.leaf{transition: transform 1.5s ease-in-out;}\n\t\t.leaf-2{transform: rotate3d(0, 4, 1, -55deg);}\n\t\t.leaf-3{transform: rotate3d(0, 0, 1, 30deg);transform-origin: bottom;}\n\t\t.leaf-4{transform: rotate3d(0, 1, 1, -17deg);transform-origin: bottom;}\n\t\t.leaf-5{transform: rotate3d(0, 1, 1, 21deg);transform-origin: bottom;}\n\t\t.leafAnim{transform: rotate3d(0, 0, 0, 0deg)!important;}\n\t"
+  }
+ ],
+ "stylesheets": [
+  "https://mmag.in/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.5.1",
+  "https://mmag.in/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.5.1",
+  "https://mmag.in/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.5.1",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1788982987",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-6.css?ver=1788982987",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-3691.css?ver=1790172020",
+  "https://mmag.in/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1788982987",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1788982987",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1788982987",
+  "https://mmag.in/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.2.2",
+  "https://mmag.in/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.3",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.11.103",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1788982987",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=4.2.4",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-4257.css?ver=1788990352",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-47.css?ver=1788982988",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-619.css?ver=1790862024",
+  "https://mmag.in/wp-content/uploads/elementor/css/post-3962.css?ver=1788982988",
+  "https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/intl-tel-input/css/intlTelInput.min.css?ver=1.7.4",
+  "https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/assets/css/country-code-style.min.css?ver=1.7.4"
+ ],
+ "styleTally": {
+  "colors": {
+   "text rgb(84, 7, 139)": 11,
+   "bg rgb(255, 255, 255)": 6,
+   "text rgb(23, 23, 23)": 14,
+   "bg rgb(84, 7, 139)": 4,
+   "text rgb(255, 255, 255)": 4,
+   "text rgb(92, 92, 92)": 14,
+   "border rgb(84, 7, 139)": 1,
+   "bg rgba(2, 1, 1, 0)": 4
+  },
+  "fonts": {
+   "Satoshi 400": 17,
+   "Satoshi 600": 7,
+   "Plus Jakarta Sans 500": 13,
+   "Plus Jakarta Sans 700": 5,
+   "Plus Jakarta Sans 600": 1
+  },
+  "sizes": {
+   "18px/26px 400 A": 3,
+   "18px/20px 600 A": 3,
+   "16px/26px 600 SPAN": 1,
+   "18px/26px 400 SPAN": 6,
+   "40px/48px 500 H2": 6,
+   "40px/48px 700 STRONG": 4,
+   "54px/64px 500 SPAN": 3,
+   "18px/26px 400 P": 1,
+   "40px/48px 700 B": 1,
+   "54px/64px 500 H5": 4,
+   "16px/26px 400 SPAN": 2,
+   "20px/30px 600 SPAN": 3,
+   "20px/28px 600 H2": 1,
+   "25px/25px 400 SPAN": 4,
+   "16px/22px 400 DIV": 1
+  }
+ },
+ "cssVars": {
+  "--e-global-color-primary": "#171717",
+  "--e-global-color-secondary": "#1E1E1E",
+  "--e-global-color-text": "#1E1E1E",
+  "--e-global-color-accent": "#F3C01F",
+  "--e-global-color-4bf31b2": "#FFFFFF",
+  "--e-global-color-d7f37db": "#54078B",
+  "--e-global-color-fc7d875": "#5C5C5C",
+  "--e-global-color-54c8b59": "#F3C01F",
+  "--e-global-color-2f440a9": "#F0F0EF",
+  "--e-global-color-7b61cf3": "#7B7B7B",
+  "--e-global-typography-primary-font-family": "\"Plus Jakarta Sans\"",
+  "--e-global-typography-primary-font-size": "54px",
+  "--e-global-typography-primary-font-weight": "500",
+  "--e-global-typography-primary-line-height": "64px",
+  "--e-global-typography-secondary-font-family": "\"Plus Jakarta Sans\"",
+  "--e-global-typography-secondary-font-size": "40px",
+  "--e-global-typography-secondary-font-weight": "500",
+  "--e-global-typography-secondary-line-height": "48px",
+  "--e-global-typography-text-font-family": "\"Satoshi\"",
+  "--e-global-typography-text-font-size": "18px",
+  "--e-global-typography-text-line-height": "26px",
+  "--e-global-typography-accent-font-family": "\"Satoshi\"",
+  "--e-global-typography-accent-font-size": "16px",
+  "--e-global-typography-4a940e7-font-size": "32px",
+  "--e-global-typography-4a940e7-font-weight": "500",
+  "--e-global-typography-4a940e7-line-height": "40px",
+  "--e-global-typography-f88c025-font-size": "20px",
+  "--e-global-typography-f88c025-font-weight": "600",
+  "--e-global-typography-f88c025-line-height": "28px",
+  "--e-global-typography-7fb5109-font-size": "16px",
+  "--e-global-typography-7fb5109-line-height": "22px",
+  "--e-global-typography-daefeaa-font-size": "16px",
+  "--e-global-typography-daefeaa-font-weight": "500",
+  "--e-global-typography-daefeaa-line-height": "22px",
+  "--e-global-typography-3c2369c-font-size": "18px",
+  "--e-global-typography-3c2369c-font-weight": "500",
+  "--e-global-typography-3c2369c-line-height": "24px",
+  "--e-global-typography-c8fcd12-font-size": "24px",
+  "--e-global-typography-c8fcd12-line-height": "32px",
+  "--e-global-typography-512b38a-font-size": "24px",
+  "--e-global-typography-512b38a-font-weight": "500",
+  "--e-global-typography-512b38a-line-height": "32px",
+  "--e-global-typography-ecb9a45-font-size": "32px",
+  "--e-global-typography-ecb9a45-font-weight": "600",
+  "--e-global-typography-ecb9a45-line-height": "40px"
+ },
+ "pageHeight": 6858,
+ "bodyText": "Skip to content\nAbout Us\nCase Studies\nContact Us\nDownload Portfoilo\nHome | Work | Zendale\nBALANCING SERENITY AND CONVENIENCE THROUGH DIGITAL BRANDING FOR ZEN-DALE RESIDENCES\nFind your peacful\nsanctuary at Zen-Dale\nA serene valley\nof tranquility\nA state of clam and\nclarity\nWhat we did for\nZEN-DALE\nThe Zen-Dale project is focused on promoting the tranquil lifestyles of its residential plots, highlighting the harmony between nature and modern living. The challenge was to emphasize both the peaceful environment and its prime location near the Pune-Mumbai Expressway, appealing to families seeking serenity and convenience\nIndustry: Real Estate\nBranding\nMarketing Collaterals\nStrategy\nPrimary\n#405641\nSecondary\n#1F7BBA\n#7B8F76\n#9F9F9F\nNext Work\nWebsite Design\nView Work\nAbout Us\nCase Studies\nContact Us\nFollow us on\nInstagram\nLinkedin-in\nYoutube\nFacebook-f\nDownload Portfolio\nCopyright © 2026 MMAG, All right reserved",
+ "widgetSection": {
+  "7943933": "wp-page:4257#2",
+  "5d0c7c2": "header:47#1",
+  "78daf76": "header:47#1",
+  "5b4d20c": "header:47#1",
+  "a9c7de2": "wp-page:4257#0",
+  "35eec1c": "wp-page:4257#1",
+  "caff540": "wp-page:4257#1",
+  "a8b1cb4": "wp-page:4257#1",
+  "078ee86": "wp-page:4257#1",
+  "d8ac333": "wp-page:4257#1",
+  "67ce2e8": "wp-page:4257#1",
+  "9657cea": "wp-page:4257#1",
+  "6e85344": "wp-page:4257#2",
+  "ad584a9": "wp-page:4257#2",
+  "cf4a392": "wp-page:4257#2",
+  "38abbc2": "wp-page:4257#2",
+  "6b7e3be": "wp-page:4257#2",
+  "e4e3c1c": "wp-page:4257#3",
+  "8b07038": "wp-page:4257#3",
+  "a3cca6a": "wp-page:4257#3",
+  "dba7b87": "wp-page:4257#3",
+  "5de9a0b": "wp-page:4257#3",
+  "da13844": "wp-page:4257#3",
+  "98e40d2": "wp-page:4257#4",
+  "48468b8": "wp-page:4257#5",
+  "635171e": "wp-page:4257#6",
+  "21bb023": "wp-page:4257#7",
+  "977c9f3": "wp-page:4257#8",
+  "106811c": "wp-page:4257#8",
+  "b93e1e5": "wp-page:4257#8",
+  "8d7cf6d": "wp-page:4257#8",
+  "2139e76": "wp-page:4257#8",
+  "9e1bb2c": "footer:619#0",
+  "f3de2be": "footer:619#0",
+  "7093c14": "footer:619#0",
+  "f71046d": "footer:619#0",
+  "f78a47c": "footer:619#0",
+  "e7a7402": "footer:619#0",
+  "3e99e15": "footer:619#0",
+  "3ca112f": "footer:619#1",
+  "be918f4": "footer:619#1"
+ },
+ "slug": "removed__work__zendale",
+ "archived": {
+  "source": "earlier scrape (zip mmag-public-scrape), captured 12 Oct 2026",
+  "file": "mmag_in_zendale_1791788034156.html",
+  "statusNow": 404,
+  "layoutNote": "page CSS post-<id>.css deleted from server; heights/layout approximate"
+ },
+ "httpStatus": 200,
+ "interactions": [],
+ "mobileInteractions": [],
+ "consoleErrors": [],
+ "network": {
+  "requests": 0,
+  "totalKB": 0,
+  "failed": [],
+  "thirdPartyHosts": []
+ },
+ "timing": null
+}

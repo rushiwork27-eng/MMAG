@@ -232,12 +232,12 @@ _id `#clients` · bg #F0F0EF · height 0px_
 - Text: _(HIDDEN on all devices — in page code only)_
   > They chose us
 - Image carousel — 6 slides (autoplay: yes, speed: 0, per view: 5) _(HIDDEN on all devices — in page code only)_
-  - `(lazy image, never loaded because hidden)` alt: "Frame 55"
-  - `(lazy image, never loaded because hidden)` alt: "Frame 57"
-  - `(lazy image, never loaded because hidden)` alt: "Frame 59"
-  - `(lazy image, never loaded because hidden)` alt: "Frame 58"
-  - `(lazy image, never loaded because hidden)` alt: "Frame 56"
-  - `(lazy image, never loaded because hidden)` alt: "Frame 39"
+  - `https://mmag.in/wp-content/uploads/2026/02/Frame-55.webp` alt: "Frame 55"
+  - `https://mmag.in/wp-content/uploads/2026/02/Frame-57.webp` alt: "Frame 57"
+  - `https://mmag.in/wp-content/uploads/2026/02/Frame-59.webp` alt: "Frame 59"
+  - `https://mmag.in/wp-content/uploads/2026/02/Frame-58.webp` alt: "Frame 58"
+  - `https://mmag.in/wp-content/uploads/2026/02/Frame-56.webp` alt: "Frame 56"
+  - `https://mmag.in/wp-content/uploads/2026/02/Frame-39.webp` alt: "Frame 39"
 
 ### Section 8: Voices of our clients
 

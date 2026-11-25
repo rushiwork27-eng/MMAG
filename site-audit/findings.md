@@ -2,6 +2,8 @@
 
 Each finding gives the issue, the evidence (page or file), and the fix. Items marked **Needs approval** involve client claims or published data: do not change them without sign-off from the account owner or the client.
 
+Sources: the 24 Nov 2026 capture plus the merged 12 Oct 2026 zip scrape. Items that come from comparing the two (M16, L9) are marked *(from merge)*. Full diff: [changes-oct-to-nov.md](changes-oct-to-nov.md).
+
 ## High
 
 | # | Issue | Evidence | Fix |
@@ -30,7 +32,7 @@ Each finding gives the issue, the evidence (page or file), and the fix. Items ma
 | | • Home: "Clients — They chose us" logo carousel | | |
 | | • Home: Yash Group / EquiNext / Zendale work cards | | |
 | | • About: a Wistia video | | |
-| M5 | **Broken internal links** to `?page_id=4257` and `?page_id=1924` (404), inside the hidden Zendale/EquiNext cards | `data/links-all.csv` | Remove, or link to real pages if those cards return |
+| M5 | **Broken internal links** to `?page_id=4257` and `?page_id=1924` (404), inside the hidden Zendale/EquiNext cards. *(from merge)* These IDs are the unpublished `/work/zendale/` and `/case-studies/zendale/` (see M16) | `data/links-all.csv`, `data/combined/links-combined.csv` | Remove, or link to real pages if those cards return |
 | M6 | **Schema is generic or wrong**: | `backend-tech.md` §7 | Use Organization/ProfessionalService with full NAP and social profiles; WebPage/AboutPage/ContactPage; CreativeWork for case studies; remove SearchAction |
 | | • Every page is typed `Article` with author `admin` | | |
 | | • Organization has no address, phone or `sameAs` | | |
@@ -58,6 +60,10 @@ Each finding gives the issue, the evidence (page or file), and the fix. Items ma
 | | • Default login URL | | |
 | | • Public `mcp` REST namespace (needs a wp-admin review) | | |
 | | • SPF has no Google Workspace include (verify) | | |
+| M16 | *(from merge)* **Zendale pages were unpublished between 12 Oct and 24 Nov** and now return 404: `/case-studies/zendale/`, `/work/zendale/`. The pages they linked to are also 404: `/work/`, `/case-studies/yash-industries/`, `/case-studies/equinext/`. If restored, these need fixing first: | `changes-oct-to-nov.md`; `content/removed__*.md` | Decide with the team: restore Zendale as an 8th case study (content and images are preserved here) or 301-redirect the 5 old URLs to `/case-studies/`. Check Search Console for impressions on them first |
+| | • Placeholder hex colours (`#056DFA` ×3 against "Sage Green" copy) | | |
+| | • Typos: "peacful", "clam", "Guidlines", "Pimary", "ben" | | |
+| | • Unapproved claims (20% / 40% / 90%, testimonial) | | |
 
 ## Low
 
@@ -82,3 +88,4 @@ Each finding gives the issue, the evidence (page or file), and the fix. Items ma
 | | • `zen-dale.com` (client site linked from both portfolio pages) returned **500** | | |
 | | • `suiteearth.com` and LinkedIn returned 403/999 (bot blocking; likely fine, **unverified**) | | |
 | | • Three Google Drive links on `/mmag-portfolio/`: confirm they are shared publicly | | |
+| L9 | *(from merge)* **"Skip to content" link removed site-wide.** It was present on 12 Oct and is gone on 24 Nov, because the Hello Elementor theme assets stopped loading | `changes-oct-to-nov.md` | Include a skip link in the rebuild (accessibility) |

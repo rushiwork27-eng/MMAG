@@ -165,12 +165,12 @@ Schedule A Call
 
 | Button text | Action | Result when clicked | Pages |
 |---|---|---|---|
-| Download Portfoilo | opens popup #3691 (Download Portfolio) | popup opened | home, about-us, case-studies, contact-us, hello-world, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist, this-page-does-not-exist-404-check |
+| Download Portfoilo | opens popup #3691 (Download Portfolio) | popup opened | home, about-us, case-studies, contact-us, hello-world, this-page-does-not-exist-404-check, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist |
 | Schedule A Call | opens popup #3962 (Schedule A Call) | popup opened | home |
 | Watch Our Showreel | opens video lightbox: https://www.youtube.com/embed/HVSOqY1VJ1E?feature=oembed | lightbox opened | home |
 | Get in Touch | # | nothing opened | home, about-us |
-| Download Portfolio | opens popup #3691 (Download Portfolio) | popup opened | home, about-us, case-studies, contact-us, hello-world, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist, this-page-does-not-exist-404-check |
-|  | # | nothing opened | home, about-us, case-studies, contact-us, mmag-portfolio, mmag-portfolio, hello-world, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist, this-page-does-not-exist-404-check |
+| Download Portfolio | opens popup #3691 (Download Portfolio) | popup opened | home, about-us, case-studies, contact-us, hello-world, this-page-does-not-exist-404-check, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist |
+|  | # | nothing opened | home, about-us, case-studies, contact-us, mmag-portfolio, mmag-portfolio, hello-world, this-page-does-not-exist-404-check, case-studies__b2b-engineering-manufacturing, case-studies__e-commerce-fair-trade-goods-b2b, case-studies__education, case-studies__education-childrens-enrichment, case-studies__fmcg-d2c-food, case-studies__real-estate-luxury, case-studies__retail-florist |
 |  | opens video lightbox: https://embed-ssl.wistia.com/deliveries/ed6a7a6841e30428c3545d937faeae04b843da37/file.mp4 | lightbox opened | mmag-portfolio |
 
 ## Site-wide behaviour (tested on desktop 1440 px)

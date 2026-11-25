@@ -34,7 +34,7 @@ for f in glob.glob(P('backend/raw-html/*.html')):
             try: lightbox_by_id[m[1]] = json.loads(html.unescape(lb[1])).get('url')
             except Exception: pass
 
-ORDER = ['home', 'about-us', 'case-studies', 'contact-us', 'website-portfolio', 'mmag-portfolio', 'under-development', 'hello-world']
+ORDER = ['home', 'about-us', 'case-studies', 'contact-us', 'website-portfolio', 'mmag-portfolio', 'under-development', 'hello-world', 'this-page-does-not-exist-404-check', 'removed__case-studies__zendale', 'removed__work__zendale']
 def sort_key(s):
     return (ORDER.index(s) if s in ORDER else 50, s)
 slugs = sorted(pages, key=sort_key)
@@ -114,11 +114,11 @@ def render_widget(w):
         return f"- Image: `{src}`{' (local: ' + la + ')' if la else ''} — {im.get('w')}×{im.get('h')} — alt: {('\"' + alt + '\"') if alt else '**missing**'}{' → ' + w['href'] if w.get('href') else ''}{hn}{anim}"
     if t == 'image-box':
         im = w.get('image') or {}
-        return f"- Image box: **{w.get('title')}** — {w.get('description')} — img `{im.get('currentSrc') or im.get('src')}`{' → ' + w['href'] if w.get('href') else ''}{hn}"
+        return f"- Image box: **{(w.get('title') or '').replace(chr(10), ' ')}** — {(w.get('description') or '').replace(chr(10), ' ')} — img `{im.get('currentSrc') or im.get('src')}`{' → ' + w['href'] if w.get('href') else ''}{hn}"
     if t == 'icon-box':
         ic = w.get('icon') or ''
         ic = 'inline SVG' if ic.startswith('<svg') else ic
-        return f"- Icon box: **{w.get('title')}** — {w.get('description')} _(icon: {ic})_{' → ' + w['href'] if w.get('href') else ''}{hn}"
+        return f"- Icon box: **{(w.get('title') or '').replace(chr(10), ' ')}** — {(w.get('description') or '').replace(chr(10), ' ')} _(icon: {ic})_{' → ' + w['href'] if w.get('href') else ''}{hn}"
     if t == 'icon-list':
         items = w.get('items') or []
         return '\n'.join([f'- Icon list:{hn}'] + [f"  - {i['text']}{' → ' + i['href'] if i.get('href') else ''}" for i in items])
@@ -202,6 +202,19 @@ for slug in slugs:
         ('Requests / transfer', f"{d['network']['requests']} requests / {round(d['network']['totalKB']/1024,1)} MB"),
         ('Screenshots', f"[desktop](../screenshots/desktop/{slug}.jpg) · [desktop fold](../screenshots/desktop/{slug}-fold.png) · [mobile](../screenshots/mobile/{slug}.jpg)"),
     ]
+    if d.get('archived'):
+        title_clean = re.sub(r'\s*-\s*MMAG$', '', title)
+        L[0] = f"# {title_clean}: REMOVED PAGE (archived {d['archived']['source'].split('captured ')[-1]})\n"
+        L.insert(1, '> **This page no longer exists.** It returns **404** on mmag.in as of 24 Nov 2026. This record comes from the earlier scrape (zip `mmag-public-scrape`, 12 Oct 2026), re-extracted with the same widget-level method used for the live pages. Its images still exist on the server and are downloaded to `assets/media/`. Its Elementor stylesheet was deleted, so the screenshot is a **content record** (original text and images in page order), **not the original layout**.\n')
+        rows = [
+            ('URL (now 404)', d['url']), ('Captured', '12 Oct 2026 (earlier scrape, zip)'), ('Title tag', f"{title} ({len(title)} chars)"),
+            ('Meta description', f"{desc} ({len(desc)} chars)" if desc else '**missing**'),
+            ('Canonical', next((l['href'] for l in d['headLinks'] if l['rel'] == 'canonical'), 'missing')),
+            ('H1', ' · '.join(h1s) if h1s else '**missing**'), ('Words (visible)', len(d['bodyText'].split())),
+            ('WordPress page ID', '1924 (now `?page_id=1924`, 404)' if 'case-studies/zendale' in d['url'] else '4257 (now `?page_id=4257`, 404)'),
+            ('Content record (not original layout)', f"[content record](../screenshots/desktop/{slug}.jpg)"),
+            ('Source HTML', f"[`backend/raw-html/archive-2026-10-12/{d['archived']['file']}`](../backend/raw-html/archive-2026-10-12/{d['archived']['file']})"),
+        ]
     for k, v in rows: L.append(f'| {k} | {md_esc(str(v))} |')
     L.append('\nHeader, footer, popups and site-wide elements: see [../shared-layout.md](../shared-layout.md).\n')
 
@@ -274,12 +287,13 @@ for slug in slugs:
                 L.append(f"- Form `{i.get('name')}` empty-state validation (not submitted): {len(i.get('invalid') or [])} required fields flagged")
         L.append('')
     mi = d.get('mobileInteractions') or []
-    L.append('## Mobile (390 px)\n')
+    if not d.get('archived'): L.append('## Mobile (390 px)\n')
     for m in mi:
         if m.get('items'): L.append('- Hamburger menu opens with: ' + ', '.join(f"{x['text']} → {x['href']}" for x in m['items']))
         elif m.get('note'): L.append('- ' + m['note'])
-    L.append(f"- Horizontal overflow: {'**yes — page is ' + str(d['mobileHorizontalOverflow']) + 'px wide**' if d.get('mobileHorizontalOverflow') else 'none'}")
-    L.append(f"- Headings visible on mobile: {len(d.get('mobileHeadings') or [])}\n")
+    if not d.get('archived'):
+        L.append(f"- Horizontal overflow: {'**yes — page is ' + str(d['mobileHorizontalOverflow']) + 'px wide**' if d.get('mobileHorizontalOverflow') else 'none'}")
+        L.append(f"- Headings visible on mobile: {len(d.get('mobileHeadings') or [])}\n")
     # images list
     imgs = [i for i in d['images'] if i['region'] == 'main']
     if imgs:
@@ -417,9 +431,10 @@ open(P('shared-layout.md'), 'w').write('\n'.join(L))
 
 # save custom code
 os.makedirs(P('backend/custom-code'), exist_ok=True)
+live_slugs = [x for x in slugs if not pages[x].get('archived')]
 seen_code = {}
 BOILER = re.compile(r'elementorFrontendConfig|ElementorProFrontendConfig|JetTabsSettings|CCFEFCustomData|PremiumSettings|wp\.i18n|uiBackCompat|lazyloadRunObserver|wp-emoji|dataLayer|"@context"|sourceURL=|_wpemojiSettings|baseUrl":"https://s.w.org')
-for s in slugs:
+for s in live_slugs:
     for i, code in enumerate(pages[s].get('inlineScripts') or []):
         c = code.strip()
         if not c or BOILER.search(c[:400]) or len(c) < 40: continue
@@ -441,7 +456,7 @@ open(P('backend/custom-code/README.md'), 'w').write('\n'.join(idx))
 
 # ---------------- style tally (brand) ----------------
 colors, fonts, sizes = Counter(), Counter(), Counter()
-for s in slugs:
+for s in live_slugs:
     t = pages[s]['styleTally']
     for k, v in t['colors'].items():
         kind, val = k.split(' ', 1)
@@ -449,7 +464,7 @@ for s in slugs:
         else: colors[(kind, rgb2hex(val))] += v
     fonts.update(t['fonts']); sizes.update(t['sizes'])
 bt = OrderedDict()
-for s in slugs:
+for s in live_slugs:
     for i in pages[s].get('interactions', []):
         if i['action'] == 'hover-button':
             b = i['before']; a = i['after']

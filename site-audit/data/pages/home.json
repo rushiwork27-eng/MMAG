@@ -1540,7 +1540,7 @@
    "hiddenOn": [],
    "insideWidget": null,
    "title": "Discover",
-   "description": "We understand client’s vision, market & audience",
+   "description": "We understand client\u2019s vision, market & audience",
    "icon": null,
    "href": null
   },
@@ -1674,8 +1674,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": null,
-   "text": "What we build goes beyond products. It’s trust, quality, and consistency.",
-   "html": "<p>What we build goes beyond products. It’s trust, quality, and consistency.</p>"
+   "text": "What we build goes beyond products. It\u2019s trust, quality, and consistency.",
+   "html": "<p>What we build goes beyond products. It\u2019s trust, quality, and consistency.</p>"
   },
   {
    "type": "image.default",
@@ -1743,8 +1743,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": null,
-   "text": ".timeline-wrapper {\n position: relative;\n height: 1800px;\n}\n/* Yellow moving box */\n#scrollBox {\n width: 25px;\n height: 35px;\n background: #f4b400;\n position: absolute;\n left: -11px;\n top: 0;\n border-radius: 2px;\n}\n.visible-xs{display:none!important}\n@media only screen and (max-width : 767px) {\n .timeline-wrapper {\n position: relative;\n height: 4600px;\n}\n.hidden-xs{display:none!important}\n.visible-xs{display:block!important}\n}\ndocument.addEventListener(\"scroll\", function () {\n const line = document.getElementById(\"progressLine\");\n const box = document.getElementById(\"scrollBox\");\n const wrapper = document.querySelector(\".timeline-wrapper\"); // ✅ Fixed: was getElementById(\"progressLine-wrapper\")\n const rect = wrapper.getBoundingClientRect();\n const totalHeight = window.innerWidth <= 767 ? 3000 : 1800;\n let progress = 0;\n if (rect.top <= 0) {\n let scrolled = -rect.top;\n let maxScroll = wrapper.offsetHeight - window.innerHeight;\n progress = scrolled / maxScroll;\n }\n progress = Math.max(0, Math.min(1, progress));\n line.style.strokeDashoffset = totalHeight * (1 - progress);\n box.style.transform = `translateY(${totalHeight * progress}px)`;\n});",
-   "html": "<div class=\"elementor-widget-container\"> <div class=\"timeline-wrapper\"> <!-- SVG LINE --> <svg class=\"hidden-xs\" width=\"3\" height=\"1800\" viewBox=\"0 0 3 1800\"> <!-- Grey Line --> <path d=\"M1.5 0V1800\" stroke=\"#d3d3d3\" stroke-width=\"3\"></path> <!-- Yellow Progress Line --> <path id=\"progressLine\" d=\"M1.5 0V1800\" stroke=\"#f4b400\" stroke-width=\"3\" stroke-dasharray=\"1800\" stroke-dashoffset=\"1800\" style=\"stroke-dashoffset: 0;\"></path> </svg> <svg class=\"visible-xs\" width=\"3\" height=\"4600\" viewBox=\"0 0 3 4600\"> <!-- Grey Line --> <path d=\"M1.5 0V1800\" stroke=\"#d3d3d3\" stroke-width=\"3\"></path> <path id=\"progressLine\" d=\"M1.5 0V1800\" stroke=\"#f4b400\" stroke-width=\"3\" stroke-dasharray=\"4500\" stroke-dashoffset=\"4500\"></path> </svg> <!-- Moving Yellow Box --> <div id=\"scrollBox\" style=\"transform: translateY(1800px);\"></div> </div> <style> .timeline-wrapper { position: relative; height: 1800px; } /* Yellow moving box */ #scrollBox { width: 25px; height: 35px; background: #f4b400; position: absolute; left: -11px; top: 0; border-radius: 2px; } .visible-xs{display:none!important} @media only screen and (max-width : 767px) { .timeline-wrapper { position: relative; height: 4600px; } .hidden-xs{display:none!important} .visible-xs{display:block!important} } </style> <script> document.addEventListener(\"scroll\", function () { const line = document.getElementById(\"progressLine\"); const box = document.getElementById(\"scrollBox\"); const wrapper = document.querySelector(\".timeline-wrapper\"); // ✅ Fixed: was getElementById(\"progressLine-wrapper\") const rect = wrapper.getBoundingClientRect(); const totalHeight = window.innerWidth <= 767 ? 3000 : 1800; let progress = 0; if (rect.top <= 0) { let scrolled = -rect.top; let maxScroll = wrapper.offsetHeight - window.innerHeight; progress = scrolled / maxScroll; } progress = Math.max(0, Math.min(1, progress)); line.style.strokeDashoffset = totalHeight * (1 - progress); box.style.transform = `translateY(${totalHeight * progress}px)`; }); </script> </div>"
+   "text": ".timeline-wrapper {\n position: relative;\n height: 1800px;\n}\n/* Yellow moving box */\n#scrollBox {\n width: 25px;\n height: 35px;\n background: #f4b400;\n position: absolute;\n left: -11px;\n top: 0;\n border-radius: 2px;\n}\n.visible-xs{display:none!important}\n@media only screen and (max-width : 767px) {\n .timeline-wrapper {\n position: relative;\n height: 4600px;\n}\n.hidden-xs{display:none!important}\n.visible-xs{display:block!important}\n}\ndocument.addEventListener(\"scroll\", function () {\n const line = document.getElementById(\"progressLine\");\n const box = document.getElementById(\"scrollBox\");\n const wrapper = document.querySelector(\".timeline-wrapper\"); // \u2705 Fixed: was getElementById(\"progressLine-wrapper\")\n const rect = wrapper.getBoundingClientRect();\n const totalHeight = window.innerWidth <= 767 ? 3000 : 1800;\n let progress = 0;\n if (rect.top <= 0) {\n let scrolled = -rect.top;\n let maxScroll = wrapper.offsetHeight - window.innerHeight;\n progress = scrolled / maxScroll;\n }\n progress = Math.max(0, Math.min(1, progress));\n line.style.strokeDashoffset = totalHeight * (1 - progress);\n box.style.transform = `translateY(${totalHeight * progress}px)`;\n});",
+   "html": "<div class=\"elementor-widget-container\"> <div class=\"timeline-wrapper\"> <!-- SVG LINE --> <svg class=\"hidden-xs\" width=\"3\" height=\"1800\" viewBox=\"0 0 3 1800\"> <!-- Grey Line --> <path d=\"M1.5 0V1800\" stroke=\"#d3d3d3\" stroke-width=\"3\"></path> <!-- Yellow Progress Line --> <path id=\"progressLine\" d=\"M1.5 0V1800\" stroke=\"#f4b400\" stroke-width=\"3\" stroke-dasharray=\"1800\" stroke-dashoffset=\"1800\" style=\"stroke-dashoffset: 0;\"></path> </svg> <svg class=\"visible-xs\" width=\"3\" height=\"4600\" viewBox=\"0 0 3 4600\"> <!-- Grey Line --> <path d=\"M1.5 0V1800\" stroke=\"#d3d3d3\" stroke-width=\"3\"></path> <path id=\"progressLine\" d=\"M1.5 0V1800\" stroke=\"#f4b400\" stroke-width=\"3\" stroke-dasharray=\"4500\" stroke-dashoffset=\"4500\"></path> </svg> <!-- Moving Yellow Box --> <div id=\"scrollBox\" style=\"transform: translateY(1800px);\"></div> </div> <style> .timeline-wrapper { position: relative; height: 1800px; } /* Yellow moving box */ #scrollBox { width: 25px; height: 35px; background: #f4b400; position: absolute; left: -11px; top: 0; border-radius: 2px; } .visible-xs{display:none!important} @media only screen and (max-width : 767px) { .timeline-wrapper { position: relative; height: 4600px; } .hidden-xs{display:none!important} .visible-xs{display:block!important} } </style> <script> document.addEventListener(\"scroll\", function () { const line = document.getElementById(\"progressLine\"); const box = document.getElementById(\"scrollBox\"); const wrapper = document.querySelector(\".timeline-wrapper\"); // \u2705 Fixed: was getElementById(\"progressLine-wrapper\") const rect = wrapper.getBoundingClientRect(); const totalHeight = window.innerWidth <= 767 ? 3000 : 1800; let progress = 0; if (rect.top <= 0) { let scrolled = -rect.top; let maxScroll = wrapper.offsetHeight - window.innerHeight; progress = scrolled / maxScroll; } progress = Math.max(0, Math.min(1, progress)); line.style.strokeDashoffset = totalHeight * (1 - progress); box.style.transform = `translateY(${totalHeight * progress}px)`; }); </script> </div>"
   },
   {
    "type": "heading.default",
@@ -2573,8 +2573,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": "template.default",
-   "text": "How an offline florist went from no online presence to a live, revenue-generating store in time for the year’s biggest gifting season.",
-   "html": "<p>How an offline florist went from no online presence to a live, revenue-generating store in time for the year’s biggest gifting season.</p>"
+   "text": "How an offline florist went from no online presence to a live, revenue-generating store in time for the year\u2019s biggest gifting season.",
+   "html": "<p>How an offline florist went from no online presence to a live, revenue-generating store in time for the year\u2019s biggest gifting season.</p>"
   },
   {
    "type": "divider.default",
@@ -2735,8 +2735,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": "template.default",
-   "text": "How a specialist coaching institute out-positioned larger, older competitors — and grew enough to open a new branch.",
-   "html": "<p>How a specialist coaching institute out-positioned larger, older competitors — and grew enough to open a new branch.</p>"
+   "text": "How a specialist coaching institute out-positioned larger, older competitors \u2014 and grew enough to open a new branch.",
+   "html": "<p>How a specialist coaching institute out-positioned larger, older competitors \u2014 and grew enough to open a new branch.</p>"
   },
   {
    "type": "divider.default",
@@ -2816,8 +2816,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": "template.default",
-   "text": "How a children’s art & wellness brand turned a cluttered website into a clean, high-converting experience across two locations.",
-   "html": "<p>How a children’s art &amp; wellness brand turned a cluttered website into a clean, high-converting experience across two locations.</p>"
+   "text": "How a children\u2019s art & wellness brand turned a cluttered website into a clean, high-converting experience across two locations.",
+   "html": "<p>How a children\u2019s art &amp; wellness brand turned a cluttered website into a clean, high-converting experience across two locations.</p>"
   },
   {
    "type": "divider.default",
@@ -2897,8 +2897,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": "template.default",
-   "text": "How an ultra-luxury residential project built a digital presence from scratch — and an automated sales pipeline to match.",
-   "html": "<p>How an ultra-luxury residential project built a digital presence from scratch — and an automated sales pipeline to match.</p>"
+   "text": "How an ultra-luxury residential project built a digital presence from scratch \u2014 and an automated sales pipeline to match.",
+   "html": "<p>How an ultra-luxury residential project built a digital presence from scratch \u2014 and an automated sales pipeline to match.</p>"
   },
   {
    "type": "divider.default",
@@ -2946,7 +2946,7 @@
    "number": "9",
    "from": "0",
    "suffix": "K",
-   "title": "organic followers (2021–2022)"
+   "title": "organic followers (2021\u20132022)"
   },
   {
    "type": "heading.default",
@@ -3404,7 +3404,7 @@
    "insideWidget": null,
    "slides": [
     {
-     "src": null,
+     "src": "https://mmag.in/wp-content/uploads/2026/02/Frame-55.webp",
      "currentSrc": null,
      "alt": "Frame 55",
      "title": null,
@@ -3412,10 +3412,11 @@
      "h": 0,
      "srcset": null,
      "link": null,
-     "caption": ""
+     "caption": "",
+     "srcNote": "filled from page HTML (lazy image never loaded because the carousel is hidden); confirmed by Oct-2026 zip scrape"
     },
     {
-     "src": null,
+     "src": "https://mmag.in/wp-content/uploads/2026/02/Frame-57.webp",
      "currentSrc": null,
      "alt": "Frame 57",
      "title": null,
@@ -3423,10 +3424,11 @@
      "h": 0,
      "srcset": null,
      "link": null,
-     "caption": ""
+     "caption": "",
+     "srcNote": "filled from page HTML (lazy image never loaded because the carousel is hidden); confirmed by Oct-2026 zip scrape"
     },
     {
-     "src": null,
+     "src": "https://mmag.in/wp-content/uploads/2026/02/Frame-59.webp",
      "currentSrc": null,
      "alt": "Frame 59",
      "title": null,
@@ -3434,10 +3436,11 @@
      "h": 0,
      "srcset": null,
      "link": null,
-     "caption": ""
+     "caption": "",
+     "srcNote": "filled from page HTML (lazy image never loaded because the carousel is hidden); confirmed by Oct-2026 zip scrape"
     },
     {
-     "src": null,
+     "src": "https://mmag.in/wp-content/uploads/2026/02/Frame-58.webp",
      "currentSrc": null,
      "alt": "Frame 58",
      "title": null,
@@ -3445,10 +3448,11 @@
      "h": 0,
      "srcset": null,
      "link": null,
-     "caption": ""
+     "caption": "",
+     "srcNote": "filled from page HTML (lazy image never loaded because the carousel is hidden); confirmed by Oct-2026 zip scrape"
     },
     {
-     "src": null,
+     "src": "https://mmag.in/wp-content/uploads/2026/02/Frame-56.webp",
      "currentSrc": null,
      "alt": "Frame 56",
      "title": null,
@@ -3456,10 +3460,11 @@
      "h": 0,
      "srcset": null,
      "link": null,
-     "caption": ""
+     "caption": "",
+     "srcNote": "filled from page HTML (lazy image never loaded because the carousel is hidden); confirmed by Oct-2026 zip scrape"
     },
     {
-     "src": null,
+     "src": "https://mmag.in/wp-content/uploads/2026/02/Frame-39.webp",
      "currentSrc": null,
      "alt": "Frame 39",
      "title": null,
@@ -3467,7 +3472,8 @@
      "h": 0,
      "srcset": null,
      "link": null,
-     "caption": ""
+     "caption": "",
+     "srcNote": "filled from page HTML (lazy image never loaded because the carousel is hidden); confirmed by Oct-2026 zip scrape"
     }
    ],
    "settings": {
@@ -3497,8 +3503,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": null,
-   "text": "Our client’s experiences reflect the trust we build and the value we deliver.",
-   "html": "<p>Our client’s experiences reflect the trust we build and the value we deliver.</p>"
+   "text": "Our client\u2019s experiences reflect the trust we build and the value we deliver.",
+   "html": "<p>Our client\u2019s experiences reflect the trust we build and the value we deliver.</p>"
   },
   {
    "type": "nested-carousel.default",
@@ -3509,10 +3515,10 @@
    "hiddenOn": [],
    "insideWidget": null,
    "slides": [
-    "Ajinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don’t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy",
+    "Ajinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don\u2019t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy",
     "Rahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics",
-    "Sebastian Alapatt\nFounder of Spark\nThe guys are top of their game…\nThey’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.\nThe Spark - USA",
-    "Manish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team’s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA",
+    "Sebastian Alapatt\nFounder of Spark\nThe guys are top of their game\u2026\nThey\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.\nThe Spark - USA",
+    "Manish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team\u2019s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA",
     "Chief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA"
    ],
    "settings": {
@@ -3561,8 +3567,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": "nested-carousel.default",
-   "text": "MMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don’t have to worry about those aspects anymore and I focus where I need the most.",
-   "html": "<p>MMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don’t have to worry about those aspects anymore and I focus where I need the most.</p>"
+   "text": "MMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don\u2019t have to worry about those aspects anymore and I focus where I need the most.",
+   "html": "<p>MMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don\u2019t have to worry about those aspects anymore and I focus where I need the most.</p>"
   },
   {
    "type": "heading.default",
@@ -3658,8 +3664,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": "nested-carousel.default",
-   "text": "The guys are top of their game…",
-   "html": "<p>The guys are top of their game…</p>"
+   "text": "The guys are top of their game\u2026",
+   "html": "<p>The guys are top of their game\u2026</p>"
   },
   {
    "type": "text-editor.default",
@@ -3669,8 +3675,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": "nested-carousel.default",
-   "text": "They’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.",
-   "html": "<p>They’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.</p>"
+   "text": "They\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.",
+   "html": "<p>They\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.</p>"
   },
   {
    "type": "heading.default",
@@ -3723,8 +3729,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": "nested-carousel.default",
-   "text": "MMAG team’s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.",
-   "html": "<p>MMAG team’s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.</p>"
+   "text": "MMAG team\u2019s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.",
+   "html": "<p>MMAG team\u2019s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.</p>"
   },
   {
    "type": "heading.default",
@@ -3821,8 +3827,8 @@
    "region": "main",
    "hiddenOn": [],
    "insideWidget": null,
-   "text": "Download our portfolio and let’s get in touch!",
-   "html": "<p>Download our portfolio and let’s get in touch!</p>"
+   "text": "Download our portfolio and let\u2019s get in touch!",
+   "html": "<p>Download our portfolio and let\u2019s get in touch!</p>"
   },
   {
    "type": "button.default",
@@ -3982,8 +3988,8 @@
    "region": "footer",
    "hiddenOn": [],
    "insideWidget": null,
-   "text": "Copyright © 2026 MMAG, All right reserved",
-   "html": "Copyright © 2026 MMAG, All right reserved"
+   "text": "Copyright \u00a9 2026 MMAG, All right reserved",
+   "html": "Copyright \u00a9 2026 MMAG, All right reserved"
   },
   {
    "type": "button.default",
@@ -4118,7 +4124,7 @@
     "H3: Design",
     "H3: Drive"
    ],
-   "text": "We Help Businesses Discover\nWho they are\nFrom Unique Strategies to Higher ROI\nDiscover\nWe understand client’s vision, market & audience\nDefine\nWe shape your brand and strategy\nDesign\nWe craft visual experiences\nDrive\nWe launch, measure and optimize for ROI"
+   "text": "We Help Businesses Discover\nWho they are\nFrom Unique Strategies to Higher ROI\nDiscover\nWe understand client\u2019s vision, market & audience\nDefine\nWe shape your brand and strategy\nDesign\nWe craft visual experiences\nDrive\nWe launch, measure and optimize for ROI"
   },
   {
    "doc": "wp-page:793",
@@ -4161,7 +4167,7 @@
     "H5: Conversion Rate Optimization",
     "H5: Social Media Campaigns"
    ],
-   "text": "What we build\nWhat we build goes beyond products. It’s trust, quality, and consistency.\nSTRATEGY\nDigital Strategy\nBrand Positioning\nContent Strategy\nDiscoverability\nDESIGN\nUser Experience (UX)\nWeb Design\nWireframes\nMotion Design\nTECHNOLOGY\nFront End Development\nContent Management\nBack End Development\nOpen-Source Projects\nPERFORMANCE\nSEO Optimization\nConversion Rate Optimization\nSocial Media Campaigns"
+   "text": "What we build\nWhat we build goes beyond products. It\u2019s trust, quality, and consistency.\nSTRATEGY\nDigital Strategy\nBrand Positioning\nContent Strategy\nDiscoverability\nDESIGN\nUser Experience (UX)\nWeb Design\nWireframes\nMotion Design\nTECHNOLOGY\nFront End Development\nContent Management\nBack End Development\nOpen-Source Projects\nPERFORMANCE\nSEO Optimization\nConversion Rate Optimization\nSocial Media Campaigns"
   },
   {
    "doc": "wp-page:793",
@@ -4251,7 +4257,7 @@
     "H3: Zendale",
     "H2: Zendale"
    ],
-   "text": "Case Studies\nView All\nCASE STUDY: WEBSITE + SOCIAL + PAID\nwebsite users in 2 months\n6,000\n+\nCase Study\nA Seasonal E-commerce Launch in Just 20 Days\nHow an offline florist went from no online presence to a live, revenue-generating store in time for the year’s biggest gifting season.\nRead case study\nCASE STUDY: SOCIAL MEDIA + PAID ADVERTISING\nincrease in sales\n131\n%\nCase Study\nFrom - 50% Ad ROI\nto 200% Growth\nHow a new-to-market snack brand reversed stalled growth by repositioning an unfamiliar product as a healthier choice.\nRead case study\nCASE STUDY: BRANDING + PAID ADVERTISING\nincrease in admissions\n300\n%\nCase Study\nA Category-Defining Brand That Tripled Admissions\nHow a specialist coaching institute out-positioned larger, older competitors — and grew enough to open a new branch.\nRead case study"
+   "text": "Case Studies\nView All\nCASE STUDY: WEBSITE + SOCIAL + PAID\nwebsite users in 2 months\n6,000\n+\nCase Study\nA Seasonal E-commerce Launch in Just 20 Days\nHow an offline florist went from no online presence to a live, revenue-generating store in time for the year\u2019s biggest gifting season.\nRead case study\nCASE STUDY: SOCIAL MEDIA + PAID ADVERTISING\nincrease in sales\n131\n%\nCase Study\nFrom - 50% Ad ROI\nto 200% Growth\nHow a new-to-market snack brand reversed stalled growth by repositioning an unfamiliar product as a healthier choice.\nRead case study\nCASE STUDY: BRANDING + PAID ADVERTISING\nincrease in admissions\n300\n%\nCase Study\nA Category-Defining Brand That Tripled Admissions\nHow a specialist coaching institute out-positioned larger, older competitors \u2014 and grew enough to open a new branch.\nRead case study"
   },
   {
    "doc": "wp-page:793",
@@ -4335,7 +4341,7 @@
    "headings": [
     "H2: Voices of our clients"
    ],
-   "text": "Voices of our clients\nOur client’s experiences reflect the trust we build and the value we deliver."
+   "text": "Voices of our clients\nOur client\u2019s experiences reflect the trust we build and the value we deliver."
   },
   {
    "doc": "wp-page:793",
@@ -4364,7 +4370,7 @@
     "H3: Chief Strategy Officer",
     "H2: CloudSufi Tech Company - USA"
    ],
-   "text": "Sebastian Alapatt\nFounder of Spark\nThe guys are top of their game…\nThey’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nManish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team’s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA\nChief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA\nAjinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don’t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy\nRahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game…\nThey’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nManish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team’s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA\nChief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA\nAjinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don’t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy\nRahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game…\nThey’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.\nThe Spark - USA"
+   "text": "Sebastian Alapatt\nFounder of Spark\nThe guys are top of their game\u2026\nThey\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nManish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team\u2019s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA\nChief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA\nAjinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don\u2019t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy\nRahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game\u2026\nThey\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nManish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team\u2019s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA\nChief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA\nAjinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don\u2019t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy\nRahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game\u2026\nThey\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.\nThe Spark - USA"
   },
   {
    "doc": "wp-page:793",
@@ -4412,7 +4418,7 @@
    "headings": [
     "H2: Have a project in your mind?"
    ],
-   "text": "Have a project in your mind?\nDownload our portfolio and let’s get in touch!\nGet in Touch"
+   "text": "Have a project in your mind?\nDownload our portfolio and let\u2019s get in touch!\nGet in Touch"
   },
   {
    "doc": "footer:619",
@@ -4458,7 +4464,7 @@
    ],
    "backgroundVideo": null,
    "headings": [],
-   "text": "Copyright © 2026 MMAG, All right reserved"
+   "text": "Copyright \u00a9 2026 MMAG, All right reserved"
   }
  ],
  "links": [
@@ -4717,7 +4723,7 @@
   {
    "href": "https://mmag.in/case-studies/retail-florist/",
    "abs": "https://mmag.in/case-studies/retail-florist/",
-   "text": "Case Study\nA Seasonal E-commerce Launch in Just 20 Days\nHow an offline florist went from no online presence to a live, revenue-generating store in time for the year’s biggest gifting season.",
+   "text": "Case Study\nA Seasonal E-commerce Launch in Just 20 Days\nHow an offline florist went from no online presence to a live, revenue-generating store in time for the year\u2019s biggest gifting season.",
    "aria": null,
    "title": null,
    "target": null,
@@ -4885,7 +4891,7 @@
   {
    "href": "https://mmag.in/case-studies/education/",
    "abs": "https://mmag.in/case-studies/education/",
-   "text": "Case Study\nA Category-Defining Brand That Tripled Admissions\nHow a specialist coaching institute out-positioned larger, older competitors — and grew enough to open a new branch.",
+   "text": "Case Study\nA Category-Defining Brand That Tripled Admissions\nHow a specialist coaching institute out-positioned larger, older competitors \u2014 and grew enough to open a new branch.",
    "aria": null,
    "title": null,
    "target": null,
@@ -4969,7 +4975,7 @@
   {
    "href": "https://mmag.in/case-studies/education-childrens-enrichment/",
    "abs": "https://mmag.in/case-studies/education-childrens-enrichment/",
-   "text": "Case Study \n A Website Redesign Built for Clarity and Conversion \n How a children’s art & wellness brand turned a cluttered website into a clean, high-converting experience across two locations.",
+   "text": "Case Study \n A Website Redesign Built for Clarity and Conversion \n How a children\u2019s art & wellness brand turned a cluttered website into a clean, high-converting experience across two locations.",
    "aria": null,
    "title": null,
    "target": null,
@@ -5053,7 +5059,7 @@
   {
    "href": "https://mmag.in/case-studies/real-estate-luxury/",
    "abs": "https://mmag.in/case-studies/real-estate-luxury/",
-   "text": "Case Study \n Generating High-Intent Leads for Luxury Real Estate \n How an ultra-luxury residential project built a digital presence from scratch — and an automated sales pipeline to match.",
+   "text": "Case Study \n Generating High-Intent Leads for Luxury Real Estate \n How an ultra-luxury residential project built a digital presence from scratch \u2014 and an automated sales pipeline to match.",
    "aria": null,
    "title": null,
    "target": null,
@@ -5125,7 +5131,7 @@
   {
    "href": "https://mmag.in/case-studies/b2b-engineering-manufacturing/",
    "abs": "https://mmag.in/case-studies/b2b-engineering-manufacturing/",
-   "text": "CASE STUDY: SOCIAL MEDIA \n organic followers (2021–2022) \n 0\n K",
+   "text": "CASE STUDY: SOCIAL MEDIA \n organic followers (2021\u20132022) \n 0\n K",
    "aria": null,
    "title": null,
    "target": null,
@@ -6444,7 +6450,7 @@
  "inlineScripts": [
   "\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-9WNY7XF2FT');\n",
   "\ndocument.addEventListener('mousemove', function(e) {\n    const cursorImg = document.getElementById('cursor-image');\n\n    cursorImg.style.left = e.clientX + 'px';\n    cursorImg.style.top = e.clientY + 'px';\n});\n",
-  "\ndocument.addEventListener(\"scroll\", function () {\n  const line = document.getElementById(\"progressLine\");\n  const box = document.getElementById(\"scrollBox\");\n  const wrapper = document.querySelector(\".timeline-wrapper\"); // ✅ Fixed: was getElementById(\"progressLine-wrapper\")\n  const rect = wrapper.getBoundingClientRect();\n  const totalHeight = window.innerWidth <= 767 ? 3000 : 1800;\n  let progress = 0;\n\n  if (rect.top <= 0) {\n    let scrolled = -rect.top;\n    let maxScroll = wrapper.offsetHeight - window.innerHeight;\n    progress = scrolled / maxScroll;\n  }\n\n  progress = Math.max(0, Math.min(1, progress));\n\n  line.style.strokeDashoffset = totalHeight * (1 - progress);\n  box.style.transform = `translateY(${totalHeight * progress}px)`;\n});\n",
+  "\ndocument.addEventListener(\"scroll\", function () {\n  const line = document.getElementById(\"progressLine\");\n  const box = document.getElementById(\"scrollBox\");\n  const wrapper = document.querySelector(\".timeline-wrapper\"); // \u2705 Fixed: was getElementById(\"progressLine-wrapper\")\n  const rect = wrapper.getBoundingClientRect();\n  const totalHeight = window.innerWidth <= 767 ? 3000 : 1800;\n  let progress = 0;\n\n  if (rect.top <= 0) {\n    let scrolled = -rect.top;\n    let maxScroll = wrapper.offsetHeight - window.innerHeight;\n    progress = scrolled / maxScroll;\n  }\n\n  progress = Math.max(0, Math.min(1, progress));\n\n  line.style.strokeDashoffset = totalHeight * (1 - progress);\n  box.style.transform = `translateY(${totalHeight * progress}px)`;\n});\n",
   "\n//You can replace offset value from here\nvar offset = 300\n$(window).on('load scroll', function(){\n\t\n\tif( $(window).scrollTop() > offset ){\n        $('body').addClass('show')\n\t}else{\n        $('body').removeClass('show')\n\t}\n})\n",
   "\n\t\t\t\t( () => {\n\t\t\t\t\tconst lazyloadRunObserver = () => {\n\t\t\t\t\t\tconst lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );\n\t\t\t\t\t\tconst lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {\n\t\t\t\t\t\t\tentries.forEach( ( entry ) => {\n\t\t\t\t\t\t\t\tif ( entry.isIntersecting ) {\n\t\t\t\t\t\t\t\t\tlet lazyloadBackground = entry.target;\n\t\t\t\t\t\t\t\t\tif( lazyloadBackground ) {\n\t\t\t\t\t\t\t\t\t\tlazyloadBackground.classList.add( 'e-lazyloaded' );\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tlazyloadBackgroundObserver.unobserve( entry.target );\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t});\n\t\t\t\t\t\t}, { rootMargin: '200px 0px 200px 0px' } );\n\t\t\t\t\t\tlazyloadBackgrounds.forEach( ( lazyloadBackground ) => {\n\t\t\t\t\t\t\tlazyloadBackgroundObserver.observe( lazyloadBackground );\n\t\t\t\t\t\t} );\n\t\t\t\t\t};\n\t\t\t\t\tconst events = [\n\t\t\t\t\t\t'DOMContentLoaded',\n\t\t\t\t\t\t'elementor/lazyload/observe',\n\t\t\t\t\t];\n\t\t\t\t\tevents.forEach( ( event ) => {\n\t\t\t\t\t\tdocument.addEventListener( event, lazyloadRunObserver );\n\t\t\t\t\t} );\n\t\t\t\t} )();\n\t\t\t",
   "\njQuery.uiBackCompat = true;\n//# sourceURL=jquery-ui-core-js-before\n",
@@ -6457,8 +6463,8 @@
   "\nvar CCFEFCustomData = {\"pluginDir\":\"https://mmag.in/wp-content/plugins/country-code-field-for-elementor-form/\",\"errorMap\":[\"The phone number you entered is not valid. Please check the format and try again.\",\"The country code you entered is not recognized. Please ensure it is correct and try again.\",\"The phone number you entered is too short. Please enter a complete phone number, including the country code.\",\"The phone number you entered is too long. Please ensure it is in the correct format and try again.\",\"The phone number you entered is not valid. Please check the format and try again.\"]};\n//# sourceURL=ccfef-country-code-script-hello-js-extra\n",
   "\n{\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://mmag.in/wp-includes/js/wp-emoji-release.min.js?ver=7.1.5\"}}\n",
   "\n/*! This file is auto-generated */\nvar e=\"script#wp-emoji-settings\",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error(\"Element missing: \"+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,\"wpEmojiSettingsSupports\"),o=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!r(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,r){let a;const s=(a=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),o=(s.textBaseline=\"top\",s.font=\"600 32px Arial\",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",r=new Blob([e],{type:\"text/javascript\"});const a=new Worker(URL.createObjectURL(r),{name:\"wpTestEmojiSupports\"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],\"flag\"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});\n//# sourceURL=https://mmag.in/wp-includes/js/wp-emoji-loader.min.js\n",
-  "\nfunction initProcessOnlyAnimation() {\n\n  // ? HARD STOP ON MOBILE\n  if (window.matchMedia(\"(max-width: 767px)\").matches) {\n    return;\n  }\n\n  // Wait until GSAP plugins are available\n  if (typeof MotionPathPlugin === \"undefined\" || typeof ScrollTrigger === \"undefined\") {\n    setTimeout(initProcessOnlyAnimation, 300);\n    return;\n  }\n\n  gsap.registerPlugin(ScrollTrigger, MotionPathPlugin);\n\n  ScrollTrigger.matchMedia({\n\n    /* =======================\n       ✅ DESKTOP ONLY\n       ======================= */\n    \"(min-width: 768px)\": function () {\n\n      const section = document.querySelector(\"#process-section\");\n      const circles = document.querySelectorAll(\".moving-circle\");\n      const targets = document.querySelectorAll(\"#process-section .target-position\");\n\n      if (!section || circles.length === 0) return;\n\n      const tl = gsap.timeline({\n        scrollTrigger: {\n          trigger: section,\n          start: \"top top\",\n          end: \"+=200%\",\n          scrub: 1.5,\n          pin: true,\n          pinSpacing: true,\n          invalidateOnRefresh: true,\n// \t\t\t\t\tonLeave: () => {\n//       // ? swap balls\n//       gsap.set(\"#process-ball\", {\n//         opacity: 0,\n//         visibility: \"hidden\"\n//       });\n\n//       gsap.set(\"#build-ball\", {\n//     clearProps: \"transform\"\n//   });\n\n//   // Then apply scale\n//   gsap.set(\"#build-ball\", {\n//     opacity: 1,\n//     visibility: \"visible\",\n//     scale: 0.7\n//   });\n//   }\n\t\t\t\t\t// ? scrolling UP back into the pin\n//     onEnterBack: () => {\n// //       gsap.set(\"#build-ball\", {\n// //         opacity: 0,\n// //         visibility: \"hidden\",\n// //         scale: 1\n// //       });\n\n// //       gsap.set(\"#process-ball\", {\n// //         opacity: 1,\n// //         visibility: \"visible\"\n// //       });\n//     }\n        }\n      });\n\n      // INITIAL STATE\n      gsap.set(circles, { y: 0, opacity: 0 });\n\n      // PHASE 0: DROP\n      tl.to(circles, {\n        y: 120,\n        opacity: 1,\n        duration: 0.5,\n        ease: \"power1.out\"\n      });\n\t\t\ttl.to(\"#process-ball\", {\n  opacity: 0,\n  duration: 1,\n  ease: \"power1.out\"\n}, 0.5);\n\n      // PHASE 1: SPREAD TO TARGETS\n      circles.forEach((circle, i) => {\n        const target = targets[i];\n        if (!target) return;\n\n        const p = MotionPathPlugin.getRelativePosition(\n          circle,\n          target,\n          [0.5, 0.5],\n          [0.5, 0.5]\n        );\n\n        tl.to(circle, {\n          x: p.x,\n          y: p.y,\n          duration: 1.2,\n          ease: \"power2.inOut\"\n        }, 0.6);\n      });\n\n//       // PHASE 3.5: 4th BALL EXIT\n//       const fourthCircle = circles[3];\n//       if (fourthCircle) {\n//         tl.to(fourthCircle, {\n//           y: \"+=300\",\n//           scale: 0.6,\n//           opacity: 0,\n//           duration: 2,\n//           ease: \"power3.in\"\n//         }, \">\");\n//       }\n\n//       // FINAL HOLD\n      tl.to({}, { duration: 1 });\n// \t\t\t//       // ? NEW PHASE 2: MOVE DOWN TO CENTER\n// tl.to(circles, {\n//   y: \"+=400\",\n//   duration: 1,\n//   ease: \"power2.inOut\"\n// }, \">+=0.2\");\n    },\n\t\t\n\t\t\n\n    /* =======================\n       ❌ MOBILE ONLY\n       ======================= */\n    \"(max-width: 767px)\": function () {\n\n      // Kill everything GSAP-related\n      ScrollTrigger.getAll().forEach(st => st.kill());\n      gsap.killTweensOf(\"*\");\n      gsap.globalTimeline.clear();\n\n      // Reset animated elements (VERY IMPORTANT)\n      gsap.set(\n        \"#process-section, .moving-circle, .target-position\",\n        { clearProps: \"all\" }\n      );\n    }\n\n  });\n}\n\n// Run on page load\nwindow.addEventListener(\"load\", initProcessOnlyAnimation);\n",
-  "\ngsap.registerPlugin(ScrollTrigger, MotionPathPlugin);\n\nScrollTrigger.matchMedia({\n\n  /* =======================\n     ✅ DESKTOP ONLY\n     ======================= */\n  \"(min-width: 768px)\": function () {\n\n    const master = gsap.timeline({\n      scrollTrigger: {\n        trigger: \".hero-pin\",\n        start: \"top top\",\n        pin: true,\n        end: \"bottom\",\n        pinSpacing: true,\n        scrub: 1.5,\n        anticipatePin: 1,\n        invalidateOnRefresh: true,\n        onLeave: () => {\n          console.log(\"Section Released\");\n        }\n      }\n    });\n\n    // INITIAL STATE\n    gsap.set(\"#hero-ball\", {\n      zIndex: 5,\n      xPercent: -50,\n      yPercent: -50\n    });\n\n    gsap.set(\".frame\", { zIndex: 10 });\n\n    // CONTINUOUS BALL MOTION\n    master.to(\"#hero-ball\", {\n      motionPath: {\n        path: [\n          { x: \"-10vw\", y: \"-5vh\" },\n          { x: \"-25vw\", y: \"0vh\" },\n          { x: \"-35vw\", y: \"10vh\" },\n          { x: \"-35vw\", y: \"50vh\" },\n          { x: \"-35vw\", y: \"95vh\" },\n          { x: \"-35vw\", y: \"130vh\" }\n        ],\n        curviness: 1.5\n      },\n      ease: \"none\",\n      duration: 20\n    }, 0);\n\n    master.set(\".ball-container\", { zIndex: 15 }, 2);\n\n    // PROCESS SECTION HAND-OFF\n    gsap.to(\"#process-ball\", {\n      y: \"160px\",\n      scrollTrigger: {\n        trigger: \"#process-section\",\n        start: \"top 95%\",\n        end: \"top 70%\",\n        scrub: 0.1,\n        invalidateOnRefresh: true\n      },\n      ease: \"none\"\n    });\n  },\n\n  /* =======================\n     ❌ MOBILE ONLY\n     ======================= */\n  \"(max-width: 767px)\": function () {\n\n    // Kill everything\n    ScrollTrigger.getAll().forEach(st => st.kill());\n    gsap.killTweensOf(\"*\");\n    gsap.globalTimeline.clear();\n\n    // Reset ONLY animated elements (important)\n    gsap.set(\n      \"#hero-ball, #process-ball, .hero-pin, .frame, .ball-container\",\n      { clearProps: \"all\" }\n    );\n  }\n\n});\n"
+  "\nfunction initProcessOnlyAnimation() {\n\n  // ? HARD STOP ON MOBILE\n  if (window.matchMedia(\"(max-width: 767px)\").matches) {\n    return;\n  }\n\n  // Wait until GSAP plugins are available\n  if (typeof MotionPathPlugin === \"undefined\" || typeof ScrollTrigger === \"undefined\") {\n    setTimeout(initProcessOnlyAnimation, 300);\n    return;\n  }\n\n  gsap.registerPlugin(ScrollTrigger, MotionPathPlugin);\n\n  ScrollTrigger.matchMedia({\n\n    /* =======================\n       \u2705 DESKTOP ONLY\n       ======================= */\n    \"(min-width: 768px)\": function () {\n\n      const section = document.querySelector(\"#process-section\");\n      const circles = document.querySelectorAll(\".moving-circle\");\n      const targets = document.querySelectorAll(\"#process-section .target-position\");\n\n      if (!section || circles.length === 0) return;\n\n      const tl = gsap.timeline({\n        scrollTrigger: {\n          trigger: section,\n          start: \"top top\",\n          end: \"+=200%\",\n          scrub: 1.5,\n          pin: true,\n          pinSpacing: true,\n          invalidateOnRefresh: true,\n// \t\t\t\t\tonLeave: () => {\n//       // ? swap balls\n//       gsap.set(\"#process-ball\", {\n//         opacity: 0,\n//         visibility: \"hidden\"\n//       });\n\n//       gsap.set(\"#build-ball\", {\n//     clearProps: \"transform\"\n//   });\n\n//   // Then apply scale\n//   gsap.set(\"#build-ball\", {\n//     opacity: 1,\n//     visibility: \"visible\",\n//     scale: 0.7\n//   });\n//   }\n\t\t\t\t\t// ? scrolling UP back into the pin\n//     onEnterBack: () => {\n// //       gsap.set(\"#build-ball\", {\n// //         opacity: 0,\n// //         visibility: \"hidden\",\n// //         scale: 1\n// //       });\n\n// //       gsap.set(\"#process-ball\", {\n// //         opacity: 1,\n// //         visibility: \"visible\"\n// //       });\n//     }\n        }\n      });\n\n      // INITIAL STATE\n      gsap.set(circles, { y: 0, opacity: 0 });\n\n      // PHASE 0: DROP\n      tl.to(circles, {\n        y: 120,\n        opacity: 1,\n        duration: 0.5,\n        ease: \"power1.out\"\n      });\n\t\t\ttl.to(\"#process-ball\", {\n  opacity: 0,\n  duration: 1,\n  ease: \"power1.out\"\n}, 0.5);\n\n      // PHASE 1: SPREAD TO TARGETS\n      circles.forEach((circle, i) => {\n        const target = targets[i];\n        if (!target) return;\n\n        const p = MotionPathPlugin.getRelativePosition(\n          circle,\n          target,\n          [0.5, 0.5],\n          [0.5, 0.5]\n        );\n\n        tl.to(circle, {\n          x: p.x,\n          y: p.y,\n          duration: 1.2,\n          ease: \"power2.inOut\"\n        }, 0.6);\n      });\n\n//       // PHASE 3.5: 4th BALL EXIT\n//       const fourthCircle = circles[3];\n//       if (fourthCircle) {\n//         tl.to(fourthCircle, {\n//           y: \"+=300\",\n//           scale: 0.6,\n//           opacity: 0,\n//           duration: 2,\n//           ease: \"power3.in\"\n//         }, \">\");\n//       }\n\n//       // FINAL HOLD\n      tl.to({}, { duration: 1 });\n// \t\t\t//       // ? NEW PHASE 2: MOVE DOWN TO CENTER\n// tl.to(circles, {\n//   y: \"+=400\",\n//   duration: 1,\n//   ease: \"power2.inOut\"\n// }, \">+=0.2\");\n    },\n\t\t\n\t\t\n\n    /* =======================\n       \u274c MOBILE ONLY\n       ======================= */\n    \"(max-width: 767px)\": function () {\n\n      // Kill everything GSAP-related\n      ScrollTrigger.getAll().forEach(st => st.kill());\n      gsap.killTweensOf(\"*\");\n      gsap.globalTimeline.clear();\n\n      // Reset animated elements (VERY IMPORTANT)\n      gsap.set(\n        \"#process-section, .moving-circle, .target-position\",\n        { clearProps: \"all\" }\n      );\n    }\n\n  });\n}\n\n// Run on page load\nwindow.addEventListener(\"load\", initProcessOnlyAnimation);\n",
+  "\ngsap.registerPlugin(ScrollTrigger, MotionPathPlugin);\n\nScrollTrigger.matchMedia({\n\n  /* =======================\n     \u2705 DESKTOP ONLY\n     ======================= */\n  \"(min-width: 768px)\": function () {\n\n    const master = gsap.timeline({\n      scrollTrigger: {\n        trigger: \".hero-pin\",\n        start: \"top top\",\n        pin: true,\n        end: \"bottom\",\n        pinSpacing: true,\n        scrub: 1.5,\n        anticipatePin: 1,\n        invalidateOnRefresh: true,\n        onLeave: () => {\n          console.log(\"Section Released\");\n        }\n      }\n    });\n\n    // INITIAL STATE\n    gsap.set(\"#hero-ball\", {\n      zIndex: 5,\n      xPercent: -50,\n      yPercent: -50\n    });\n\n    gsap.set(\".frame\", { zIndex: 10 });\n\n    // CONTINUOUS BALL MOTION\n    master.to(\"#hero-ball\", {\n      motionPath: {\n        path: [\n          { x: \"-10vw\", y: \"-5vh\" },\n          { x: \"-25vw\", y: \"0vh\" },\n          { x: \"-35vw\", y: \"10vh\" },\n          { x: \"-35vw\", y: \"50vh\" },\n          { x: \"-35vw\", y: \"95vh\" },\n          { x: \"-35vw\", y: \"130vh\" }\n        ],\n        curviness: 1.5\n      },\n      ease: \"none\",\n      duration: 20\n    }, 0);\n\n    master.set(\".ball-container\", { zIndex: 15 }, 2);\n\n    // PROCESS SECTION HAND-OFF\n    gsap.to(\"#process-ball\", {\n      y: \"160px\",\n      scrollTrigger: {\n        trigger: \"#process-section\",\n        start: \"top 95%\",\n        end: \"top 70%\",\n        scrub: 0.1,\n        invalidateOnRefresh: true\n      },\n      ease: \"none\"\n    });\n  },\n\n  /* =======================\n     \u274c MOBILE ONLY\n     ======================= */\n  \"(max-width: 767px)\": function () {\n\n    // Kill everything\n    ScrollTrigger.getAll().forEach(st => st.kill());\n    gsap.killTweensOf(\"*\");\n    gsap.globalTimeline.clear();\n\n    // Reset ONLY animated elements (important)\n    gsap.set(\n      \"#hero-ball, #process-ball, .hero-pin, .frame, .ball-container\",\n      { clearProps: \"all\" }\n    );\n  }\n\n});\n"
  ],
  "inlineStyles": [
   {
@@ -6659,7 +6665,7 @@
   "--e-global-typography-ecb9a45-line-height": "40px"
  },
  "pageHeight": 7277,
- "bodyText": "About Us\nCase Studies\nContact Us\nDownload Portfoilo\nTrusted by startups to craft 100+ businesses\nWHERE BRANDS\nGAIN MOMENTUM\nWe Craft Stunning Designs For Businesses Worldwide.\nSchedule A Call\nWatch Our Showreel\nTRUSTED BY INDUSTRY LEADERS & FAST-GROWING STARTUPS\nWe Help Businesses Discover\nWho they are\nFrom Unique Strategies to Higher ROI\nDiscover\nWe understand client’s vision, market & audience\nDefine\nWe shape your brand and strategy\nDesign\nWe craft visual experiences\nDrive\nWe launch, measure and optimize for ROI\nWhat we build\nWhat we build goes beyond products. It’s trust, quality, and consistency.\nSTRATEGY\nDigital Strategy\nBrand Positioning\nContent Strategy\nDiscoverability\nDESIGN\nUser Experience (UX)\nWeb Design\nWireframes\nMotion Design\nTECHNOLOGY\nFront End Development\nContent Management\nBack End Development\nOpen-Source Projects\nPERFORMANCE\nSEO Optimization\nConversion Rate Optimization\nSocial Media Campaigns\nWork that speaks\nView All\nUI/UX\n+3\nTREVEX\nFinance\nSocial Media\n+2\nTrade Kings Group\nFMCG\nSocial Media\n+2\nBajaj Housing Finance\nFinance\nCase Studies\nView All\nCASE STUDY: WEBSITE + SOCIAL + PAID\nwebsite users in 2 months\n6,000\n+\nCase Study\nA Seasonal E-commerce Launch in Just 20 Days\nHow an offline florist went from no online presence to a live, revenue-generating store in time for the year’s biggest gifting season.\nRead case study\nCASE STUDY: SOCIAL MEDIA + PAID ADVERTISING\nincrease in sales\n131\n%\nCase Study\nFrom - 50% Ad ROI\nto 200% Growth\nHow a new-to-market snack brand reversed stalled growth by repositioning an unfamiliar product as a healthier choice.\nRead case study\nCASE STUDY: BRANDING + PAID ADVERTISING\nincrease in admissions\n300\n%\nCase Study\nA Category-Defining Brand That Tripled Admissions\nHow a specialist coaching institute out-positioned larger, older competitors — and grew enough to open a new branch.\nRead case study\nVoices of our clients\nOur client’s experiences reflect the trust we build and the value we deliver.\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game…\nThey’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nManish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team’s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA\nChief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA\nAjinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don’t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy\nRahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game…\nThey’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nManish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team’s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA\nChief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA\nAjinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don’t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy\nRahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game…\nThey’re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you’d want in a design firm? I couldn’t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that’s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nPeople Who Make It Happen!\nHave a project in your mind?\nDownload our portfolio and let’s get in touch!\nGet in Touch\nAbout Us\nCase Studies\nContact Us\nFollow us on\nInstagram\nLinkedin-in\nYoutube\nFacebook-f\nDownload Portfolio\nCopyright © 2026 MMAG, All right reserved",
+ "bodyText": "About Us\nCase Studies\nContact Us\nDownload Portfoilo\nTrusted by startups to craft 100+ businesses\nWHERE BRANDS\nGAIN MOMENTUM\nWe Craft Stunning Designs For Businesses Worldwide.\nSchedule A Call\nWatch Our Showreel\nTRUSTED BY INDUSTRY LEADERS & FAST-GROWING STARTUPS\nWe Help Businesses Discover\nWho they are\nFrom Unique Strategies to Higher ROI\nDiscover\nWe understand client\u2019s vision, market & audience\nDefine\nWe shape your brand and strategy\nDesign\nWe craft visual experiences\nDrive\nWe launch, measure and optimize for ROI\nWhat we build\nWhat we build goes beyond products. It\u2019s trust, quality, and consistency.\nSTRATEGY\nDigital Strategy\nBrand Positioning\nContent Strategy\nDiscoverability\nDESIGN\nUser Experience (UX)\nWeb Design\nWireframes\nMotion Design\nTECHNOLOGY\nFront End Development\nContent Management\nBack End Development\nOpen-Source Projects\nPERFORMANCE\nSEO Optimization\nConversion Rate Optimization\nSocial Media Campaigns\nWork that speaks\nView All\nUI/UX\n+3\nTREVEX\nFinance\nSocial Media\n+2\nTrade Kings Group\nFMCG\nSocial Media\n+2\nBajaj Housing Finance\nFinance\nCase Studies\nView All\nCASE STUDY: WEBSITE + SOCIAL + PAID\nwebsite users in 2 months\n6,000\n+\nCase Study\nA Seasonal E-commerce Launch in Just 20 Days\nHow an offline florist went from no online presence to a live, revenue-generating store in time for the year\u2019s biggest gifting season.\nRead case study\nCASE STUDY: SOCIAL MEDIA + PAID ADVERTISING\nincrease in sales\n131\n%\nCase Study\nFrom - 50% Ad ROI\nto 200% Growth\nHow a new-to-market snack brand reversed stalled growth by repositioning an unfamiliar product as a healthier choice.\nRead case study\nCASE STUDY: BRANDING + PAID ADVERTISING\nincrease in admissions\n300\n%\nCase Study\nA Category-Defining Brand That Tripled Admissions\nHow a specialist coaching institute out-positioned larger, older competitors \u2014 and grew enough to open a new branch.\nRead case study\nVoices of our clients\nOur client\u2019s experiences reflect the trust we build and the value we deliver.\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game\u2026\nThey\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nManish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team\u2019s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA\nChief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA\nAjinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don\u2019t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy\nRahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game\u2026\nThey\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nManish Gupta\nFounder of Matr Boomie\nWe started SEO work with MMAG in June 23.\nMMAG team\u2019s has done a great job on SEO work, approaching SEO in a very holistic way. Our Organic traffic has doubled in 6 months and our relevant key words on 1st page has quadrupled. MMAG team is very collaborative, open to ideas and does a great job keeping us updated on progress. We look forward to continuing our work with them and growing our business.\nMatr Boomie - USA\nChief Strategy Officer\nThey produce excellent work that can be be a asset to any organization with teh same needs\nChosen for fit UX and promptness, their team included designers, project managers and developers. The project involves site mapping, Branding, UX design, Development and Launch. Workflow was efficient with daily scrum.\nCloudSufi Tech Company - USA\nAjinkya Harshey\nChief Mentor\nRushikesh is extremely talented individual and the team they have build in MMAG is capable of delivering projects which will yield results. I would recommend them 10/10\nMMag has handled all my digital aspects of business such as Website,Social Media, SEO, Branding and Marketing etc in sufficient and professional way that I don\u2019t have to worry about those aspects anymore and I focus where I need the most.\nARH Design Academy\nRahil Sanghavi\nCFO\nWe have been working with the MMAG for the past years and have been extremely satisfied with results.\nThe team is always responsive and professional and they have provided valuable insights and recommendations to help us continually improve our marketing efforts. We highly recommend MMAG to any business looking to increase their digital presence and reach.\nSyvylyze Analytics\nSebastian Alapatt\nFounder of Spark\nThe guys are top of their game\u2026\nThey\u2019re really able to respond to queries and inquiries right away, take care of bugs, fixes anything you\u2019d want in a design firm? I couldn\u2019t recommend them any more, and I highly, highly suggest you check out their body of work. They are a pleasure to work with and I would recommend them over and over again to anyone that\u2019s looking to take their website, their brand, their company to the next level.\nThe Spark - USA\nPeople Who Make It Happen!\nHave a project in your mind?\nDownload our portfolio and let\u2019s get in touch!\nGet in Touch\nAbout Us\nCase Studies\nContact Us\nFollow us on\nInstagram\nLinkedin-in\nYoutube\nFacebook-f\nDownload Portfolio\nCopyright \u00a9 2026 MMAG, All right reserved",
  "slug": "home",
  "httpStatus": 200,
  "finalUrl": "https://mmag.in/",
