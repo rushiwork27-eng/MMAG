@@ -6,10 +6,30 @@ Every prompt, the approach taken, what went wrong, and what was delivered. Newes
 
 | Version | Date | Prompt in one line | Zip |
 |---|---|---|---|
+| — | 25 Nov 2026 | Run the website on localhost | — (no site change) |
 | v1.0 | 25 Nov 2026 | Build the website: 3D in every section, one horizontal scroll, the live site's forms | [`mmag-website-v1.0.zip`](../releases/mmag-website-v1.0.zip) |
 | — | 25 Nov 2026 | Decide flow and pages (site plan) | — |
 | — | 25 Nov 2026 | Merge the older zip scrape | — |
 | — | 24 Nov 2026 | Scrape and evaluate mmag.in | — |
+
+---
+
+## (no version) · 25 Nov 2026 · Run the website on localhost
+
+**Prompt**
+
+> Run this website in local host as well for me to look
+
+**Approach:** the site runs in a cloud container, whose localhost the user's browser can't reach. Checked for a connected computer (Remote Control): none attached.
+
+**Challenge:** no way to start a server on the user's machine from this session.
+
+**Output:** step-by-step local run instructions:
+- unzip, then `python3 -m http.server 8000` or `npx serve .`
+- open http://localhost:8000
+- noted that forms can't send locally and that double-clicking `index.html` won't work
+
+Alternatives offered: connect the computer via Remote Control, or Netlify Drop for a shareable link. No site change, so no new zip.
 
 ---
 
