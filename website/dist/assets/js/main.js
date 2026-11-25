@@ -39,6 +39,8 @@
   document.addEventListener("click", function (e) {
     var a = e.target.closest("a[href^='tel:']");
     if (a) track("phone_click", { location: a.getAttribute("data-loc") || "page" });
+    var w = e.target.closest("a[data-wa]");
+    if (w) track("whatsapp_click", { location: w.getAttribute("data-wa") });
   });
 
   /* ---------------- smooth scroll ---------------- */
@@ -498,6 +500,49 @@
     });
   });
 
+
+  /* ---------------- image hover preview (project + service rows) ---------------- */
+  function initPreview() {
+    var rows = $$("[data-preview]");
+    if (!rows.length || !finePointer) return;
+    var box = document.createElement("div");
+    box.className = "hover-preview";
+    box.setAttribute("aria-hidden", "true");
+    var pic = document.createElement("img");
+    pic.alt = "";
+    box.appendChild(pic);
+    document.body.appendChild(box);
+    var x = 0, y = 0, cx = 0, cy = 0, raf = null;
+    function loop() {
+      cx += (x - cx) * 0.18; cy += (y - cy) * 0.18;
+      box.style.left = cx + "px"; box.style.top = cy + "px";
+      raf = box.classList.contains("is-on") ? requestAnimationFrame(loop) : null;
+    }
+    rows.forEach(function (row) {
+      row.addEventListener("pointerenter", function (e) {
+        pic.src = row.getAttribute("data-preview");
+        x = cx = e.clientX; y = cy = e.clientY;
+        box.classList.add("is-on");
+        if (!raf) raf = requestAnimationFrame(loop);
+      });
+      row.addEventListener("pointermove", function (e) { x = e.clientX; y = e.clientY; });
+      row.addEventListener("pointerleave", function () { box.classList.remove("is-on"); });
+    });
+  }
+
+  /* ---------------- image parallax + portfolio wall columns ---------------- */
+  function initParallax() {
+    if (!hasGSAP || reduced) return;
+    $$("[data-parallax]").forEach(function (el) {
+      var amount = parseFloat(el.getAttribute("data-parallax")) || -8;
+      gsap.fromTo(el, { yPercent: -amount }, { yPercent: amount, ease: "none", scrollTrigger: { trigger: el.parentElement, start: "top bottom", end: "bottom top", scrub: true } });
+    });
+    $$("[data-wall]").forEach(function (col) {
+      var dir = col.getAttribute("data-wall") === "1" ? 1 : -1;
+      gsap.to(col, { y: dir * 90, ease: "none", scrollTrigger: { trigger: col.parentElement, start: "top bottom", end: "bottom top", scrub: true } });
+    });
+  }
+
   /* ---------------- boot ---------------- */
   initArt();
   transitionIn();
@@ -512,6 +557,8 @@
     initFilters();
     initFaq();
     initPointer();
+    initPreview();
+    initParallax();
     navThemes();
     onScroll();
     if (hasGSAP) {

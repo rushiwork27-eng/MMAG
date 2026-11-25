@@ -15,10 +15,11 @@ window.MMAG_CONFIG = {
   // Leave empty on preview deploys so test traffic doesn't reach the real property.
   ga4Id: "",
 
-  // Contact details (from the live site). Email is pending: the live site shows a staging address.
+  // Contact details (from MMAG's portfolio deck on the live site)
   phone: "+918308852044",
   phoneDisplay: "+91 83088 52044",
-  email: "",
+  email: "rushi@mmag.in",
+  whatsapp: "https://wa.me/918308852044",
 
   // Three.js from a CDN (pinned). Swap the version here if needed.
   threeUrl: "https://cdn.jsdelivr.net/npm/three@0.187.0/build/three.module.js",

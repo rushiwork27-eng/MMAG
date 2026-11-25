@@ -9,6 +9,10 @@ PHONE = "+918308852044"
 PHONE_DISPLAY = "+91 83088 52044"
 MAPS_URL = "https://maps.app.goo.gl/wxVkVbBEvJV89RsL7"
 LOCATION = "Kothrud, Pune"
+# From MMAG's own portfolio deck on the live site (/mmag-portfolio/, "We're all ears!" slide)
+EMAIL = "rushi@mmag.in"
+WHATSAPP = "https://wa.me/918308852044"
+ADDRESS_LINES = ["Office No. 104, Chintamani Pride", "Near City Pride, Kothrud", "Pune, Maharashtra 411038, India"]
 SOCIALS = [
     ("Instagram", "https://www.instagram.com/mmag_india/"),
     ("LinkedIn", "https://www.linkedin.com/company/mmagindia"),
@@ -252,22 +256,7 @@ CASES = [
     },
 ]
 
-# Portfolio projects (live /website-portfolio/ and /mmag-portfolio/ pages, plus Home "Work that speaks").
-# Links are the ones the live portfolio pages use; zen-dale.com (500) and AAP (pending) are excluded.
-PROJECTS = [
-    ("Trade Kings Group", "Social media · FMCG", "https://www.tradekings.co.zm/"),
-    ("Bajaj Housing Finance", "Social media · Finance", "https://www.bajajhousingfinance.in/"),
-    ("Trevex", "UI/UX · Finance", ""),
-    ("Eureka Forbes", "Website", "https://www.eurekaforbes.com/"),
-    ("CloudSufi", "Website · Branding · UX", "https://www.cloudsufi.com/"),
-    ("Matr Boomie", "Website · SEO", "https://matrboomie.com/"),
-    ("Knorr-Bremse", "Website", "https://www.knorr-bremse.com/en/"),
-    ("Suitefy", "Website", "https://suitefy.com/"),
-    ("Suiteearth", "Website", "https://suiteearth.com/"),
-    ("Nealife", "Website", "https://nealife.in/"),
-    ("EquiNext", "Turnkey Solutions · Website", "https://equinextsolution.com/"),
-    ("Yash Group of Industries", "Website · Manufacturing", ""),
-]
+# Portfolio projects now live in images.py (with their images).
 
 # ---------------------------------------------------------------------------
 # Services (5). Headlines and one-liners are NEW copy; deliverables use words

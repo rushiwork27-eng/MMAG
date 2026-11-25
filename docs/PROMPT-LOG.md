@@ -7,6 +7,7 @@ Every prompt, the approach taken, what went wrong, and what was delivered. Newes
 | Version | Date | Prompt in one line | Zip |
 |---|---|---|---|
 | — | 25 Nov 2026 | Run the website on localhost | — (no site change) |
+| v2.0 | 25 Nov 2026 | Use the website's real images and logo; keep all layouts and 3D | [`mmag-website-v2.0.zip`](../releases/mmag-website-v2.0.zip) |
 | v1.0 | 25 Nov 2026 | Build the website: 3D in every section, one horizontal scroll, the live site's forms | [`mmag-website-v1.0.zip`](../releases/mmag-website-v1.0.zip) |
 | — | 25 Nov 2026 | Decide flow and pages (site plan) | — |
 | — | 25 Nov 2026 | Merge the older zip scrape | — |
@@ -30,6 +31,95 @@ Every prompt, the approach taken, what went wrong, and what was delivered. Newes
 - noted that forms can't send locally and that double-clicking `index.html` won't work
 
 Alternatives offered: connect the computer via Remote Control, or Netlify Drop for a shareable link. No site change, so no new zip.
+
+---
+
+## v2.0 · 25 Nov 2026 · Real images and logo in the same layouts
+
+**Prompt**
+
+> Use images from the website. Website should have good numbe of images. The no image file rule was for just the creation of 3D elements. There is no restriction now. I liked the layouts and elements, dont change those but adjust everything wiht images and real logo.
+
+(The first run was interrupted during QA; the user replied "continue" and the work resumed from the same point.)
+
+**Approach**
+
+1. **Inventory.** All images come from the live mmag.in media library captured in `site-audit/assets/media/`.
+   - Each portfolio slide was matched to its client by the client link placed next to it on the live `/mmag-portfolio/` page.
+   - Team photos were matched to names from the live About page's markup, not guessed.
+   - Unclear client names (Mantri Constructions · Casa Jewel, CopilotForce) were read from the slides themselves.
+2. **Registry.** `website/build/images.py` lists every image with its source, output width, alt text and the client it belongs to.
+3. **Pipeline.** The build resizes images to WebP (logos trimmed, transparency kept). It also generates the favicons and a 1200×630 share image.
+4. **Placement.** Same layouts, same 3D scenes, images added inside them:
+   - **Brand:** the real MMAG logo in the header, preloader and footer; PNG favicons; OG/Twitter share image.
+   - **Home:**
+     - the client ring now holds 13 real logos
+     - each service card has a work image
+     - "Work that speaks" carries the live site's 3 thumbnails
+     - the closing panel uses the studio photo
+     - flags beside India · USA
+     - a client logo on every testimonial
+     - the team photo plus a culture-photo strip
+   - **Work:**
+     - a new parallax portfolio wall (15 slides, captioned with the client)
+     - a hover image preview on each project row, with thumbnails on phones
+     - a strip of 16 social reel covers
+   - **Services:**
+     - hub: hover previews on the service rows
+     - each service page: an image in every deliverable card and a "From the portfolio" bento gallery; Social adds the reel strip
+   - **Case studies:** a new "More work like this" row of 3 images from the same service.
+   - **About:**
+     - founder portrait in the empty quote column
+     - photo flip cards for all 5 team members
+     - flags on the location cards
+     - a fanned culture-photo collage
+   - **Contact:** real email, WhatsApp, full address and the studio photo.
+5. **Contact details found.** The "We're all ears!" slide in MMAG's own deck on the live site lists:
+   - email `rushi@mmag.in`
+   - WhatsApp `+91-8308852044`
+   - address: Office No. 104, Chintamani Pride, Near City Pride, Kothrud, Pune 411038
+
+   These are now used across the site, config and structured data. That resolves findings H1/H2 and M8, and decision 7 (WhatsApp number).
+
+**Challenges and fixes**
+
+| Problem | Fix |
+|---|---|
+| The first MMAG logo file had its yellow frame cropped | Switched to the site-icon source, which has the full frame (same as the live header logo) |
+| Long service titles ran into the card image | Wider cards column, image at 42%, smaller title in image cards |
+| On phones the services stack stayed two-column (the new rule outranked the phone rule) | Added the phone override; the image moves above the text |
+| The anonymised case studies probably match named portfolio clients (B2B LinkedIn ≈ Knorr-Bremse, luxury real estate ≈ Mantri Casa Jewel, fair-trade SEO ≈ Matr Boomie) | Kept them anonymous: those clients' images never appear on their matching case-study page |
+
+**Output**
+
+| Item | Value |
+|---|---|
+| Zip | `releases/mmag-website-v2.0.zip` (≈5.4 MB, 89 image files) |
+| Images per page (in the HTML; hover previews load on demand) | Home 42 · Work 64 · About 15 · Service pages ≈11 · Case studies 5 |
+| Layouts / 3D | Unchanged. Every section still has its 3D element; the one horizontal scroll and the forms are the same as v1.0 |
+| Alt text | Descriptive alt text on every content image (the live site was missing it on 93%) |
+
+**Assumptions taken (flag if wrong)**
+
+- Still left out pending decisions:
+  - Aam Aadmi Party: logo and slides.
+  - Zendale: slides.
+- Client names and logos are shown as they appear on the live site; client permission is still decision 3.
+- Case-study clients stay anonymous, as on the live site.
+
+**Needs action before going live** (updated)
+
+1. Portfolio PDF link (`config.js → portfolioUrl`).
+2. Host choice (Netlify forms, or `formEndpoint`).
+3. GA4 ID on production only.
+4. Approvals:
+   - numbers
+   - new copy
+   - privacy text
+   - client logos and work samples
+5. `_redirects` and `sitemap.xml` at cut-over.
+
+The email and WhatsApp number are now set.
 
 ---
 

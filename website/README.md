@@ -1,10 +1,11 @@
 # MMAG website (source)
 
-Static site: HTML, CSS and JS, no framework. Everything is unminified. 3D is Three.js from a CDN; animation is GSAP + Lenis (vendored).
+Static site: HTML, CSS and JS, no framework. Everything is unminified. 3D is Three.js from a CDN; animation is GSAP + Lenis (vendored). Images are the live mmag.in media, resized to WebP at build time (needs Python Pillow).
 
 | Folder | What |
 |---|---|
-| `build/content.py` | All page copy, case studies, services, forms' options. **Edit content here.** |
+| `build/content.py` | All page copy, case studies, services, forms' options, contact details. **Edit content here.** |
+| `build/images.py` | Every image: source file (from `site-audit/assets/media/`), size, alt text, client, and where it is used. **Swap images here.** |
 | `build/build.py` | Generates every page into `dist/` |
 | `build/make_release.sh` | Builds and zips a versioned release into `../releases/` |
 | `src/assets/css/main.css` | All styles (brand tokens at the top) |

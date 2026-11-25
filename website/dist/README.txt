@@ -1,4 +1,4 @@
-MMAG website · build v1.0
+MMAG website · build v2.0
 
 Deploy: upload this folder's contents (or the zip) to any static host. index.html is at the root.
   - Netlify: drag the unzipped folder onto app.netlify.com/drop. Forms work there out of the box.

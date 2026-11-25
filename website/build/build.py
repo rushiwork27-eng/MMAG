@@ -10,8 +10,11 @@ import shutil
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from content import (CASES, CLIENTS, CONTACT_INTERESTS, COUNTRY_CODES, FAQ_COMMON, INQUIRY_OPTIONS, LOCATION,
-                     MAPS_URL, PHONE, PHONE_DISPLAY, PROCESS, PROJECTS, SERVICES, SOCIALS, TEAM, TESTIMONIALS)
+from content import (ADDRESS_LINES, CASES, CONTACT_INTERESTS, COUNTRY_CODES, EMAIL, FAQ_COMMON, INQUIRY_OPTIONS, LOCATION,
+                     MAPS_URL, PHONE, PHONE_DISPLAY, PROCESS, SERVICES, SOCIALS, TEAM, TESTIMONIALS, WHATSAPP)
+from images import (CARD_IMAGES, CASE_SERVICE, CULTURE, HOME_SERVICE_IMAGE, IMAGES, PROJECTS, RING_LOGOS, SERVICE_IMAGES,
+                    SRC_ROOT, TEAM_PHOTOS, TESTIMONIAL_LOGOS, WALL)
+from PIL import Image, ImageChops
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..", "src")
@@ -27,10 +30,70 @@ ARROW_UR = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-wi
 CLOSE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>'
 PREV = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M11 6l-6 6 6 6"/></svg>'
 NEXT = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>'
-FAVICON = ("data:image/svg+xml," + "%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E"
-           "%3Crect width='64' height='64' fill='%23F3C01F'/%3E%3Crect x='5' y='5' width='54' height='54' fill='none' stroke='%23111' stroke-width='3'/%3E"
-           "%3Ctext x='32' y='30' font-family='Arial Black,Arial' font-weight='900' font-size='19' text-anchor='middle' fill='%23111'%3EMM%3C/text%3E"
-           "%3Ctext x='32' y='50' font-family='Arial Black,Arial' font-weight='900' font-size='19' text-anchor='middle' fill='%23111'%3EAG%3C/text%3E%3C/svg%3E")
+WA_ICON = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm5.3 14.2c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-3.3-.8-2.8-1.1-4.5-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 1-2.3c.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c.1.2.1.4 0 .5l-.4.6-.3.4c-.1.1-.2.3-.1.5.2.3.7 1.1 1.4 1.8.9.8 1.7 1.1 2 1.2.2.1.4.1.5-.1l.7-.9c.2-.2.3-.2.5-.1l1.9.9c.3.1.4.2.5.3.1.2.1.8-.1 1.4z"/></svg>'
+
+# image key -> (file name, width, height, alt); filled by process_images()
+IMG = {}
+# image key -> case slugs it must not appear on (case studies stay anonymous)
+IMAGE_AVOID = {k: set(avoid) for _, _, _, keys, avoid in PROJECTS for k in keys}
+
+
+def process_images():
+    """Copy and resize the live site's images into dist/assets/img as WebP (logos keep transparency)."""
+    out_dir = os.path.join(DIST, "assets", "img")
+    os.makedirs(out_dir, exist_ok=True)
+    for key, (src, width, alt, mode) in IMAGES.items():
+        path = os.path.normpath(os.path.join(HERE, SRC_ROOT, src))
+        if mode == "svg":
+            shutil.copy(path, os.path.join(out_dir, key + ".svg"))
+            IMG[key] = (key + ".svg", None, None, alt)
+            continue
+        im = Image.open(path)
+        if mode == "og":
+            im = im.convert("RGB")
+            w, h = im.size
+            target = 1200 / 630
+            if w / h > target:
+                nw = int(h * target)
+                im = im.crop(((w - nw) // 2, 0, (w - nw) // 2 + nw, h))
+            else:
+                nh = int(w / target)
+                im = im.crop((0, (h - nh) // 2, w, (h - nh) // 2 + nh))
+            im = im.resize((1200, 630), Image.LANCZOS)
+            im.save(os.path.join(out_dir, "og.jpg"), quality=82, optimize=True)
+            IMG[key] = ("og.jpg", 1200, 630, alt)
+            continue
+        if mode == "logo":
+            im = im.convert("RGBA")
+            flat = Image.alpha_composite(Image.new("RGBA", im.size, (255, 255, 255, 255)), im).convert("L")
+            ink = flat.point(lambda v: 255 if v < 238 else 0)
+            solid = im.split()[3].point(lambda v: 255 if v > 24 else 0)
+            box = ImageChops.multiply(ink, solid).getbbox()
+            if box:
+                pad = max(2, int(max(im.size) * 0.03))
+                im = im.crop((max(0, box[0] - pad), max(0, box[1] - pad), min(im.width, box[2] + pad), min(im.height, box[3] + pad)))
+        else:
+            im = im.convert("RGB")
+        if width and im.width > width:
+            im = im.resize((width, round(im.height * width / im.width)), Image.LANCZOS)
+        name = key + ".webp"
+        im.save(os.path.join(out_dir, name), "WEBP", quality=90 if mode == "logo" else 72, method=6)
+        IMG[key] = (name, im.width, im.height, alt)
+    logo = Image.open(os.path.normpath(os.path.join(HERE, SRC_ROOT, IMAGES["mmag-logo"][0]))).convert("RGB")
+    for size, name in ((32, "favicon-32.png"), (180, "apple-touch-icon.png"), (192, "icon-192.png")):
+        logo.resize((size, size), Image.LANCZOS).save(os.path.join(out_dir, name))
+
+
+def img(p, key, cls="", alt=None, loading="lazy", attrs=""):
+    name, w, h, default_alt = IMG[key]
+    alt = default_alt if alt is None else alt
+    size = f' width="{w}" height="{h}"' if w else ""
+    klass = f' class="{cls}"' if cls else ""
+    return f'<img{klass} src="{p.root}assets/img/{name}"{size} alt="{E(alt)}" loading="{loading}" decoding="async"{attrs}>'
+
+
+def img_url(p, key):
+    return f"{p.root}assets/img/{IMG[key][0]}"
 
 
 # ---------------------------------------------------------------------------
@@ -89,10 +152,15 @@ def head(p, title, desc, canonical_path, extra=""):
   <meta property="og:title" content="{E(title)}">
   <meta property="og:description" content="{E(desc)}">
   <meta property="og:url" content="{canonical}">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="{SITE}/assets/img/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#54078B">
   <meta name="generator" content="MMAG site build {E(VERSION)}">
-  <link rel="icon" href="{FAVICON}">
+  <link rel="icon" href="{p.root}assets/img/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="{p.root}assets/img/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="{p.root}assets/img/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
@@ -122,6 +190,7 @@ def header(p, current):
     return f"""<body>
 <a class="skip" href="#main">Skip to content</a>
 <div class="preloader" aria-hidden="true">
+  {img(p, "mmag-logo", "preloader__logo", alt="", loading="eager")}
   <div class="preloader__count">0</div>
   <p class="preloader__word">Where brands gain momentum</p>
 </div>
@@ -131,7 +200,7 @@ def header(p, current):
 
 <header class="nav" data-theme="dark">
   <a class="brand" href="{p.url('')}" aria-label="MMAG home">
-    <span class="mark" aria-hidden="true"><span>MM</span><span>AG</span></span>
+    {img(p, "mmag-logo", "brand__logo", alt="MMAG", loading="eager")}
   </a>
   <nav class="nav__links" aria-label="Main">
     {link('work/', 'Work')}
@@ -152,6 +221,8 @@ def header(p, current):
   <div class="btns"><button class="btn" type="button" data-open="call">Schedule a Call {ARROW}</button></div>
   <div class="menu__meta">
     <a href="tel:{PHONE}" data-loc="menu">{PHONE_DISPLAY}</a>
+    <a href="mailto:{EMAIL}">{EMAIL}</a>
+    <a href="{WHATSAPP}" target="_blank" rel="noopener" data-wa="menu">WhatsApp us</a>
     <span>{LOCATION}</span>
   </div>
 </div>
@@ -173,14 +244,17 @@ def footer(p):
     </div>
     <div class="footer__grid">
       <div>
-        <h3>MMAG</h3>
+        {img(p, "mmag-logo", "footer__logo", alt="MMAG")}
         <p class="footer__note">A Pune-born creative agency building brands and digital experiences that convert; for India and the world.</p>
+        <address class="footer__note">MMAG, {'<br>'.join(E(x) for x in ADDRESS_LINES)}</address>
       </div>
       <div><h3>Work</h3><ul>{cases}<li><a href="{p.url('work/')}">All work</a></li></ul></div>
       <div><h3>Services</h3><ul>{services}</ul></div>
       <div><h3>Contact</h3><ul>
         <li><a href="tel:{PHONE}" data-loc="footer">{PHONE_DISPLAY}</a></li>
-        <li><a href="{MAPS_URL}" target="_blank" rel="noopener">{LOCATION}</a></li>
+        <li><a href="mailto:{EMAIL}">{EMAIL}</a></li>
+        <li><a href="{WHATSAPP}" target="_blank" rel="noopener" data-wa="footer">WhatsApp</a></li>
+        <li><a href="{MAPS_URL}" target="_blank" rel="noopener">Find us on Google Maps</a></li>
         {socials}
       </ul></div>
     </div>
@@ -334,6 +408,7 @@ def tail(p):
     return f"""{modals(p)}
 <div class="mobile-bar">
   <a href="tel:{PHONE}" data-loc="mobile-bar">Call</a>
+  <a href="{WHATSAPP}" target="_blank" rel="noopener" data-wa="mobile-bar" aria-label="WhatsApp">{WA_ICON}<span>WhatsApp</span></a>
   <button type="button" data-open="call">Schedule a Call</button>
 </div>
 
@@ -422,9 +497,10 @@ def build_page(path, title, desc, canonical, current, body, extra_head=""):
 # pages
 # ---------------------------------------------------------------------------
 def home(p):
-    ring = "".join(f'<li class="ring__item" style="--i:{i}">{E(n)}</li>' for i, n in enumerate(CLIENTS))
+    ring = "".join(f'<li class="ring__item" style="--i:{i}">{img(p, k)}</li>' for i, k in enumerate(RING_LOGOS))
     cards = "".join(f"""
-        <article class="card">
+        <article class="card card--media">
+          <figure class="card__media">{img(p, HOME_SERVICE_IMAGE[s['slug']])}</figure>
           <div class="card__top"><span class="card__n">0{i + 1}</span><a class="link-arrow" href="{p.url('services/' + s['slug'] + '/')}">Explore {ARROW}</a></div>
           <div class="stack-gap">
             <h3 class="card__title">{E(s['name'])}</h3>
@@ -447,8 +523,9 @@ def home(p):
     quotes = "".join(f"""
           <blockquote class="quote{' is-active' if i == 0 else ''}">
             <p>{E(t['quote'])}</p>
-            <footer><b>{E(t['name'])}</b><span>{E(', '.join(x for x in [t['role'], t['org']] if x))}</span></footer>
+            <footer>{img(p, TESTIMONIAL_LOGOS[i], "quote__logo")}<b>{E(t['name'])}</b><span>{E(', '.join(x for x in [t['role'], t['org']] if x))}</span></footer>
           </blockquote>""" for i, t in enumerate(TESTIMONIALS))
+    culture_imgs = "".join(img(p, k) for k in CULTURE)
 
     out = []
     out.append(section("dark", f"""    <div class="hero__top">
@@ -468,7 +545,7 @@ def home(p):
       <p class="eyebrow">Trusted by industry leaders &amp; fast-growing startups</p>
       <h2 class="h2 balance" data-split>Brands that moved with us</h2>
     </div>
-    <div class="ring-stage" aria-label="Clients"><ul class="ring" style="--n:{len(CLIENTS)}">{ring}</ul></div>""", "clients", label="Clients"))
+    <div class="ring-stage" aria-label="Clients"><ul class="ring" style="--n:{len(RING_LOGOS)}">{ring}</ul></div>""", "clients", label="Clients"))
 
     out.append(section("paper2", """    <div class="stack-gap">
       <p class="eyebrow">What we do</p>
@@ -502,9 +579,11 @@ def home(p):
           <h2 class="display" style="font-size:clamp(3rem,8vw,8rem)">Work that speaks</h2>
           <p class="lead">Seven stories, each told in the number that mattered to the client.</p>
           <a class="link-arrow" href="{p.url('work/')}">All work {ARROW}</a>
+          <div class="hz__thumbs" aria-label="Selected work">{img(p, "thumb-trevex")}{img(p, "thumb-tradekings")}{img(p, "thumb-bajaj")}</div>
         </div>
       </article>{panels}
-      <article class="hz__panel hz__panel--intro">
+      <article class="hz__panel hz__panel--intro hz__panel--photo">
+        {img(p, "team-at-work", "hz__photo", alt="")}
         <div class="hz__body">
           <h3 class="h2">Your brand next?</h3>
           <div class="btns"><button class="btn" type="button" data-open="call" data-magnetic>Schedule a Call {ARROW}</button></div>
@@ -523,7 +602,7 @@ def home(p):
     </div>
     <div class="numbers">
       <div class="number" data-reveal><b><span data-count="50">50</span>+</b><span>Clients across our industries</span></div>
-      <div class="number number--text" data-reveal="0.08"><b>India · USA</b><span>Global reach, local roots</span></div>
+      <div class="number number--text" data-reveal="0.08"><b><span class="flags">{img(p, "flag-india", alt="India")}{img(p, "flag-usa", alt="USA")}</span>India · USA</b><span>Global reach, local roots</span></div>
       <div class="number" data-reveal="0.16"><b><span data-count="8">8</span>+ yrs</b><span>Building brands that last</span></div>
     </div>""", "numbers-sec", scene("globe", "scene--right", x=0.6), label="Numbers"))
 
@@ -543,15 +622,22 @@ def home(p):
       </div>
     </div>""", "testimonials", scene("rings", "scene--far", x=0.6), label="Testimonials"))
 
-    out.append(section("dark", f"""    <div class="stack-gap" style="max-width:760px">
-      <p class="eyebrow">People who make it happen</p>
-      <h2 class="h2" data-split>A tight-knit team, obsessed with one thing</h2>
-      <p class="lead" data-reveal>Strategists, designers, developers and storytellers, all working to make your brand impossible to ignore.</p>
-      <a class="link-arrow" href="{p.url('about-us/')}" data-reveal>Meet the team {ARROW}</a>
+    out.append(section("dark", f"""    <div class="teaser-grid">
+      <div class="stack-gap" style="max-width:760px">
+        <p class="eyebrow">People who make it happen</p>
+        <h2 class="h2" data-split>A tight-knit team, obsessed with one thing</h2>
+        <p class="lead" data-reveal>Strategists, designers, developers and storytellers, all working to make your brand impossible to ignore.</p>
+        <a class="link-arrow" href="{p.url('about-us/')}" data-reveal>Meet the team {ARROW}</a>
+      </div>
+      <figure class="teaser-img" data-reveal>{img(p, "team-at-work", attrs=' data-parallax="-8"')}</figure>
     </div>
     <div class="marquee" aria-hidden="true" style="margin-top:clamp(40px,8vh,90px)">
       <div class="marquee__inner"><span>Strategists</span><span>Designers</span><span>Developers</span><span>Storytellers</span></div>
       <div class="marquee__inner"><span>Strategists</span><span>Designers</span><span>Developers</span><span>Storytellers</span></div>
+    </div>
+    <div class="photo-marquee" aria-label="Life at MMAG">
+      <div class="photo-marquee__inner">{culture_imgs}</div>
+      <div class="photo-marquee__inner" aria-hidden="true">{culture_imgs}</div>
     </div>""", "team-teaser", scene("confetti", "", count=220), label="Team"))
 
     out.append(cta_section(p))
@@ -565,10 +651,20 @@ def work_hub(p):
                ("industry:retail", "Retail"), ("loc:india", "India"), ("loc:international", "International")]
     fbtn = "".join(f'<button class="filter" type="button" data-filter="{k}" aria-pressed="{"true" if k == "all" else "false"}">{E(v)}</button>' for k, v in filters)
     cards = "".join(case_card(p, c) for c in CASES)
-    projects = "".join(
-        (f'<a class="project" href="{u}" target="_blank" rel="noopener" data-cursor="Visit"><span class="project__name">{E(n)}</span><span class="project__tags">{E(t)}</span>{ARROW_UR}</a>'
-         if u else f'<div class="project"><span class="project__name">{E(n)}</span><span class="project__tags">{E(t)}</span><span></span></div>')
-        for n, t, u in PROJECTS)
+    def project_row(n, t, u, keys):
+        thumb = img(p, keys[0], "project__thumb", alt="")
+        inner = f'{thumb}<span class="project__name">{E(n)}</span><span class="project__tags">{E(t)}</span>'
+        prev = f' data-preview="{img_url(p, keys[0])}"'
+        if u:
+            return f'<a class="project" href="{u}" target="_blank" rel="noopener" data-cursor="Visit"{prev}>{inner}{ARROW_UR}</a>'
+        return f'<div class="project"{prev}>{inner}<span></span></div>'
+    projects = "".join(project_row(n, t, u, keys) for n, t, u, keys, _ in PROJECTS)
+    owner = {k: n for n, _, _, keys, _ in PROJECTS for k in keys}
+    wall = "".join(
+        f'<div class="wall__col" data-wall="{ci}">' + "".join(
+            f'<figure class="wall__item">{img(p, k)}<figcaption>{E(owner.get(k, "MMAG"))}</figcaption></figure>' for k in col) + "</div>"
+        for ci, col in enumerate(WALL))
+    reels = "".join(img(p, f"reel-{k}") for k in range(16))
     out = [section("dark", f"""    <nav class="crumbs" aria-label="Breadcrumb"><a href="{p.url('')}">Home</a><span>/</span><span>Work</span></nav>
     <h1 class="page-hero__title" data-split>Work that speaks</h1>
     <p class="lead" data-reveal>Case studies measured in the numbers that mattered, and a wall of brands we’ve built for.</p>""",
@@ -581,11 +677,20 @@ def work_hub(p):
     </div>
     <div class="work-grid">{cards}
     </div>""", "work-sec s--auto", scene("wave", "scene--bottom", amp=0.6), label="Case studies"))
+    out.append(section("deep", f"""    <div class="stack-gap" style="max-width:820px">
+      <p class="eyebrow">Portfolio</p>
+      <h2 class="h2" data-split>Websites, campaigns and content, made for real brands</h2>
+    </div>
+    <div class="wall">{wall}</div>""", "wall-sec", scene("ribbons", "", count=5, y=-2.6, opacity=0.5), label="Portfolio wall"))
     out.append(section("dark", f"""    <div class="stack-gap" style="max-width:760px">
       <p class="eyebrow">More projects</p>
       <h2 class="h2" data-split>Brands we’ve designed, built and grown</h2>
     </div>
-    <div class="projects">{projects}</div>""", "projects-sec", scene("ribbons", "", count=5, y=1.6, opacity=0.6), label="More projects"))
+    <div class="projects">{projects}</div>
+    <div class="reels" aria-label="Social media reels for Bajaj Housing Finance and Trade Kings Group">
+      <div class="reels__inner">{reels}</div>
+      <div class="reels__inner" aria-hidden="true">{reels}</div>
+    </div>""", "projects-sec", scene("ribbons", "", count=5, y=1.6, opacity=0.6), label="More projects"))
     out.append(cta_section(p, "Your brand could be next", "Tell us where you want to grow. We’ll show you how we’d get there."))
     return "".join(out)
 
@@ -641,6 +746,17 @@ def case_page(c, i):
       <h2 class="h2" data-split>The Results</h2>
       <ul class="results" data-reveal>{results}</ul>
     </div>""", "results-sec", scene("rings", "scene--far", x=0.6), label="The results"))
+        svc = CASE_SERVICE[c["slug"]]
+        picks = [(k, cap) for k, cap in SERVICE_IMAGES[svc] if c["slug"] not in IMAGE_AVOID.get(k, set())][:3]
+        svc_name = next(x["name"] for x in SERVICES if x["slug"] == svc)
+        more = "".join(f'<figure class="gallery__item" data-tilt>{img(p, k)}<figcaption>{E(cap)}</figcaption></figure>' for k, cap in picks)
+        out.append(section("light", f"""    <div class="stack-gap" style="max-width:820px">
+      <p class="eyebrow">More {E(svc_name.lower())} from MMAG</p>
+      <h2 class="h2" data-split>More work like this</h2>
+      <p class="muted" data-reveal>Other projects from our portfolio. The client in this case study stays anonymous.</p>
+    </div>
+    <div class="gallery gallery--3">{more}</div>
+    <a class="link-arrow" href="{p.url('services/' + svc + '/')}" data-reveal style="margin-top:28px">{E(svc_name)} {ARROW}</a>""", "more-sec s--auto", scene("wave", "scene--bottom", amp=0.6), label="More work like this"))
         out.append(section("yellow", f"""    <a class="next-case" href="{p.url('work/' + nxt['slug'] + '/')}" data-cursor="Next">
       <span class="eyebrow">Next case study · {E(nxt['kicker'])}</span>
       <span class="next-case__title" data-split>{E(nxt['title'])}</span>
@@ -656,7 +772,7 @@ def case_page(c, i):
 
 def services_hub(p):
     rows = "".join(f"""
-      <a class="svc-row" href="{p.url('services/' + s['slug'] + '/')}" data-cursor="Open">
+      <a class="svc-row" href="{p.url('services/' + s['slug'] + '/')}" data-cursor="Open" data-preview="{img_url(p, HOME_SERVICE_IMAGE[s['slug']])}">
         <span class="svc-row__n">0{i + 1}</span>
         <span class="svc-row__name">{E(s['name'])}</span>
         <span class="svc-row__line">{E(s['line'])}</span>
@@ -681,7 +797,8 @@ def services_hub(p):
 def service_page(s):
     def body(p):
         cards = "".join(f"""
-        <article class="card">
+        <article class="card card--media">
+          <figure class="card__media">{img(p, CARD_IMAGES[s['slug']][k])}</figure>
           <div class="card__top"><span class="card__n">0{k + 1}</span></div>
           <div class="stack-gap">
             <h3 class="card__title">{E(t)}</h3>
@@ -690,6 +807,12 @@ def service_page(s):
           <ul class="card__list">{''.join(f'<li>{E(x)}</li>' for x in chips)}</ul>
         </article>""" for k, (t, line, chips) in enumerate(s["cards"]))
         related = "".join(case_card(p, CASE_BY[slug]) for slug in s["cases"])
+        gallery = "".join(f'<figure class="gallery__item" data-tilt>{img(p, k)}<figcaption>{E(cap)}</figcaption></figure>' for k, cap in SERVICE_IMAGES[s["slug"]])
+        reels = ""
+        if s["slug"] == "social-media-marketing":
+            rr = "".join(img(p, f"reel-{k}") for k in range(16))
+            reels = f'<div class="reels" aria-label="Social media reels"><div class="reels__inner">{rr}</div><div class="reels__inner" aria-hidden="true">{rr}</div></div>'
+
         others = "".join(f'<a class="chip" href="{p.url("services/" + o["slug"] + "/")}">{E(o["name"])}</a>' for o in SERVICES if o["slug"] != s["slug"])
         out = [section("dark", f"""    <nav class="crumbs" aria-label="Breadcrumb"><a href="{p.url('')}">Home</a><span>/</span><a href="{p.url('services/')}">Services</a><span>/</span><span>{E(s['short'])}</span></nav>
     <p class="eyebrow">{E(s['name'])}</p>
@@ -712,7 +835,13 @@ def service_page(s):
       <h2 class="h2" data-split>Proof, not promises</h2>
     </div>
     <div class="work-grid">{related}
-    </div>""", "work-sec s--auto", scene("wave", "scene--bottom", amp=0.6), attrs=' id="related"', label="Related work"))
+    </div>
+    <div class="stack-gap" style="max-width:820px;margin-top:clamp(48px,9vh,110px)">
+      <p class="eyebrow">From the portfolio</p>
+      <h3 class="h3" data-split>{E(s['name'])} we’ve delivered</h3>
+    </div>
+    <div class="gallery">{gallery}</div>
+    {reels}""", "work-sec s--auto", scene("wave", "scene--bottom", amp=0.6), attrs=' id="related"', label="Related work"))
         out.append(steps_section("dark"))
         out.append(faq_section([s["faq"]] + FAQ_COMMON))
         out.append(section("deep", f"""    <div class="stack-gap">
@@ -728,9 +857,9 @@ def service_page(s):
 def about(p):
     team = "".join(f"""
       <div class="member" tabindex="0">
-        <div class="member__face">
-          <span class="member__initials">{E(''.join(w[0] for w in n.split()[:2]))}</span>
-          <div><p class="member__name">{E(n)}</p><p class="member__role">{E(r)}</p></div>
+        <div class="member__face member__face--photo">
+          {img(p, TEAM_PHOTOS[n], "member__photo")}
+          <div class="member__label"><p class="member__name">{E(n)}</p><p class="member__role">{E(r)}</p></div>
         </div>
         <div class="member__face member__face--back">
           <span class="member__initials">{E(''.join(w[0] for w in n.split()[:2]))}</span>
@@ -755,15 +884,15 @@ def about(p):
       <div class="number" data-reveal="0.16"><b>2</b><span>Countries: India &amp; USA</span></div>
     </div>
     <div class="locations" style="max-width:820px">
-      <div class="location" data-reveal><b>India</b><p class="muted">Headquartered in Kothrud, Pune. Serving brands across Real Estate, HealthCare, FMCG, Tech &amp; Manufacturing.</p><div class="hz__meta"><span class="chip">Pune HQ</span><span class="chip">Pan-India clients</span></div></div>
-      <div class="location" data-reveal="0.1"><b>USA</b><p class="muted">Trusted by brands in the USA — CloudSufi, The Spark, Matr Boomie. Delivering world-class output at a fraction of US agency cost.</p><div class="hz__meta"><span class="chip">USA clients</span><span class="chip">Remote first</span></div></div>
+      <div class="location" data-reveal>{img(p, "flag-india", "location__flag", alt="")}<b>India</b><p class="muted">Headquartered in Kothrud, Pune. Serving brands across Real Estate, HealthCare, FMCG, Tech &amp; Manufacturing.</p><div class="hz__meta"><span class="chip">Pune HQ</span><span class="chip">Pan-India clients</span></div></div>
+      <div class="location" data-reveal="0.1">{img(p, "flag-usa", "location__flag", alt="")}<b>USA</b><p class="muted">Trusted by brands in the USA — CloudSufi, The Spark, Matr Boomie. Delivering world-class output at a fraction of US agency cost.</p><div class="hz__meta"><span class="chip">USA clients</span><span class="chip">Remote first</span></div></div>
     </div>""", "where-sec", scene("globe", "scene--right", x=1.1), label="Where we work"))
     out.append(section("paper2", f"""    <div class="founder">
       <blockquote>
         <p data-split>I started MMAG because I saw great products failing due to bad branding. We exist to fix that by combining strategy, design, and tech to give brands the unfair advantage they deserve.</p>
         <footer data-reveal><b>Rushikesh Kate</b><span class="muted">Founder &amp; CEO</span></footer>
       </blockquote>
-      <div></div>
+      <figure class="founder__photo" data-reveal>{img(p, "p-rushikesh", attrs=' data-parallax="-6"')}</figure>
     </div>""", "founder-sec", scene("ribbons", "", count=6, y=-1.8), label="Founder"))
     out.append(section("dark", f"""    <div class="stack-gap" style="max-width:900px">
       <p class="eyebrow">The team</p>
@@ -782,7 +911,8 @@ def about(p):
       <h2 class="display" style="font-size:clamp(3rem,9vw,9rem)" data-split>Work hard. Celebrate harder.</h2>
       <p class="lead" data-reveal>Capturing the moments that make our culture vibrant and unique.</p>
       <p data-reveal>Designers, developers, strategists and storytellers: if you want to join us, <a href="{p.url('contact-us/')}">tell us what you’d bring</a>.</p>
-    </div>""", "culture-sec", scene("confetti", "", count=260), label="Culture and careers"))
+    </div>
+    <div class="collage" data-reveal>{''.join(f'<figure class="collage__item" style="--k:{k}">{img(p, key)}</figure>' for k, key in enumerate(CULTURE))}</div>""", "culture-sec", scene("confetti", "", count=260), label="Culture and careers"))
     out.append(cta_section(p))
     return "".join(out)
 
@@ -804,7 +934,10 @@ def contact(p):
       </div>
       <aside class="contact-side" aria-label="Contact details">
         <div class="contact-item"><span>Call</span><a href="tel:{PHONE}" data-loc="contact">{PHONE_DISPLAY}</a></div>
-        <div class="contact-item"><span>Visit</span><a href="{MAPS_URL}" target="_blank" rel="noopener">{LOCATION} ↗</a></div>
+        <div class="contact-item"><span>Email</span><a href="mailto:{EMAIL}">{EMAIL}</a></div>
+        <div class="contact-item"><span>WhatsApp</span><a href="{WHATSAPP}" target="_blank" rel="noopener" data-wa="contact">Chat with us ↗</a></div>
+        <div class="contact-item"><span>Visit</span><a href="{MAPS_URL}" target="_blank" rel="noopener">MMAG, {'<br>'.join(E(x) for x in ADDRESS_LINES)} ↗</a></div>
+        <figure class="contact-photo">{img(p, "team-at-work", alt="The MMAG studio in Kothrud, Pune")}</figure>
         <div class="contact-item"><span>Follow</span><div class="hz__meta">{socials}</div></div>
         {scene("globe", "scene--box")}
       </aside>
@@ -815,12 +948,12 @@ def contact(p):
 
 def privacy(p):
     secs = [
-        ("who", "Who we are", "<p>MMAG is a creative agency based in Kothrud, Pune, India. This policy covers the information you share through this website.</p>"),
+        ("who", "Who we are", "<p>MMAG is a creative agency at Office No. 104, Chintamani Pride, Near City Pride, Kothrud, Pune 411038, India. This policy covers the information you share through this website.</p>"),
         ("what", "What we collect", "<ul><li>Download Portfolio and Schedule a Call forms: name, email, phone number, organization, inquiry type and your message.</li><li>Contact form: full name, work email, contact number, the services you tick and your project brief.</li><li>If analytics is switched on: anonymous usage data from Google Analytics 4.</li></ul>"),
         ("why", "Why we use it", "<p>To reply to your enquiry, send you our portfolio, arrange a call, and understand which pages help visitors. We do not sell your information.</p>"),
         ("where", "Where it goes", "<p>Form submissions are delivered to our team through the form-processing service used by our web host. [To be confirmed: name of the service and storage location.]</p>"),
         ("keep", "How long we keep it", "<p>[To be confirmed with management: retention period for enquiries.]</p>"),
-        ("rights", "Your choices", "<p>You can ask us to show, correct or delete the information you shared. Contact us using the details on our <a href=\"" + p.url("contact-us/") + "\">contact page</a>.</p>"),
+        ("rights", "Your choices", "<p>You can ask us to show, correct or delete the information you shared. Write to <a href=\"mailto:" + EMAIL + "\">" + EMAIL + "</a> or use the details on our <a href=\"" + p.url("contact-us/") + "\">contact page</a>.</p>"),
         ("cookies", "Cookies and storage", "<p>The site itself sets no cookies. It stores two short-lived flags in your browser session to skip the intro animation on later pages. Google Analytics, if switched on, sets its own cookies.</p>"),
     ]
     toc = "".join(f'<a href="#{k}">{E(t)}</a>' for k, t, _ in secs)
@@ -853,8 +986,10 @@ def not_found(p):
 def org_jsonld():
     data = {
         "@context": "https://schema.org", "@type": "ProfessionalService", "name": "MMAG", "url": SITE + "/",
-        "telephone": "+91-8308852044", "areaServed": ["India", "United States"],
-        "address": {"@type": "PostalAddress", "addressLocality": "Kothrud, Pune", "addressRegion": "Maharashtra", "addressCountry": "IN"},
+        "telephone": "+91-8308852044", "email": EMAIL, "areaServed": ["India", "United States"],
+        "logo": SITE + "/assets/img/" + IMG["mmag-logo"][0], "image": SITE + "/assets/img/og.jpg",
+        "address": {"@type": "PostalAddress", "streetAddress": "Office No. 104, Chintamani Pride, Near City Pride", "addressLocality": "Kothrud, Pune",
+                    "postalCode": "411038", "addressRegion": "Maharashtra", "addressCountry": "IN"},
         "sameAs": [u for _, u in SOCIALS],
         "description": "Creative agency in Pune: branding, websites, SEO, social media and performance marketing.",
     }
@@ -865,6 +1000,7 @@ def main():
     if os.path.exists(DIST):
         shutil.rmtree(DIST)
     shutil.copytree(os.path.join(SRC, "assets"), os.path.join(DIST, "assets"))
+    process_images()
 
     build_page("", "MMAG · Creative Agency in Pune for Brands, Websites & Growth",
                "MMAG is a creative agency in Pune building brands, websites, SEO, social media and performance marketing for businesses in India and the USA.",
