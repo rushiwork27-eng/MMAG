@@ -1,0 +1,11 @@
+# Old mmag.in URLs → new structure (Netlify / Cloudflare Pages format)
+/case-studies/zendale/            /work/      302
+/case-studies/yash-industries/    /work/      301
+/case-studies/equinext/           /work/      301
+/case-studies/                    /work/      301
+/case-studies/*                   /work/:splat 301
+/work/zendale/                    /work/      302
+/mmag-portfolio/                  /work/      301
+/website-portfolio/               /work/      301
+/under-development/               /           301
+/hello-world/                     /           301
